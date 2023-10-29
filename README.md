@@ -1,4 +1,4 @@
-# gis-repository
+# Alfobre GIS Repository
 Geographic Information System data repository. 
 
 Main focus is on HGIS (Historical GIS) and Portugal.
