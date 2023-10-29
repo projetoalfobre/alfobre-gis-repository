@@ -1,7 +1,6 @@
 # gis-repository
 Geographic Information System data repository. 
 
-Main focus on HGIS (Historical GIS).
+Main focus is on HGIS (Historical GIS) and Portugal.
 
-Check data sources for copyright.
-
+Please check data sources for copyright.
