@@ -1,5 +1,5 @@
 # gis-repository
-Our personal Geographic Information System data repository. 
+Our Geographic Information System data repository. 
 
 Main focus on HGIS (Historical GIS).
 
