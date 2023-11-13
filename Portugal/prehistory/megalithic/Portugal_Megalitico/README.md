@@ -1,7 +1,7 @@
-# Megalithic heritage in Portugal
+# Megalithic heritage in Portugal from Portugal Megalítico
 
 ## DESCRIPTION
-Megalithic sites and museums in Portugal.
+Megalithic sites and museums in Portugal published by Portugal Megalítico.
 
 ## SOURCE 
 ### Portugal Megalítico

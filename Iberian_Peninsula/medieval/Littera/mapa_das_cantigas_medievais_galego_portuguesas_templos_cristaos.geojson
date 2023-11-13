@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "93",
+        "name": "Ermida de S. Clemenço do Mar",
+        "namealt": "",
+        "description": "Deverá tratar-se da ermida situada num ilhéu homónimo da ria de Pontevedra",
+        "IDLugar": "Lu563",
+        "LugarProfrana (galego)": "Ermida de S. Clemenço do Mar",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-8.754144, 42.349866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.754144,
+          42.349866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "186",
+        "name": "Ermida de S. Julião",
+        "namealt": "",
+        "description": "Possivelmente na atual Pobra de San Xiao, em Láncara, entre Sarria e Lugo, na Galiza",
+        "IDLugar": "Lu564",
+        "LugarProfrana (galego)": "Ermida de S. Julião",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.44299, 42.8635175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.44299,
+          42.863518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "95",
+        "name": "Ermida de S. Leuter",
+        "namealt": "Sant&#39;Outelo ou S. Eleutério",
+        "description": "santuário galego, que tem sido localizado em vários lugares do mesmo nome (um a sul de Santiago de Compostela, um outro em Friol, Lugo, e um terceiro nas Rias Altas, Corunha). Souto Cabo, no entanto, crê sem grandes margens para dúvidas, que se tratará do santuário de Santo Eleutério, na freguesia de Tameiga (conc. Mós; paróquia que limita com a de Santiago de Benvrive, pertencente ao concelho de Vigo).",
+        "IDLugar": "Lu565",
+        "LugarProfrana (galego)": "Ermida de S. Leuter (Sant'Outelo ou S. Eleutério)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.646375, 42.202808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.646375,
+          42.202808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "97",
+        "name": "Ermida de S. Momede",
+        "namealt": "",
+        "description": "Santuário situado na paróquia de Beluso, no município de Bueu, na península de Morrazo (ria de Vigo).",
+        "IDLugar": "Lu566",
+        "LugarProfrana (galego)": "Ermida de S. Momede",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-8.6634852, 42.8340085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.663485,
+          42.834009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "73",
+        "name": "Ermida de S. Salvador",
+        "namealt": "",
+        "description": "Trata-se, muito provavelmente, do santuário de S. Salvador de Bastavales (c. Briom), cabeça da antiga freguesia desse nome (hoje integrada na de S. Julião de Bastavales), situada a 6,5 km de Oseve e a 10 km de Santiago de Compostela (dados avançados por José António Souto Cabo).",
+        "IDLugar": "Lu567",
+        "LugarProfrana (galego)": "Ermida de S. Salvador",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6649794, 42.8325173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.664979,
+          42.832517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "94",
+        "name": "Ermida de S. Salvador de Valongo",
+        "namealt": "",
+        "description": "Se não se trata de uma ermida em Valongo, perto de Perozelo, hoje desaparecida, poderá tratar-se, como crê Souto Cabo, da igreja de S. Salvador da Lama (conc. Lama, PO), apenas a 4,5 km de Perozelo.",
+        "IDLugar": "Lu568",
+        "LugarProfrana (galego)": "Ermida de S. Salvador de Valongo",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-8.443889, 42.397778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.443889,
+          42.397778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "90",
+        "name": "Ermida de S. Servando",
+        "namealt": "",
+        "description": "Possivelmente em Santa Maria de Barxelas, Ourense",
+        "IDLugar": "Lu569",
+        "LugarProfrana (galego)": "Ermida de S. Servando",
+        "Aparicións (poemas)": "14",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "14",
+        "Dubidas": "",
+        "coordinates": "-7.8458699, 42.3699551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.84587,
+          42.369955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "56",
+        "name": "Ermida de S. Simom de Val de Prados",
+        "namealt": "",
+        "description": "Eventualmente ermida na povoação de Vale de Prados (próxima de Macedo de Cavaleiros), povoação à qual D. Dinis concedeu foral. Mas D. Carolina Michaelis aponta igualmente para uma ermida na região de Segóvia.",
+        "IDLugar": "Lu570",
+        "LugarProfrana (galego)": "Ermida de S. Simom de Val de Prados",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.9384438, 41.5513808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.938444,
+          41.551381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "61",
+        "name": "Ermida de S. Simon",
+        "namealt": "",
+        "description": "Ermida situada na pequena ilha homónima da ria de Vigo",
+        "IDLugar": "Lu571",
+        "LugarProfrana (galego)": "Ermida de S. Simon",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6281532, 42.307408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.628153,
+          42.307408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "96",
+        "name": "Ermida de S. Treeçom",
+        "namealt": "",
+        "description": "Deveria localizar-se em Tui, onde se celebrava o muito popular culto de S. Juan Terson, personagem que viveu na cidade no século XII, nunca oficialmente canonizado, mas cujas relíquias se encontravam no que é hoje a igreja de S. Domingos  (<i>Antigüedades de Tuy y su obispado</i>, citado por <i>Dicionario de Dicionarios do Galego Medieval</i>)",
+        "IDLugar": "Lu572",
+        "LugarProfrana (galego)": "Ermida de S. Treeçom",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6443548, 42.0500008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.644355,
+          42.050001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "98",
+        "name": "Ermida de Santa Cecília",
+        "namealt": "",
+        "description": "Ermida difícil de localizar. Na paróquia galega de Santa Marinha de Ginzo, concelho de Ponteareas, possível região de origem do jogral, nenhuma ermida corresponde a este topónimo. Por outro lado, Montero Santalha sugere que a forma original usada pelo jogral seria <i>Santa Cecia</i>, uma forma usada em documentos medievais, sendo a forma que aparece nos manuscritos uma correção culta.",
+        "IDLugar": "Lu573",
+        "LugarProfrana (galego)": "Ermida de Santa Cecília",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-8.556909, 42.1806032",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.556909,
+          42.180603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "88",
+        "name": "Ermida de Santa Maria das Leiras",
+        "namealt": "",
+        "description": "Possivelmente em Terra de Neiva, concelho de Viana do Castelo.",
+        "IDLugar": "Lu574",
+        "LugarProfrana (galego)": "Ermida de Santa Maria das Leiras",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-8.772222, 41.634167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.772222,
+          41.634167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "100",
+        "name": "Ermida de Santa Maria de Reça",
+        "namealt": "",
+        "description": "Possivelmente na freguesia do mesmo nome, do concelho de Ourense, Galiza.",
+        "IDLugar": "Lu575",
+        "LugarProfrana (galego)": "Ermida de Santa Maria de Reça",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.893889, 42.349444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.893889,
+          42.349444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "102",
+        "name": "Ermida de Santa Maria do Faro",
+        "namealt": "",
+        "description": "Possivelmente um santuário galego, na serra de Faro, na província de Lugo, entre Chantada e Rodeiro; mas há igualmente um outro homónimo em Valença do Minho",
+        "IDLugar": "Lu576",
+        "LugarProfrana (galego)": "Ermida de Santa Maria do Faro",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-7.8925, 42.624694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.8925,
+          42.624694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "101",
+        "name": "Ermida de Santa Maria do Lago",
+        "namealt": "",
+        "description": "Corresponde possivelmente a lugar chamado Lago, na paróquia galega de Santa Maria de Rubiáns (Pontevedra). Mas em Portugal há também uma freguesia do Lago, no concelho de Amares (Braga)",
+        "IDLugar": "Lu577",
+        "LugarProfrana (galego)": "Ermida de Santa Maria do Lago",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.740984, 42.576649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.740984,
+          42.576649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "87",
+        "name": "Ermida de Santa Marta",
+        "namealt": "",
+        "description": "Segundo Montero Santalha, deverá tratar-se &quot;da capela dessa advocação que se acha na beira da estrada que, saindo de Santiago, vai em direcção a Padrom e a Pontevedra. Com a expansão urbanística da segunda metade do século XX, essa capela fica agora englobada dentro da cidade, e até foi constituída recentemente em paróquia urbana, mas antes era uma ermida rural, situada num pequeno outeiro, e lugar de romaria para as gentes dos arredores de Santiago, que lhe atribuem virtude para curar diversas doenças. Documenta-se já na época medieval, quando fazia  parte de uma leprosaria, e era destinatária de doações testamentárias &quot;.<br />Mas o facto de fazer parte desta leprosaria feminina parece desaconselhar esta localização, como sugere José António Souto Cabo, que crê tratar-se antes de uma ermida hoje desaparecida na área em que se encontra a freguesia de Berdia (comunicação particular, que agradecemos).",
+        "IDLugar": "Lu645",
+        "LugarProfrana (galego)": "Ermida de Santa Marta",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-8.55824, 42.86986405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.55824,
+          42.869864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "177",
+        "name": "S. Félix",
+        "namealt": "",
+        "description": "Tratar-se-á talvez do mosteiro de San Felices de Oca (Burgos); mas também é possivel que se trate de San Fellices de los Gallegos, localidade da província de Salamanca, que fez parte do reino de Portugal a partir do Tratado de Alcanizes (1297) e até 1476.",
+        "IDLugar": "Lu630",
+        "LugarProfrana (galego)": "S. Félix",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.30014, 42.4018536",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.30014,
+          42.401854
+        ]
+      }
+    }
+  ]
+}

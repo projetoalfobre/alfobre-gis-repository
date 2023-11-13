@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "193",
+        "name": "Augadalquivir",
+        "namealt": "Guadalquivir",
+        "description": "grande rio da Andaluzia, que atravessa Córdova e Sevilha",
+        "IDLugar": "Lu008",
+        "LugarProfrana (galego)": "Augadalquivir (Guadalquivir)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.4793468, 37.9423533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479347,
+          37.942353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "143",
+        "name": "Rio Jordão",
+        "namealt": "",
+        "description": "Palestina",
+        "IDLugar": "Lu227",
+        "LugarProfrana (galego)": "Rio Jordão",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "35.5610167, 32.363397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.561017,
+          32.363397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "78",
+        "name": "Rio Sar",
+        "namealt": "",
+        "description": "Rio galego que nasce perto de Santiago de Compostela e é afluente do rio Ulha, ao qual se junta em Padrón",
+        "IDLugar": "Lu625",
+        "LugarProfrana (galego)": "Rio Sar",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-8.5341309, 42.873646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.534131,
+          42.873646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "132",
+        "name": "Runa",
+        "namealt": "",
+        "description": "Deverá tratar-se do ribeiro que atravessava a cidade de Coimbra (também chamado ribeiro dos Banhos)",
+        "IDLugar": "Lu629",
+        "LugarProfrana (galego)": "Runa",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.424706681469447, 40.21049455276594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.424707,
+          40.210495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "3",
+        "name": "Sil",
+        "namealt": "",
+        "description": "Afluente do rio Minho, no seu trajeto galego",
+        "IDLugar": "Lu638",
+        "LugarProfrana (galego)": "Sil",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.70227, 42.4341789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.70227,
+          42.434179
+        ]
+      }
+    }
+  ]
+}
