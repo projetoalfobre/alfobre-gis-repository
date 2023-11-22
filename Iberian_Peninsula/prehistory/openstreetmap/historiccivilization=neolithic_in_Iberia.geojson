@@ -1,0 +1,2087 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-09T16:25:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95681337",
+        "archaeological_site": "fortification",
+        "fortification_type": "hill_fort",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1028622,
+              37.257307
+            ],
+            [
+              -8.1029643,
+              37.2573452
+            ],
+            [
+              -8.10306,
+              37.2572802
+            ],
+            [
+              -8.1030623,
+              37.2571465
+            ],
+            [
+              -8.1030437,
+              37.2569943
+            ],
+            [
+              -8.1029177,
+              37.2569701
+            ],
+            [
+              -8.102752,
+              37.2569646
+            ],
+            [
+              -8.10271,
+              37.2569126
+            ],
+            [
+              -8.1027357,
+              37.2567919
+            ],
+            [
+              -8.1027847,
+              37.2567213
+            ],
+            [
+              -8.1027147,
+              37.2566006
+            ],
+            [
+              -8.1026027,
+              37.2566508
+            ],
+            [
+              -8.1025094,
+              37.2566099
+            ],
+            [
+              -8.1025327,
+              37.2565096
+            ],
+            [
+              -8.1025351,
+              37.2564558
+            ],
+            [
+              -8.1024977,
+              37.2563351
+            ],
+            [
+              -8.1023764,
+              37.2563722
+            ],
+            [
+              -8.1023158,
+              37.2563369
+            ],
+            [
+              -8.1023274,
+              37.2561903
+            ],
+            [
+              -8.1022411,
+              37.2561364
+            ],
+            [
+              -8.1022038,
+              37.2560621
+            ],
+            [
+              -8.1022248,
+              37.255934
+            ],
+            [
+              -8.1020848,
+              37.2558244
+            ],
+            [
+              -8.1020755,
+              37.255687
+            ],
+            [
+              -8.1017839,
+              37.2555979
+            ],
+            [
+              -8.1016555,
+              37.2553936
+            ],
+            [
+              -8.1016415,
+              37.2552674
+            ],
+            [
+              -8.1014456,
+              37.2551727
+            ],
+            [
+              -8.1011936,
+              37.2551745
+            ],
+            [
+              -8.1009486,
+              37.255104
+            ],
+            [
+              -8.1005567,
+              37.254948
+            ],
+            [
+              -8.1003934,
+              37.2548811
+            ],
+            [
+              -8.1003047,
+              37.254701
+            ],
+            [
+              -8.1002721,
+              37.2546564
+            ],
+            [
+              -8.1001741,
+              37.2545172
+            ],
+            [
+              -8.1000388,
+              37.2544763
+            ],
+            [
+              -8.1000551,
+              37.2546267
+            ],
+            [
+              -8.1002011,
+              37.2549315
+            ],
+            [
+              -8.1004199,
+              37.2550294
+            ],
+            [
+              -8.1008664,
+              37.2551708
+            ],
+            [
+              -8.1014497,
+              37.2553123
+            ],
+            [
+              -8.1016365,
+              37.2555517
+            ],
+            [
+              -8.1018415,
+              37.2557548
+            ],
+            [
+              -8.1019873,
+              37.2558527
+            ],
+            [
+              -8.1021331,
+              37.2562552
+            ],
+            [
+              -8.102361,
+              37.2564874
+            ],
+            [
+              -8.1024886,
+              37.2566941
+            ],
+            [
+              -8.1025888,
+              37.2567485
+            ],
+            [
+              -8.1025751,
+              37.2568682
+            ],
+            [
+              -8.1026025,
+              37.2569661
+            ],
+            [
+              -8.1028075,
+              37.2571547
+            ],
+            [
+              -8.1028622,
+              37.257307
+            ]
+          ]
+        ]
+      },
+      "id": "way/95681337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95681348",
+        "archaeological_site": "fortification",
+        "fortification_type": "hill_fort",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1090553,
+              37.2578458
+            ],
+            [
+              -8.1092737,
+              37.2576394
+            ],
+            [
+              -8.10962,
+              37.2574102
+            ],
+            [
+              -8.1101231,
+              37.257062
+            ],
+            [
+              -8.1103527,
+              37.2567603
+            ],
+            [
+              -8.1103163,
+              37.2565194
+            ],
+            [
+              -8.1101705,
+              37.2562554
+            ],
+            [
+              -8.1101486,
+              37.2559856
+            ],
+            [
+              -8.1103017,
+              37.255855
+            ],
+            [
+              -8.1103017,
+              37.2556983
+            ],
+            [
+              -8.1102069,
+              37.2554546
+            ],
+            [
+              -8.110422,
+              37.2552312
+            ],
+            [
+              -8.1107172,
+              37.2549933
+            ],
+            [
+              -8.1106917,
+              37.2548917
+            ],
+            [
+              -8.1103279,
+              37.2552178
+            ],
+            [
+              -8.1101054,
+              37.2554303
+            ],
+            [
+              -8.1102567,
+              37.2558199
+            ],
+            [
+              -8.1100164,
+              37.2560183
+            ],
+            [
+              -8.1101143,
+              37.2562804
+            ],
+            [
+              -8.1102834,
+              37.2567195
+            ],
+            [
+              -8.1100253,
+              37.2570029
+            ],
+            [
+              -8.1097406,
+              37.2571941
+            ],
+            [
+              -8.1093312,
+              37.2575058
+            ],
+            [
+              -8.1090998,
+              37.2576687
+            ],
+            [
+              -8.1090553,
+              37.2578458
+            ]
+          ]
+        ]
+      },
+      "id": "way/95681348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506550912",
+        "description": "Esta mámoa ou túmulo prehistórico é un dos exemplos deste tipo máis cercanos á vila de Melide, xa que tan só dista 1,81 km dende o Cruce de Melide e somentes a 200 metros ó surleste do campo de fútbol municipal.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "image": "http://www.abeancos.gal/sites/default/files/imaxes/92.1%20-%20M%C3%A1moa%201%20da%20necr%C3%B3pole%20de%20Monte%20Grande%20ou%20do%20Grupo%20Richinol.jpg",
+        "name": "Mámoa 1 da necrópole de Monte Grande ou do Grupo Richinol",
+        "name:es": "Túmulo 1 de la necrópolis de Monte Grande o del Grupo Richinol",
+        "name:gl": "Mámoa 1 da necrópole de Monte Grande ou do Grupo Richinol",
+        "url": "http://www.abeancos.gal/elemento/m%C3%A1moa-1-da-necr%C3%B3pole-de-monte-grande-ou-do-grupo-richinol"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.0179839,
+              42.897678
+            ],
+            [
+              -8.0180004,
+              42.8976639
+            ],
+            [
+              -8.0180046,
+              42.8976497
+            ],
+            [
+              -8.0180156,
+              42.8976174
+            ],
+            [
+              -8.0179921,
+              42.8976003
+            ],
+            [
+              -8.0179632,
+              42.8975821
+            ],
+            [
+              -8.017926,
+              42.8975881
+            ],
+            [
+              -8.0179053,
+              42.8976104
+            ],
+            [
+              -8.0179053,
+              42.8976417
+            ],
+            [
+              -8.0179191,
+              42.8976629
+            ],
+            [
+              -8.017948,
+              42.8976932
+            ],
+            [
+              -8.0179839,
+              42.897678
+            ]
+          ]
+        ]
+      },
+      "id": "way/506550912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507790206",
+        "description": "Esta anta ou dolmen forma parte do grupo de túmulos do Monte da Madanela, identificado por Florentino L. Cuevillas a principios da década dos anos 30 do século XX, e publicado no \"Terra de Melide\" do ano 1933, no que aparece a descrición.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "historic_1": "ruins",
+        "image": "http://www.abeancos.gal/sites/default/files/imaxes/81.1%20-%20Anta%20da%20Pena%20do%20Raposo.jpg",
+        "name": "Anta da Pena do Raposo",
+        "name:es": "Dolmen de la Pena do Raposo",
+        "name:gl": "Anta da Pena do Raposo",
+        "url": "http://www.abeancos.gal/elemento/anta-da-pena-do-raposo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.969299,
+              42.9083035
+            ],
+            [
+              -7.9692817,
+              42.9082929
+            ],
+            [
+              -7.9692607,
+              42.9082869
+            ],
+            [
+              -7.9692382,
+              42.9082861
+            ],
+            [
+              -7.9692165,
+              42.9082905
+            ],
+            [
+              -7.9691971,
+              42.9083004
+            ],
+            [
+              -7.9691833,
+              42.9083143
+            ],
+            [
+              -7.9691766,
+              42.9083309
+            ],
+            [
+              -7.9691778,
+              42.9083481
+            ],
+            [
+              -7.9691867,
+              42.9083641
+            ],
+            [
+              -7.9692024,
+              42.908377
+            ],
+            [
+              -7.969223,
+              42.9083854
+            ],
+            [
+              -7.9692463,
+              42.9083882
+            ],
+            [
+              -7.9692695,
+              42.9083852
+            ],
+            [
+              -7.9692892,
+              42.9083773
+            ],
+            [
+              -7.9693045,
+              42.9083651
+            ],
+            [
+              -7.9693136,
+              42.9083501
+            ],
+            [
+              -7.9693158,
+              42.9083336
+            ],
+            [
+              -7.9693107,
+              42.9083176
+            ],
+            [
+              -7.969299,
+              42.9083035
+            ]
+          ]
+        ]
+      },
+      "id": "way/507790206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/844007291",
+        "access": "yes",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Gravuras Rupestres do Trebilhadouro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.3376079,
+              40.8730794
+            ],
+            [
+              -8.3376256,
+              40.8730152
+            ],
+            [
+              -8.3376249,
+              40.8729716
+            ],
+            [
+              -8.3376005,
+              40.8729318
+            ],
+            [
+              -8.3375389,
+              40.8729135
+            ],
+            [
+              -8.3372434,
+              40.8728452
+            ],
+            [
+              -8.3372204,
+              40.8728813
+            ],
+            [
+              -8.3374133,
+              40.8729799
+            ],
+            [
+              -8.3376079,
+              40.8730794
+            ]
+          ]
+        ]
+      },
+      "id": "way/844007291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964264169",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Yacimiento de Malagón"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.4240678,
+              37.5578605
+            ],
+            [
+              -2.4238943,
+              37.5571649
+            ],
+            [
+              -2.4240406,
+              37.5566499
+            ],
+            [
+              -2.4233671,
+              37.5562589
+            ],
+            [
+              -2.4223569,
+              37.5560621
+            ],
+            [
+              -2.4208842,
+              37.5559111
+            ],
+            [
+              -2.4196155,
+              37.5559973
+            ],
+            [
+              -2.4183469,
+              37.5563236
+            ],
+            [
+              -2.417602,
+              37.5567658
+            ],
+            [
+              -2.4174931,
+              37.5572835
+            ],
+            [
+              -2.4179285,
+              37.5580627
+            ],
+            [
+              -2.4189471,
+              37.5577983
+            ],
+            [
+              -2.4199878,
+              37.5577998
+            ],
+            [
+              -2.4214132,
+              37.5578399
+            ],
+            [
+              -2.421992,
+              37.5580103
+            ],
+            [
+              -2.4225236,
+              37.5584968
+            ],
+            [
+              -2.4238807,
+              37.5583485
+            ],
+            [
+              -2.4241426,
+              37.5582407
+            ],
+            [
+              -2.4241063,
+              37.5580562
+            ],
+            [
+              -2.4240678,
+              37.5578605
+            ]
+          ]
+        ]
+      },
+      "id": "way/964264169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1163025976",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "stone_circle",
+        "name": "Henge de Lavandeiras",
+        "name:gl": "Henge de Lavandeiras",
+        "sorting_name": "Lavandeiras, Henge de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.5202903,
+              43.6845955
+            ],
+            [
+              -7.5204635,
+              43.6845316
+            ],
+            [
+              -7.5205976,
+              43.6844308
+            ],
+            [
+              -7.5206834,
+              43.6842562
+            ],
+            [
+              -7.5206459,
+              43.6840778
+            ],
+            [
+              -7.5204527,
+              43.6839963
+            ],
+            [
+              -7.5200343,
+              43.6839885
+            ],
+            [
+              -7.5198788,
+              43.6841049
+            ],
+            [
+              -7.5198197,
+              43.6843066
+            ],
+            [
+              -7.5198573,
+              43.6844114
+            ],
+            [
+              -7.5201041,
+              43.6845743
+            ],
+            [
+              -7.5202903,
+              43.6845955
+            ]
+          ]
+        ]
+      },
+      "id": "way/1163025976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173746919",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Jaciment de la Cova de l'Or",
+        "name:ca": "Jaciment de la Cova de l'Or",
+        "source": "Decret 63/2023, de 28 d'abril, del Consell, pel qual es declaren com a béns d'interés cultural determinats jaciments"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.3633313,
+              38.844549
+            ],
+            [
+              -0.363211,
+              38.8449152
+            ],
+            [
+              -0.3632824,
+              38.8454133
+            ],
+            [
+              -0.3639407,
+              38.8454485
+            ],
+            [
+              -0.3644147,
+              38.8451174
+            ],
+            [
+              -0.3643395,
+              38.8446369
+            ],
+            [
+              -0.3637083,
+              38.8445819
+            ],
+            [
+              -0.3633313,
+              38.844549
+            ]
+          ]
+        ]
+      },
+      "id": "way/1173746919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1174048829",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.2022805,
+              37.5154091
+            ],
+            [
+              -2.2016368,
+              37.515446
+            ],
+            [
+              -2.2014651,
+              37.5156445
+            ],
+            [
+              -2.2010467,
+              37.5157977
+            ],
+            [
+              -2.2012327,
+              37.5164161
+            ],
+            [
+              -2.2016475,
+              37.5170146
+            ],
+            [
+              -2.2018049,
+              37.5175593
+            ],
+            [
+              -2.2019229,
+              37.5178429
+            ],
+            [
+              -2.2032461,
+              37.5176983
+            ],
+            [
+              -2.203357,
+              37.5173834
+            ],
+            [
+              -2.2034071,
+              37.5169749
+            ],
+            [
+              -2.2033141,
+              37.5167764
+            ],
+            [
+              -2.203171,
+              37.5164076
+            ],
+            [
+              -2.2029207,
+              37.5158743
+            ],
+            [
+              -2.2027669,
+              37.5156162
+            ],
+            [
+              -2.2025666,
+              37.5155169
+            ],
+            [
+              -2.2024307,
+              37.5154063
+            ],
+            [
+              -2.2022805,
+              37.5154091
+            ]
+          ]
+        ]
+      },
+      "id": "way/1174048829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660613438",
+        "access": "yes",
+        "addr:city": "Biescas",
+        "addr:postcode": "22630",
+        "archaeological_site": "megalith",
+        "ele": "974",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Dolmen de Santa Elena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3183563,
+          42.6593323
+        ]
+      },
+      "id": "node/660613438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3067571160",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Dolmen de Arrako",
+        "name:eu": "Arrako trikuharria",
+        "wikidata": "Q66122104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8607447,
+          42.9311265
+        ]
+      },
+      "id": "node/3067571160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3994226700",
+        "access": "yes",
+        "alt_name": "Dólmen da Portela;Forno dos Mouros",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MN",
+        "heritage:since": "1910",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70169",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=48325",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=5319",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Anta de Santa Marta",
+        "protection_title": "Monumento Nacional",
+        "ref:cns": "785",
+        "ref:dgpc": "70169",
+        "ref:ipa": "5319",
+        "site_status": "Classificado",
+        "source:ref": "http://www.igespar.pt/media/uploads/decsmaria/Decreto23_06_1910.pdf",
+        "wikidata": "Q570525",
+        "wikimedia_commons": "Category:Anta de Santa Marta",
+        "wikipedia": "pt:Anta de Santa Marta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2538497,
+          41.2068873
+        ]
+      },
+      "id": "node/3994226700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4182996042",
+        "access": "yes",
+        "archaeological_site": "rock_art",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Pinturas Rupestres",
+        "name:en": "Rock Paintings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0345431,
+          42.2118191
+        ]
+      },
+      "id": "node/4182996042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887971831",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa dos Codesos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2949346,
+          43.0190627
+        ]
+      },
+      "id": "node/4887971831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887971838",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa do Monte de Cruces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2919266,
+          43.0150195
+        ]
+      },
+      "id": "node/4887971838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887971876",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Medorra das Anellas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2936759,
+          43.017299
+        ]
+      },
+      "id": "node/4887971876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887971890",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Túmulo das Xanelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2823729,
+          43.01708
+        ]
+      },
+      "id": "node/4887971890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4964514822",
+        "access": "yes",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Castro de Baroña",
+        "name:es": "Castro de Baroña",
+        "ruins": "village",
+        "wikidata": "Q1049903",
+        "wikipedia": "es:Castro de Baroña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0320783,
+          42.6947374
+        ]
+      },
+      "id": "node/4964514822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971955081",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Medoña do Maínzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2827051,
+          43.0204013
+        ]
+      },
+      "id": "node/4971955081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971955088",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa da Chousa Nova de Fonsá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2714982,
+          43.0192312
+        ]
+      },
+      "id": "node/4971955088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6511845298",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Poblat de l'Edat de Bronze",
+        "name:ca": "Poblat de l'Edat de Bronze",
+        "name:es": "Poblado edad de Bronce",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4509069,
+          38.3641519
+        ]
+      },
+      "id": "node/6511845298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6823030855",
+        "access": "yes",
+        "alt_name": "Dolmen Cerro de la Barca.",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Dolmen Valdecaballeros",
+        "wikidata": "Q28050209",
+        "wikipedia": "es:Tholos del Cerro de la Barca",
+        "wikipedia:de": "Cerro de la Barca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1548708,
+          39.2147261
+        ]
+      },
+      "id": "node/6823030855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6931146749",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "description": "Tumba Megalítica",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Los Zumacales",
+        "source": "wikipedia",
+        "wikidata": "Q24568147",
+        "wikipedia": "es:Los Zumacales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8190915,
+          41.606143
+        ]
+      },
+      "id": "node/6931146749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7834200317",
+        "access": "yes",
+        "historic": "ruins",
+        "historic:civilization": "neolithic",
+        "name": "Bico do Castro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8433612,
+          43.3345381
+        ]
+      },
+      "id": "node/7834200317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7871682380",
+        "description": "Las mámoas o medoñas son túmulos funerarios característicos del Neolítico del noroeste de la península ibérica.",
+        "historic": "ruins",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9160902,
+          43.2398145
+        ]
+      },
+      "id": "node/7871682380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7880081088",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "2º Dolmen de Santa Elena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3187263,
+          42.659497
+        ]
+      },
+      "id": "node/7880081088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8139128397",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Yacimiento Neolitico de San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0801845,
+          43.1336288
+        ]
+      },
+      "id": "node/8139128397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8148534017",
+        "access": "permissive",
+        "alt_name": "La Cueva de La Fuentedura",
+        "alt_name1": "La Cueva de La Fuente Dura",
+        "archaeological_site": "rock_painting",
+        "cave:access": "permissive",
+        "cave:difficulty": "easy",
+        "cave:equipment": "helmet",
+        "cave:length": "950",
+        "cave:passage": "yes",
+        "cave:size": "large",
+        "check_date": "2023-03-23",
+        "description": "La cueva de La Vaquera constituye un lugar de referencia en la investigación de la Prehistoria reciente por contar con un depósito estratigráfico de época Neolítica amplio, bien conservado y del que se dispone una datación cronológica contrastada y fehada",
+        "direction": "270",
+        "ele": "1050",
+        "fee": "no",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "La Cueva de La Vaquera",
+        "natural": "cave_entrance",
+        "opening_hours": "24/7",
+        "source": "http://www.torreiglesias.com/articulos/yacivaquera/yacivaquera-03.htm",
+        "tourism": "attraction",
+        "website": "http://www.torreiglesias.com/articulos/yacivaquera/yacivaquera.htm",
+        "wheelchair": "no",
+        "wikidata": "Q117308831",
+        "wikipedia": "es:Cueva de la Vaquera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0588238,
+          41.0842471
+        ]
+      },
+      "id": "node/8148534017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8258362895",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Dolmen del Pla de Nuncarga del Salvestro",
+        "source": "survey;gps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2934942,
+          42.0413353
+        ]
+      },
+      "id": "node/8258362895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8298161839",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "description": "Situada en la ladera de un espolón topográfico cercano al río Barbanza. Posee una importante coraza así como importantes restos de cámara aunque demasiado removidos como para tener una visión clara del túmulo.",
+        "height": "1.4",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Dolmen da Casarota do Fusiño",
+        "source": "local knowledge",
+        "wikimedia_commons": "File:Casarota do Fusiño.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9462802,
+          42.6652393
+        ]
+      },
+      "id": "node/8298161839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8385015117",
+        "access": "yes",
+        "archaeological_site": "necropolis",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Necròpolis del Turó de la Capcera",
+        "source": "survey;local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8814015,
+          42.3026126
+        ]
+      },
+      "id": "node/8385015117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406048713",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Dolmen del Serrat dels Rebolls",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.885751,
+          42.3371158
+        ]
+      },
+      "id": "node/8406048713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8637662693",
+        "fixme": "Local exato a confirmar",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Pia dos Moribundos",
+        "ruins": "yes",
+        "source": "https://conhecerafreguesiaalemdaribeiratomar.blogspot.com/p/patrimonio-arqueologico.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4148225,
+          39.6539052
+        ]
+      },
+      "id": "node/8637662693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8851283460",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Coto da Medorra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4485913,
+          43.0985159
+        ]
+      },
+      "id": "node/8851283460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9069332333",
+        "access": "yes",
+        "alt_name": "Povoado de Cidadelha",
+        "archaeological_site": "fortification",
+        "fortification_type": "hill_fort",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "IIP",
+        "heritage:since": "1990",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74443",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=5938",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "historic:period": "iron-age",
+        "name": "Recinto fortificado de Cidadelha",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:dgpc": "74443",
+        "ref:ipa": "5938",
+        "related_law": "Decreto n.º 29/90, DR, I Série, n.º 163, de 17-07-1990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.652596,
+          41.5168834
+        ]
+      },
+      "id": "node/9069332333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9243193728",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Chocal ou Água de Frades - Mamoas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2367001,
+          41.1928801
+        ]
+      },
+      "id": "node/9243193728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9281371864",
+        "access": "permit",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Cueva y solana del Saliente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1700181,
+          37.5272986
+        ]
+      },
+      "id": "node/9281371864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9487717108",
+        "access": "yes",
+        "alt_name": "Dolmen de Cabaleiros",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "A Casa da Moura",
+        "wikidata": "Q14826246",
+        "wikipedia": "gl:Dolmen de Cabaleiros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5503767,
+          43.0968828
+        ]
+      },
+      "id": "node/9487717108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9488460051",
+        "description": "Cabeço coberto com terraço fluvial, onde abundam seixos. Tem um depósito de\nágua. Apresenta-se bastante arbustivo e plantado com pinheiro. Os exemplares foram\nrecolhidos no caminho de acesso e perto do depósito de água, sendo provável a existência\nde outr",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Estação de Ar Livre - Paleolítico Inferior N003",
+        "source": "PDMT 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4677343,
+          39.7028607
+        ]
+      },
+      "id": "node/9488460051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9497638088",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Dolmen La Lapita",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.880562,
+          38.548433
+        ]
+      },
+      "id": "node/9497638088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516404025",
+        "access": "yes",
+        "alt_name": "Túmulo de Pepín",
+        "archaeological_site": "tumulus",
+        "description": "Túmulo de Pipín, la muestra más antigua de la presencia humana en el parque de Corrubedo.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa de Pipín",
+        "note": "Código do xacemento: GA15073035",
+        "source": "local knowledge",
+        "website": "https://patrimonionatural.xunta.gal/sites/default/files/mesa_pipin_CAST.PDF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0292619,
+          42.5533354
+        ]
+      },
+      "id": "node/9516404025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516982986",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Tiene una altura de 1 metro y está ligeramente cortada por un extremo debido a un camino.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa da Fieiteira",
+        "note": "Código do xacemento: GA15073008",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0001933,
+          42.5459919
+        ]
+      },
+      "id": "node/9516982986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517394691",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa de Os Eiteiros Rubios. Se encuentra dentro del Complejo dunar de Corrubedo, esta delimitado diametralmente por una cuerda.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa dos Eiteiros Rubios",
+        "note": "Código de xacemento: GA15073034",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0254019,
+          42.5552938
+        ]
+      },
+      "id": "node/9517394691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517495987",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa muy amplia y achatada.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa 1 de San Alberto",
+        "note": "Código de xacemento: GA15073017",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9970665,
+          42.5807317
+        ]
+      },
+      "id": "node/9517495987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517506602",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa con gran cono de violación.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa 3 de San Alberto",
+        "note": "Código de xacemento: GA15073031",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9963201,
+          42.5819354
+        ]
+      },
+      "id": "node/9517506602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517511920",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa muy achatada.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa 2 de San Alberto",
+        "note": "Código de xacemneto: GA15073030",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9962189,
+          42.5816182
+        ]
+      },
+      "id": "node/9517511920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517537385",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Tiene aproximadamente 1 metro de altura y un gran diámetro.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa VI de Moldes",
+        "note": "Código de xacemento: GA15073018",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9829899,
+          42.6048682
+        ]
+      },
+      "id": "node/9517537385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517565574",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa de 2 metros de altura y cortada por uno de sus extremos por la carretera.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa IV de Moldes",
+        "note": "Código de xacemento: GA15067014",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9825252,
+          42.6046769
+        ]
+      },
+      "id": "node/9517565574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9517577469",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa muy achatada, de gran diámetro con cono de violación.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa VII de Moldes",
+        "note": "Código de xacemento: GA15073019",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9833273,
+          42.606283
+        ]
+      },
+      "id": "node/9517577469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9694911815",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "domen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4999724,
+          42.3802997
+        ]
+      },
+      "id": "node/9694911815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10085058207",
+        "access": "yes",
+        "historic": "ruins",
+        "historic:civilization": "neolithic",
+        "name": "Petróglifos de Pepito Meijón",
+        "ruins": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6722402,
+          42.3609673
+        ]
+      },
+      "id": "node/10085058207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10144801318",
+        "access": "permissive",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "La Ereta del Pedregal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6900769,
+          39.0809341
+        ]
+      },
+      "id": "node/10144801318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10246899403",
+        "access": "yes",
+        "archaeological_site": "petroglyph",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Petróglifos do San Vitoiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6872453,
+          42.2258819
+        ]
+      },
+      "id": "node/10246899403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10291102801",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mamoa das Madorras #2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6096639,
+          41.2988619
+        ]
+      },
+      "id": "node/10291102801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10559691456",
+        "archaeological_site": "estátua_menir",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Estátua Menir de Faiões - Local do achado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4307393,
+          41.7517643
+        ]
+      },
+      "id": "node/10559691456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10580036241",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Menhir de Montagut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8917221,
+          41.8278678
+        ]
+      },
+      "id": "node/10580036241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10604160705",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "megalith_type": "dolmen",
+        "name": "Cabeço da Anta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8672615,
+          41.5617027
+        ]
+      },
+      "id": "node/10604160705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10629782201",
+        "access": "yes",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Tumulo El Muro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4097483,
+          43.1887614
+        ]
+      },
+      "id": "node/10629782201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763912164",
+        "archaeological_site": "settlement",
+        "description": "O Povoado dos Cumes foi identificado e noticiado por Katina Lillios na sua tese de doutoramento, com base em informações de habitantes do concelho de Ferreira do Zêzere, tendo sido interpretado como um povoado calcolítico. Luiz Oosterbeek e Ana Rosa Cruz",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Povoado de Cumes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4173251,
+          39.7180261
+        ]
+      },
+      "id": "node/10763912164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763912165",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Cumes II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4152936,
+          39.7173346
+        ]
+      },
+      "id": "node/10763912165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763912166",
+        "archaeological_site": "settlement",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Cumes III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4186771,
+          39.7148681
+        ]
+      },
+      "id": "node/10763912166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10848464296",
+        "archaeological_site": "rock_painting",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "inscription": "Pinturas rupestres del Eneolítico en el Barranco Gisbert.",
+        "source": "https://descubriendopenyagolosa.blogspot.com/2011/05/pinturas-rupestres-del-barranco-gibert.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3629521,
+          40.3945624
+        ]
+      },
+      "id": "node/10848464296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10958847468",
+        "archaeological_site": "tumulus",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoas da Armada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4399043,
+          42.2230039
+        ]
+      },
+      "id": "node/10958847468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10989798124",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Altar Neolítico",
+        "name:gl": "Altar Neolítico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3144411,
+          42.3913751
+        ]
+      },
+      "id": "node/10989798124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11202071508",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Poblat Neolitic de ca L'Isaach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1339353,
+          42.3160753
+        ]
+      },
+      "id": "node/11202071508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11296170609",
+        "access": "no",
+        "archaeological_site": "tumulus",
+        "description": "Mámoa muy achatada, conserva unos de los ortostatos.",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Mámoa 5 de Monte da Cidá",
+        "note": "Código de Yacimiento: GA15073029",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0046533,
+          42.5623321
+        ]
+      },
+      "id": "node/11296170609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11335575347",
+        "access": "private",
+        "archaeological_site": "necropolis",
+        "historic": "archaeological_site",
+        "historic:civilization": "neolithic",
+        "name": "Povoado do Largateiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6843429,
+          41.1655214
+        ]
+      },
+      "id": "node/11335575347"
+    }
+  ]
+}

@@ -1,0 +1,3474 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "5",
+        "name": "Acre",
+        "namealt": "",
+        "description": "Porto do Mediterrâneo, na Síria",
+        "IDLugar": "Lu004",
+        "LugarProfrana (galego)": "Acre",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "35.0756378, 32.9281731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.075638,
+          32.928173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "206",
+        "name": "Aibar",
+        "namealt": "",
+        "description": "Localidade a nordeste de Olide, sede da linhagem navarra homónima.",
+        "IDLugar": "Lu530",
+        "LugarProfrana (galego)": "Aibar",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.359999, 42.592021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.359999,
+          42.592021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "141",
+        "name": "Alanquer",
+        "namealt": "",
+        "description": "Trata-se provavelmente da atual cidade de Alenquer, a norte de Lisboa.  A hipótese, sugerida por Piccat, de se tratar de uma localidade próxima de Sevilha não parece confirmar-se, uma vez que no <i>Repartimiento</i> da cidade a herdade dada a um Roi Paez, galego, é <i> Alaquás</i> e não <i> Alanquar</i>, como indica este investigador, decerto por lapso.",
+        "IDLugar": "Lu024",
+        "LugarProfrana (galego)": "Alanquer",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "VERDADEIRO",
+        "coordinates": "-9.0076057, 39.056633",
+        "_umap_options": {
+          "iconUrl": "?",
+          "iconClass": "Drop"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.007606,
+          39.056633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "39",
+        "name": "Alcalá de Guadaira",
+        "namealt": "",
+        "description": "Deverá tratar-se desta localidade, a sudeste de Sevilha",
+        "IDLugar": "Lu016",
+        "LugarProfrana (galego)": "Alcalá de Guadaira",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.83951, 37.33791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83951,
+          37.33791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "170",
+        "name": "Alcor",
+        "namealt": "Santa Cecília del Alcor",
+        "description": "povoação perto de Sevilha",
+        "IDLugar": "Lu531",
+        "LugarProfrana (galego)": "Alcor (Santa Cecília del Alcor)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.475686, 37.396408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.475686,
+          37.396408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "58",
+        "name": "Alfanxe",
+        "namealt": "Alfanje",
+        "description": "Um dos arrabaldes populares de Santarém medieval.",
+        "IDLugar": "Lu532",
+        "LugarProfrana (galego)": "Alfanxe (Alfanje)",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-8.6752598, 39.2312669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.67526,
+          39.231267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "204",
+        "name": "Alfaro",
+        "namealt": "",
+        "description": "Cidade castelhana de La Rioja, na fronteira de Navarra. Afonso X deu-lhe carta de vila em 1253",
+        "IDLugar": "Lu533",
+        "LugarProfrana (galego)": "Alfaro",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.7492454, 42.1785741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749245,
+          42.178574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "107",
+        "name": "Alhariz",
+        "namealt": "",
+        "description": "Povoação da região de Ourense, Galiza",
+        "IDLugar": "Lu534",
+        "LugarProfrana (galego)": "Alhariz",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.8019484, 42.1893161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.801948,
+          42.189316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "33",
+        "name": "Aljarafe",
+        "namealt": "",
+        "description": "Região próxima de Sevilha, célebre pelos seus olivais.",
+        "IDLugar": "Lu194",
+        "LugarProfrana (galego)": "Aljarafe",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.0607, 37.3445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0607,
+          37.3445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "208",
+        "name": "Alvam",
+        "namealt": "",
+        "description": "Deverá tratar-se da localidade homónima (Albán, na atualidade), situada em Coles, a norte de Ourense, próximo de Tamallancos.",
+        "IDLugar": "Lu535",
+        "LugarProfrana (galego)": "Alvam",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.8504469, 42.423204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.850447,
+          42.423204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "134",
+        "name": "Amarante",
+        "namealt": "",
+        "description": "Cidade portuguesa do distrito do Porto, nas margens do rio Tâmega",
+        "IDLugar": "Lu536",
+        "LugarProfrana (galego)": "Amarante",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.0804563, 41.2699316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.080456,
+          41.269932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "139",
+        "name": "Arcos",
+        "namealt": "",
+        "description": "Possivelmente a atual Arcos de Jalón, na província de Soria, mas próximo de Guadalajara. O topónimo Arcos é, no entanto, muito frequente, tanto em Espanha como em Portugal",
+        "IDLugar": "Lu647",
+        "LugarProfrana (galego)": "Arcos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-2.270833, 41.213889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.270833,
+          41.213889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "71",
+        "name": "Ardon",
+        "namealt": "",
+        "description": "Povoação leonesa, um pouco a sul da cidade de León",
+        "IDLugar": "Lu537",
+        "LugarProfrana (galego)": "Ardon",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.5605337, 42.4364485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.560534,
+          42.436449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "133",
+        "name": "Arnado",
+        "namealt": "",
+        "description": "Deve tratar-se da zona ribeirinha da cidade de Coimbra, junto ao rio Mondego.",
+        "IDLugar": "Lu538",
+        "LugarProfrana (galego)": "Arnado",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.4316, 40.2128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4316,
+          40.2128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "150",
+        "name": "Arouca",
+        "namealt": "",
+        "description": "Município a sudeste do Porto, entre os rios Douro e Vouga, sede de um importante mosteiro feminino cistercience",
+        "IDLugar": "Lu641",
+        "LugarProfrana (galego)": "Arouca",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.2441746, 40.9289214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.244175,
+          40.928921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "159",
+        "name": "Astorga",
+        "namealt": "",
+        "description": "Cidade da província de León, por onde passava o Caminho de Santiago",
+        "IDLugar": "Lu539",
+        "LugarProfrana (galego)": "Astorga",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-6.0529025, 42.4553555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.052902,
+          42.455356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "50",
+        "name": "Azamor",
+        "namealt": "",
+        "description": "Cidade marítima marroquina, na região de Casablanca",
+        "IDLugar": "Lu648",
+        "LugarProfrana (galego)": "Azamor",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.333333, 33.283333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.333333,
+          33.283333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "46",
+        "name": "Azevedo",
+        "namealt": "",
+        "description": "Deverá tratar-se da atual Acebedo, em Leão.",
+        "IDLugar": "Lu540",
+        "LugarProfrana (galego)": "Azevedo",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.115969743, 39.1854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.11597,
+          39.1854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "167",
+        "name": "Badalhouce",
+        "namealt": "Badajoz",
+        "description": "cidade da Extremadura espanhola, próxima da fronteira portuguesa de Elvas",
+        "IDLugar": "Lu052",
+        "LugarProfrana (galego)": "Badalhouce (Badajoz)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.9702, 38.8781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.9702,
+          38.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "119",
+        "name": "Bagüin",
+        "namealt": "",
+        "description": "Lugar do concelho de Marín, perto de Pontevedra, Galiza",
+        "IDLugar": "Lu541",
+        "LugarProfrana (galego)": "Bagüin",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.719511, 42.382656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.719511,
+          42.382656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "26",
+        "name": "Barcelos",
+        "namealt": "",
+        "description": "Cidade portuguesa do Minho, no distrito de Braga",
+        "IDLugar": "Lu542",
+        "LugarProfrana (galego)": "Barcelos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6192306, 41.5314496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.619231,
+          41.53145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "173",
+        "name": "Belém",
+        "namealt": "",
+        "description": "Há várias povoações ibéricas com este nome, nomeadamente uma na Galiza, no norte da província de Lugo, e outra em Castela, perto de Palença.",
+        "IDLugar": "Lu646",
+        "LugarProfrana (galego)": "Belém",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.447415, 43.664043",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.447415,
+          43.664043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "138",
+        "name": "Belenha",
+        "namealt": "",
+        "description": "Possivelmente a atual Beleña de Sorbes, típica vila medieval, na província de Guadalajara",
+        "IDLugar": "Lu544",
+        "LugarProfrana (galego)": "Belenha",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.1891878, 40.9250358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189188,
+          40.925036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "7",
+        "name": "Belfurado",
+        "namealt": "",
+        "description": "Talvez a atual Belorado, perto de Burgos, no Caminho de Santiago. Com a forma Bilforado aparece em muitos textos medievais, nomeadamente no <i>Cantar del mio Cid</i>",
+        "IDLugar": "Lu545",
+        "LugarProfrana (galego)": "Belfurado",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.1917821, 42.4197032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.191782,
+          42.419703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "115",
+        "name": "Benavente",
+        "namealt": "",
+        "description": "Embora haja uma povoação galega com este nome, situada um pouco a norte de Santiago de Compostela, deverá tratar-se da localidade homónima situada entre as cidades de Leão e Zamora. Acrescente-se que foi exatamente nesta última localidade que, em Dezembro de 1230, foi assinado o importante tratado pelo qual as infantas Sancha e Dulce renunciavam aos seus direitos ao trono de Leão em favor do seu meio-irmão Fernando III de Castela, que se torna assim rei de Leão e Castela, ficando as duas coroas doravante unidas.",
+        "IDLugar": "Lu546",
+        "LugarProfrana (galego)": "Benavente",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.6738595, 42.0032862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.673859,
+          42.003286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "209",
+        "name": "Berger",
+        "namealt": "Vejer de la Frontera, próxima de Cádiz",
+        "description": "",
+        "IDLugar": "Lu056",
+        "LugarProfrana (galego)": "Berger (Vejer de la Frontera, próxima de Cádiz)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.9385, 36.2521",
+        "_umap_options": {
+          "showLabel": null
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93811,
+          36.250918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "172",
+        "name": "Blandiz",
+        "namealt": "",
+        "description": "Provavelmente a atual Baldriz, na província de Ourense, Galiza",
+        "IDLugar": "Lu548",
+        "LugarProfrana (galego)": "Blandiz",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.5278395, 42.0315418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.527839,
+          42.031542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "89",
+        "name": "Bonaval",
+        "namealt": "",
+        "description": "Bairro no sopé das colinas de Santiago de Compostela e respetiva ermida",
+        "IDLugar": "Lu549",
+        "LugarProfrana (galego)": "Bonaval",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-8.53816, 42.88316595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.53816,
+          42.883166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "53",
+        "name": "Burgos",
+        "namealt": "",
+        "description": "Capital da província do mesmo nome, em Castela-Leão, e uma das mais importantes paragens do Caminho de Santiago",
+        "IDLugar": "Lu075",
+        "LugarProfrana (galego)": "Burgos",
+        "Aparicións (poemas)": "6",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "6",
+        "Dubidas": "",
+        "coordinates": "-3.696977, 42.343926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.696977,
+          42.343926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "148",
+        "name": "Cabeceiras de Basto",
+        "namealt": "",
+        "description": "Município da região do Minho interior, no distrito de Braga",
+        "IDLugar": "Lu550",
+        "LugarProfrana (galego)": "Cabeceiras de Basto",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.95322, 41.5315967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.95322,
+          41.531597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "194",
+        "name": "Cález",
+        "namealt": "Cádiz",
+        "description": "cidade da Andaluzia, capital da província do mesmo nome, repovoada por Afonso X entre 1260-1262",
+        "IDLugar": "Lu078",
+        "LugarProfrana (galego)": "Cález (Cádiz)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.2793, 36.5171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2793,
+          36.5171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "75",
+        "name": "Cambrai",
+        "namealt": "",
+        "description": "Cidade no norte de França, importante centro medieval de indústria textil",
+        "IDLugar": "Lu551",
+        "LugarProfrana (galego)": "Cambrai",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "3.2356613, 50.1759602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.235661,
+          50.17596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "166",
+        "name": "Campou",
+        "namealt": "",
+        "description": "Deverá tratar-se de Aguilar de Campoo, localidade situada a norte de Carrión de los Condes, entre a Meseta e o mar Cantábrico.",
+        "IDLugar": "Lu552",
+        "LugarProfrana (galego)": "Campou",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.2605438, 42.7928369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260544,
+          42.792837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "81",
+        "name": "Carrion",
+        "namealt": "Carrión de los Condes",
+        "description": "município da província de Palencia, no Caminho de Santiago",
+        "IDLugar": "Lu099",
+        "LugarProfrana (galego)": "Carrion (Carrión de los Condes)",
+        "Aparicións (poemas)": "6",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "6",
+        "Dubidas": "",
+        "coordinates": "-4.6017, 42.3385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6017,
+          42.3385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "79",
+        "name": "Castro",
+        "namealt": "",
+        "description": "Talvez Castronuño, povoação a sul de Valladolid. Mas existe igualmente uma pequena povoação chamada Castro de Fuentidueña, a sul de Burgos, na província de Segóvia",
+        "IDLugar": "Lu642",
+        "LugarProfrana (galego)": "Castro",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.2633186, 41.3887733",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.263319,
+          41.388773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "157",
+        "name": "Celorico da Beira",
+        "namealt": "",
+        "description": "Município da região da Beira Alta, entre as cidades de Viseu e Guarda",
+        "IDLugar": "Lu553",
+        "LugarProfrana (galego)": "Celorico da Beira",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.39412, 40.6123826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39412,
+          40.612383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "176",
+        "name": "Chartes",
+        "namealt": "",
+        "description": "Cidade no centro-norte de França, que era um importante centro da indústria do couro",
+        "IDLugar": "Lu128",
+        "LugarProfrana (galego)": "Chartes",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "0",
+        "Dubidas": "",
+        "coordinates": "1.4881434, 48.4438601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.488143,
+          48.44386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "211",
+        "name": "Cizneiros",
+        "namealt": "Cisneros, concelho situado no centro-sul da provincia de Palencia",
+        "description": "",
+        "IDLugar": "Lu554",
+        "LugarProfrana (galego)": "Cizneiros (Cisneros, concelho situado no centro-sul da provincia de Palencia)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.8579027, 42.221046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.857903,
+          42.221046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "131",
+        "name": "Coimbra",
+        "namealt": "",
+        "description": "Cidade portuguesa, capital da atual região da Beira Litoral",
+        "IDLugar": "Lu555",
+        "LugarProfrana (galego)": "Coimbra",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.4292057, 40.2109801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.429206,
+          40.21098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "13",
+        "name": "Coira",
+        "namealt": "Cória",
+        "description": "município a norte de Cáceres, na Extremadura espanhola",
+        "IDLugar": "Lu644",
+        "LugarProfrana (galego)": "Coira",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.5366803, 39,9831574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.53668,
+          39.983157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "203",
+        "name": "Coira",
+        "namealt": "",
+        "description": "Deverá tratar-se de uma povoação da Galiza, em Allariz, a sul de Ourense",
+        "IDLugar": "Lu643",
+        "LugarProfrana (galego)": "Coira (Cória)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.7997013082236935, 42.21769889054409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.799701,
+          42.217699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "180",
+        "name": "Corunha",
+        "namealt": "A Coruña",
+        "description": "cidade do norte da Galiza",
+        "IDLugar": "Lu556",
+        "LugarProfrana (galego)": "Corunha (A Coruña)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.3958768, 43.3712091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.395877,
+          43.371209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "154",
+        "name": "Covilhã",
+        "namealt": "",
+        "description": "Cidade portuguesa, na Serra da Estrela",
+        "IDLugar": "Lu557",
+        "LugarProfrana (galego)": "Covilhã",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.5043211, 40.2805658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.504321,
+          40.280566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "74",
+        "name": "Crecente/ Crexente",
+        "namealt": "",
+        "description": "O topónimo é comum a vários locais da Galiza (nomeadamente a localidade perto da fronteira portuguesa de Melgaço), mas, no caso, deverá tratar-se de um antigo lugar da freguesia compostelana de Conjo (Conxo, na atualidade), próximo do rio Sar (que atravessa Santiago), e  que é referido numa das cantigas.",
+        "IDLugar": "Lu558",
+        "LugarProfrana (galego)": "Crecente/ Crexente",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-8.5570551, 41.8627599"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.557055,
+          41.86276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "183",
+        "name": "Cuenca",
+        "namealt": "",
+        "description": "Cidade de Castilla-La Mancha, a sudeste de Madrid (não longe da fronteira de Aragão)",
+        "IDLugar": "Lu141",
+        "LugarProfrana (galego)": "Cuenca",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-2.1348, 40.0681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1348,
+          40.0681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "36",
+        "name": "Deza",
+        "namealt": "",
+        "description": "Comarca na província de Pontevedra, Galiza. Mas igualmente município na província de Soria, nos limites orientais de Castela-Leão.",
+        "IDLugar": "Lu559",
+        "LugarProfrana (galego)": "Deza",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.1142029, 42.7145155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.114203,
+          42.714516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "113",
+        "name": "Dormã",
+        "namealt": "Mosteiro de S. Cristóvão de Dormeá, conc. de Boimorto, na província da Corunha",
+        "description": "fundado em 1152, pertencia à diocese de Iria (Santiago de Compostela)",
+        "IDLugar": "Lu560",
+        "LugarProfrana (galego)": "Dormã (Mosteiro de S. Cristóvão de Dormeá, conc. de Boimorto, na província da Corunha)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.09001, 42.9965233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.09001,
+          42.996523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "178",
+        "name": "Elvas",
+        "namealt": "",
+        "description": "Cidade portuguesa do Alentejo, na fronteira com a Extremadura espanhola",
+        "IDLugar": "Lu179",
+        "LugarProfrana (galego)": "Elvas",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.1637495, 38.8811828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.163749,
+          38.881183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "54",
+        "name": "Ensar",
+        "namealt": "",
+        "description": "É possível que se trate de Enxara dos Cavaleiros, antiga sede do atual município de Enxara do Bispo, povoação do concelho de Mafra, a norte de Lisboa",
+        "IDLugar": "Lu561",
+        "LugarProfrana (galego)": "Ensar",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-9.216602, 38.983536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.228516,
+          38.967951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "210",
+        "name": "Escobar",
+        "namealt": "Escobar de Campos, (concelho da atual província de León)",
+        "description": "",
+        "IDLugar": "Lu578",
+        "LugarProfrana (galego)": "Escobar (Escobar de Campos, (concelho da atual província de León))",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.9657279, 42.3135885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.965728,
+          42.313589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "72",
+        "name": "Estela",
+        "namealt": "",
+        "description": "Povoação de Navarra, a oeste de Pamplona, e em pleno coração do reino navarro",
+        "IDLugar": "Lu579",
+        "LugarProfrana (galego)": "Estela",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-2.0314834, 42.672094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.031483,
+          42.672094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "45",
+        "name": "Estépar",
+        "namealt": "",
+        "description": "Município da província de Burgos, em Castela-Leão.",
+        "IDLugar": "Lu580",
+        "LugarProfrana (galego)": "Estépar",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.8981555, 42.2768521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.898155,
+          42.276852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "201",
+        "name": "Esturas d&#39;Ovedo",
+        "namealt": "",
+        "description": "Uma das duas comarcas históricas das Astúrias, com a capital em Oviedo criada por Fernando III em 1230, aquando da reorganizaçãp territorial de Castela-Leão (a outra sendo Astúrias de Santillana)",
+        "IDLugar": "Lu582",
+        "LugarProfrana (galego)": "Esturas d'Ovedo",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.8503, 43.3625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8503,
+          43.3625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "27",
+        "name": "Faria",
+        "namealt": "",
+        "description": "Povoação do concelho de Barcelos, Minho",
+        "IDLugar": "Lu583",
+        "LugarProfrana (galego)": "Faria",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-8.6717584, 41.4802543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.671758,
+          41.480254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "181",
+        "name": "Fariza",
+        "namealt": "Ariza",
+        "description": "Município da província de Saragoça, e, historicamente, localidade de fronteira entre os reinos de Aragão e de Castela",
+        "IDLugar": "Lu584",
+        "LugarProfrana (galego)": "Fariza (Ariza)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-2.0552546, 41.3104852"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.055255,
+          41.310485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "86",
+        "name": "França",
+        "namealt": "",
+        "description": "Provavelmente, a povoação galega com esse nome, próxima de Ferrol.",
+        "IDLugar": "Lu654",
+        "LugarProfrana (galego)": "França",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.222803, 43.4471235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.222803,
+          43.447124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "22",
+        "name": "Gaia",
+        "namealt": "Vila Nova de Gaia",
+        "description": "cidade na margem esquerda do rio Douro, fronteira ao Porto",
+        "IDLugar": "Lu585",
+        "LugarProfrana (galego)": "Gaia (Vila Nova de Gaia)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6058415, 41.1300103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.605841,
+          41.13001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "14",
+        "name": "Galisteu",
+        "namealt": "Galisteo",
+        "description": "Município a norte de Cáceres, na Extremadura espanhola",
+        "IDLugar": "Lu586",
+        "LugarProfrana (galego)": "Galisteu (Galisteo)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.2677508, 39.9759838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.267751,
+          39.975984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "52",
+        "name": "Granada",
+        "namealt": "",
+        "description": "Cidade da Andaluzia, sede de um dos reinos árabes peninsulares, foi o último a ser incorporado na monarquia cristã, o que aconteceu depois da sua conquista pelos Reis Católicos, em 1492",
+        "IDLugar": "Lu211",
+        "LugarProfrana (galego)": "Granada",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-3.6021928, 37.183054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.602193,
+          37.183054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "60",
+        "name": "Jaén",
+        "namealt": "",
+        "description": "Cidade da Andaluzia. Cabeça de um reino próprio e uma das maiores cidades do Al Andaluz muçulmano, foi conquistada por Fernando III em 1246. Nas décadas posteriores permaneceu, no entanto, no centro da instabilidade andaluza, nomeadamente aquando da revolta dos mudejares, nos anos 1264-1266, e também da invasão dos benimerins, em 1275.",
+        "IDLugar": "Lu225",
+        "LugarProfrana (galego)": "Jaén",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-3.7883289, 37.7728858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.788329,
+          37.772886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "163",
+        "name": "Jerez de la Frontera",
+        "namealt": "",
+        "description": "Cidade da Andaluzia. Permanecendo sob administração muçulmana, mas sob uma espécie de protetorado castelhano, após a conquista cristã de Sevilha em 1247, foi definitivamente conquistada por Afonso X em 1266, na sequência da revolta dos mudejares",
+        "IDLugar": "Lu497",
+        "LugarProfrana (galego)": "Jerez de la Frontera",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.137778\t36.681667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.137778,
+          36.681667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "10",
+        "name": "Jerusalém",
+        "namealt": "",
+        "description": "Palestina",
+        "IDLugar": "Lu226",
+        "LugarProfrana (galego)": "Jerusalém",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "35.2251, 31.7783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2251,
+          31.7783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "191",
+        "name": "Josafás",
+        "namealt": "",
+        "description": "Topónimo da Palestina, possivelmente imaginário",
+        "IDLugar": "Lu587",
+        "LugarProfrana (galego)": "Josafás",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "35.25, 32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.25,
+          32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "125",
+        "name": "Lagares",
+        "namealt": "",
+        "description": "Eventualmente, Lagares da Beira, povoação do concelho de Oliveira do Hospital, Beira Alta, próxima do mosteiro do Lorvão (e da atual barragem da Aguieira); mas existem igualmente duas outras povoações homónimas, uma em Felgueiras e outra em Penafiel",
+        "IDLugar": "Lu588",
+        "LugarProfrana (galego)": "Lagares",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.833333, 40.4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.833333,
+          40.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "76",
+        "name": "Lampai",
+        "namealt": "",
+        "description": "Povoação a Sul de Santiago de Compostela, próxima de Padrón",
+        "IDLugar": "Lu589",
+        "LugarProfrana (galego)": "Lampai",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.616667, 42.778056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.616667,
+          42.778056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "105",
+        "name": "Leiria",
+        "namealt": "",
+        "description": "Cidade portuguesa, atual sede de um dos distritos da região Centro",
+        "IDLugar": "Lu232",
+        "LugarProfrana (galego)": "Leiria",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-8.8071, 39.7438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8071,
+          39.7438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "114",
+        "name": "Lemos",
+        "namealt": "",
+        "description": "Provavelmente a atual Monforte de Lemos, na província de Lugo; era o principal senhorio galego dos Castro. Por via materna, a sua tenência esteve, no entanto, nas mãos dos Lara.",
+        "IDLugar": "Lu590",
+        "LugarProfrana (galego)": "Lemos",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "1",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.5096951, 42.5236693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.509695,
+          42.523669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "38",
+        "name": "Libira",
+        "namealt": "Elvira, parte da cidade de Granada",
+        "description": "trata-se, segundo Manuel Ferreiro, do &quot;antigo asentamento urbano, continuación de Iliberis, cidade ibérica, romana e despois importante poboación musulmá, situada na aba da Sierra Elvira, na veiga de Granada&quot;.",
+        "IDLugar": "Lu591",
+        "LugarProfrana (galego)": "Libira (Elvira, parte da cidade de Granada)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.7244047, 37.2309915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.724405,
+          37.230992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "91",
+        "name": "Lisboa",
+        "namealt": "",
+        "description": "Conquistada por D. Afonso Henriques em 1147, a cidade foi ganhando um peso progressivo e um lugar central no reino de Portugal à medida que o território se ia alargando para sul. No reinado de D. Dinis ela conhece um desenvolvimento significativo, sendo já um lugar de paragem habitual da corte.",
+        "IDLugar": "Lu240",
+        "LugarProfrana (galego)": "Lisboa",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "-9.1365919, 38.7077507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.144745,
+          38.727305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "29",
+        "name": "Lobatom",
+        "namealt": "",
+        "description": "Possivelmente Torre Lobatón, praça castelhana a norte do rio Douro. Em 1305, foi ocupada por João Nunes de Lara II, aliado dos infantes de La Cerda contra o partido real (do jovem Fernando IV) e, posteriormente, pelo mesmo Fernando IV.",
+        "IDLugar": "Lu592",
+        "LugarProfrana (galego)": "Lobatom",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.0241153, 41.6492976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.024115,
+          41.649298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "195",
+        "name": "Longos",
+        "namealt": "",
+        "description": "Localidade próxima de Guimarães",
+        "IDLugar": "Lu593",
+        "LugarProfrana (galego)": "Longos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.36354, 41.5203519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.36354,
+          41.520352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "48",
+        "name": "Lora del Rio",
+        "namealt": "",
+        "description": "Município a cerca de 70 Km a NE de Sevilha, praça conquistada em 1247 por Fernando III (um ano antes da conquista de Sevilha), e dada, pelo mesmo rei, à Ordem do Hospital",
+        "IDLugar": "Lu594",
+        "LugarProfrana (galego)": "Lora del Rio",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.5275818, 37.6574267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.527582,
+          37.657427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "84",
+        "name": "Losi",
+        "namealt": "",
+        "description": "Deverá tratar-se de S. João de Luzim, nas margens do rio Tâmega, a sudeste de Penafiel (e não muito longe das terras de Sousa)",
+        "IDLugar": "Lu595",
+        "LugarProfrana (galego)": "Losi",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.24796, 41.15419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.24796,
+          41.15419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "12",
+        "name": "Loulé",
+        "namealt": "",
+        "description": "Município do Algarve",
+        "IDLugar": "Lu596",
+        "LugarProfrana (galego)": "Loulé",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.0235513, 37.1383984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.023551,
+          37.138398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "103",
+        "name": "Lugo",
+        "namealt": "",
+        "description": "Cidade da Galiza",
+        "IDLugar": "Lu263",
+        "LugarProfrana (galego)": "Lugo",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.5566, 43.0118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5566,
+          43.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "19",
+        "name": "Maia",
+        "namealt": "",
+        "description": "Território entre o Lima e o Douro, nesta época denominado Terras da Maia",
+        "IDLugar": "Lu597",
+        "LugarProfrana (galego)": "Maia",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.63, 41.23734565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.63,
+          41.237346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "153",
+        "name": "Marialva",
+        "namealt": "",
+        "description": "Vila do concelho da Mêda, Beira Alta",
+        "IDLugar": "Lu598",
+        "LugarProfrana (galego)": "Marialva",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.2310275, 40.909642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.231027,
+          40.909642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "4",
+        "name": "Marselha",
+        "namealt": "",
+        "description": "Importante cidade portuária do sul de França",
+        "IDLugar": "Lu275",
+        "LugarProfrana (galego)": "Marselha",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "5.37, 43.2962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37,
+          43.2962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "162",
+        "name": "Meca",
+        "namealt": "",
+        "description": "Cidade santa dos muçulmanos, na Arábia Saudita",
+        "IDLugar": "Lu599",
+        "LugarProfrana (galego)": "Meca",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "39.826869, 21.420847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.826869,
+          21.420847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "69",
+        "name": "Melide",
+        "namealt": "",
+        "description": "Município entre Santiago de Compostela e Lugo, uma das etapas do Caminho Francês de Santiago",
+        "IDLugar": "Lu600",
+        "LugarProfrana (galego)": "Melide",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.0239432, 42.9317416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.023943,
+          42.931742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "109",
+        "name": "Monçom",
+        "namealt": "Monzón",
+        "description": "município da província de Huesca, em Aragão, bastião militar medieval muito disputado, que foi ainda sede de várias cortes catalãs",
+        "IDLugar": "Lu602",
+        "LugarProfrana (galego)": "Monçom (Monzón)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "0.1922412, 41.9143981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.192241,
+          41.914398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "152",
+        "name": "Monsanto",
+        "namealt": "",
+        "description": "Localidade do concelho de Idanha-a-Nova, na atual região da Beira Baixa",
+        "IDLugar": "Lu603",
+        "LugarProfrana (galego)": "Monsanto",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.1151133, 40.038751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.115113,
+          40.038751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "1",
+        "name": "Montemaior",
+        "namealt": "",
+        "description": "Possivelmente Montemor-o-Velho, no distrito de Coimbra",
+        "IDLugar": "Lu604",
+        "LugarProfrana (galego)": "Montemaior",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6844483, 40.1726104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.684448,
+          40.17261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "144",
+        "name": "Montpellier",
+        "namealt": "",
+        "description": "Cidade e porto do sul de França, sede de uma importante universidade medieval",
+        "IDLugar": "Lu292",
+        "LugarProfrana (galego)": "Montpellier",
+        "Aparicións (poemas)": "5",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "5",
+        "Dubidas": "",
+        "coordinates": "3.8767337, 43.6112422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.876734,
+          43.611242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "202",
+        "name": "Monzón de Campos",
+        "namealt": "",
+        "description": "Deverá tratar-se do município situado em Terra de Campos, entre Carrión e Palencia (Castela-Leão).",
+        "IDLugar": "Lu605",
+        "LugarProfrana (galego)": "Monzón de Campos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.4942161, 42.1164512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.494216,
+          42.116451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "142",
+        "name": "Mora",
+        "namealt": "",
+        "description": "Povoação a sul de Toledo, em Castela-La Mancha",
+        "IDLugar": "Lu606",
+        "LugarProfrana (galego)": "Mora",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.7729231, 39.683248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.772923,
+          39.683248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "171",
+        "name": "Mormojom",
+        "namealt": "Torremormojón",
+        "description": "povoação a oeste de Palencia",
+        "IDLugar": "Lu607",
+        "LugarProfrana (galego)": "Mormojom (Torremormojón)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.7776238, 41.9605467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.777624,
+          41.960547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "120",
+        "name": "Morrazo",
+        "namealt": "",
+        "description": "Península nas rias Baixas Galegas, entre Vigo e Pontevedra.",
+        "IDLugar": "Lu608",
+        "LugarProfrana (galego)": "Morrazo",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.75562, 42.3225643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.75562,
+          42.322564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "127",
+        "name": "Mouron",
+        "namealt": "Moron de la Frontera",
+        "description": "município a sudoeste de Sevilha, na Andaluzia.",
+        "IDLugar": "Lu609",
+        "LugarProfrana (galego)": "Mouron (Moron de la Frontera)",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "1",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.4559583, 37.1215305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.455958,
+          37.121531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "2",
+        "name": "Muimenta",
+        "namealt": "",
+        "description": "Talvez Moimenta da Beira, município no distrito de Viseu, Beira Alta, cujo senhorio pertencia a D. Abril Peres de Lumiares. Resende de Oliveira sugere, no entanto, que poderá tratar-se da povoação de S. Martinho de Muimenta, no concelho de Arcos de Valdevez. Por sua vez Souto Cabo, muito recentemente, sugeriu que se trataria da freguesia galega de Muimenta, no concelho de Carvalheda de Ávia (Ribadavia).",
+        "IDLugar": "Lu610",
+        "LugarProfrana (galego)": "Muimenta",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.1868455, 42.3303671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.186845,
+          42.330367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "9",
+        "name": "Nogueira ou Nogueiró",
+        "namealt": "",
+        "description": "Possivelmente o mosteiro galego de San Vicente de Nogueira, em Meis, comarca do Salnés, Pontevedra",
+        "IDLugar": "Lu612",
+        "LugarProfrana (galego)": "Nogueira ou Nogueiró",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-7.774026, 42.4139228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.774026,
+          42.413923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "189",
+        "name": "Ocrês",
+        "namealt": "Uclês",
+        "description": "cidade da província de Cuenca, em Castela-La Mancha, sede medieval castelhana da Ordem Militar de Santiago de Espada",
+        "IDLugar": "Lu482",
+        "LugarProfrana (galego)": "Ocrês (Uclês)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-2.8615799, 39.9804328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.86158,
+          39.980433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "182",
+        "name": "Olide",
+        "namealt": "Olite",
+        "description": "cidade de Navarra, a sul de Pamplona",
+        "IDLugar": "Lu613",
+        "LugarProfrana (galego)": "Olide (Olite)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.6512224, 42.4813623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651222,
+          42.481362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "124",
+        "name": "Olmedo",
+        "namealt": "",
+        "description": "Cidade no sul da província de Valladolid (Castela e Leão)",
+        "IDLugar": "Lu614",
+        "LugarProfrana (galego)": "Olmedo",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-4.68669, 41.2870983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68669,
+          41.287098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "129",
+        "name": "Orgaz",
+        "namealt": "",
+        "description": "Localidade da província de Toledo, em Castela-La Mancha",
+        "IDLugar": "Lu615",
+        "LugarProfrana (galego)": "Orgaz",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.8748671, 39.6475279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.874867,
+          39.647528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "116",
+        "name": "Orzelhon",
+        "namealt": "",
+        "description": "Localidade na comarca de Ourense, na Galiza, mas igualmente praça castelhana fortificada, próxima da fronteira entre os reinos de Leão e Castela",
+        "IDLugar": "Lu616",
+        "LugarProfrana (galego)": "Orzelhon",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-8.041082, 42.4531049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.041082,
+          42.453105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "169",
+        "name": "Oscos",
+        "namealt": "",
+        "description": "Região das Astúrias, na fronteira com a Galiza, e onde se situam as atuais localidades de San Martin, Santa Eulalia e Vilanueva de Oscos",
+        "IDLugar": "Lu617",
+        "LugarProfrana (galego)": "Oscos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.00203, 43.32041805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.00203,
+          43.320418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "192",
+        "name": "Ourens",
+        "namealt": "Ourense",
+        "description": "cidade e atual província da Galiza;",
+        "IDLugar": "Lu618",
+        "LugarProfrana (galego)": "Ourens (Ourense)",
+        "Aparicións (poemas)": "",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "0",
+        "Dubidas": "",
+        "coordinates": "-7.8674242, 42.3436415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.867424,
+          42.343642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "80",
+        "name": "Palença",
+        "namealt": "",
+        "description": "Cidade e província de Castela-Leão, a norte de Valladolid",
+        "IDLugar": "Lu335",
+        "LugarProfrana (galego)": "Palença",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.5339, 42.0156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5339,
+          42.0156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "110",
+        "name": "Pamplona",
+        "namealt": "",
+        "description": "Capital do reino de Navarra, situada numa vasta planície circular rodeada de montanhas, a ainda hoje designada <i>cuenca de Pamplona</i>",
+        "IDLugar": "Lu619",
+        "LugarProfrana (galego)": "Pamplona",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.6442556, 42.8184538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.644256,
+          42.818454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "136",
+        "name": "Pavia",
+        "namealt": "",
+        "description": "Localidade do concelho de Mora, distrito de Évora, no Alentejo. A \"Crónica de Portugal de 1419\" indica que foi fundada por D. Dinis.",
+        "IDLugar": "Lu338",
+        "LugarProfrana (galego)": "Pavia",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "9.1546375, 45.1860043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154638,
+          45.186004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "187",
+        "name": "Poi",
+        "namealt": "Le Puy",
+        "description": "cidade francesa na Aquitânia, a leste de Bordéus. Era uma das paragens do Caminho Francês de Santiago.",
+        "IDLugar": "Lu348",
+        "LugarProfrana (galego)": "Poi (Le Puy)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "0.0728, 44.6002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0728,
+          44.6002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "21",
+        "name": "Porto",
+        "namealt": "",
+        "description": "Principal cidade portuguesa da região norte",
+        "IDLugar": "Lu621",
+        "LugarProfrana (galego)": "Porto",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6107884, 41.1494512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.610788,
+          41.149451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "67",
+        "name": "Redondela",
+        "namealt": "",
+        "description": "Município galego nas Rias Baixas, a norte de Vigo. A ilha de S. Simón, na ria de Vigo, fica no seu concelho.",
+        "IDLugar": "Lu623",
+        "LugarProfrana (galego)": "Redondela",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.6163998, 42.2737863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6164,
+          42.273786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "185",
+        "name": "Riba de Límia",
+        "namealt": "Riba de Lima",
+        "description": "região a norte do rio Lima, no Minho",
+        "IDLugar": "Lu624",
+        "LugarProfrana (galego)": "Riba de Límia (Riba de Lima)",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "1",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.7260622, 42.0630367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.726062,
+          42.063037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "11",
+        "name": "Rocamador",
+        "namealt": "Rocamadour",
+        "description": "Povoação do sul de França (Midi-Pyrénées), onde se situava o famoso santuário de Santa Maria de Rocamador, umas das principais etapas do Caminho Francês de Santiago",
+        "IDLugar": "Lu391",
+        "LugarProfrana (galego)": "Rocamador (Rocamadour)",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "1.6183521, 44.7991877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.618352,
+          44.799188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "145",
+        "name": "Roçavales",
+        "namealt": "Roncesvalles",
+        "description": "conhecido desfiladeiro dos Pirinéus, por onde passava o Caminho Francês de Santiago.",
+        "IDLugar": "Lu626",
+        "LugarProfrana (galego)": "Roçavales (Roncesvalles)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.3199184, 43.009286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.319918,
+          43.009286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "70",
+        "name": "Roda",
+        "namealt": "",
+        "description": "Possivelmente o município da província de Sevilha, que fazia fronteira com o reino muçulmano de Granada. Mas há igualmente outra localidade homónima, Roda de Eresma, na província de Segovia",
+        "IDLugar": "Lu627",
+        "LugarProfrana (galego)": "Roda",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.779167, 37.200833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.779167,
+          37.200833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "130",
+        "name": "Roma",
+        "namealt": "",
+        "description": "",
+        "IDLugar": "Lu392",
+        "LugarProfrana (galego)": "Roma",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "12.4853384, 41.894802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485338,
+          41.894802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "149",
+        "name": "Rouen",
+        "namealt": "",
+        "description": "Cidade francesa, capital da Normandia",
+        "IDLugar": "Lu628",
+        "LugarProfrana (galego)": "Rouen",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "1.0939658, 49.4404591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.093966,
+          49.440459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "126",
+        "name": "S. Paio",
+        "namealt": "",
+        "description": "Talvez S. Paio de Gramaços, povoação próxima de Oliveira do Hospital, na Beira Alta. Mas o topónimo é muito comum em Portugal, incluindo um S. Paio, no antigo julgado de Penafiel de Sousa",
+        "IDLugar": "Lu631",
+        "LugarProfrana (galego)": "S. Paio",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.8421141, 40.3523984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.842114,
+          40.352398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "160",
+        "name": "Sahagún",
+        "namealt": "",
+        "description": "Município de Leão, por onde passava o Caminho de Santiago; sede de um importante mosteiro medieval e da comarca Tierra de Sahágun",
+        "IDLugar": "Lu632",
+        "LugarProfrana (galego)": "Sahagún",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-5.0313138, 42.3719042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.031314,
+          42.371904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "121",
+        "name": "Salnés",
+        "namealt": "",
+        "description": "Península nas rias Baixas Galegas, entre Vigo e Pontevedra.",
+        "IDLugar": "Lu633",
+        "LugarProfrana (galego)": "Salnés",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.7516, 42.5138575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7516,
+          42.513858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "23",
+        "name": "Sanhoane",
+        "namealt": "S. João",
+        "description": "Mogadouro",
+        "IDLugar": "Lu634",
+        "LugarProfrana (galego)": "Sanhoane (S. João)",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "0",
+        "Aparicións (total)": "0",
+        "Dubidas": "",
+        "coordinates": "-6.716667, 41.333333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.716667,
+          41.333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "205",
+        "name": "Sansonha",
+        "namealt": "Saxónia",
+        "description": "",
+        "IDLugar": "Lu440",
+        "LugarProfrana (galego)": "Sansonha (Saxónia)",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "1",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "3.3236, 49.3817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3236,
+          49.3817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "8",
+        "name": "Santarém",
+        "namealt": "",
+        "description": "Cidade da portuguesa, atual capital do Ribatejo, e uma das mais importantes cidades medievais portugueses.",
+        "IDLugar": "Lu430",
+        "LugarProfrana (galego)": "Santarém",
+        "Aparicións (poemas)": "10",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "10",
+        "Dubidas": "",
+        "coordinates": "-8.68333, 39.23333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.68333,
+          39.23333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "55",
+        "name": "Santiago de Compostela",
+        "namealt": "",
+        "description": "Capital da Galiza medieval, um dos principais centros religiosos da Europa.",
+        "IDLugar": "Lu431",
+        "LugarProfrana (galego)": "Santiago de Compostela",
+        "Aparicións (poemas)": "8",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "8",
+        "Dubidas": "",
+        "coordinates": "-8.5459, 42.8804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5459,
+          42.8804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "190",
+        "name": "Sarria",
+        "namealt": "",
+        "description": "Município da província de Lugo, na Galiza, e uma das etapas do Caminho de Santiago.",
+        "IDLugar": "Lu635",
+        "LugarProfrana (galego)": "Sarria",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "1",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.4146607, 42.7784203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.414661,
+          42.77842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "28",
+        "name": "Segóvia",
+        "namealt": "",
+        "description": "Cidade de Castela-Leão, a norte de Madrid, importante centro medieval de comércio.",
+        "IDLugar": "Lu438",
+        "LugarProfrana (galego)": "Segóvia",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-4.1179, 40.948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1179,
+          40.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "106",
+        "name": "Seia",
+        "namealt": "",
+        "description": "Cidade portuguesa, no sopé da Serra da Estrela, Beira Alta.",
+        "IDLugar": "Lu636",
+        "LugarProfrana (galego)": "Seia",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.7028054, 40.4200998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.702805,
+          40.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "59",
+        "name": "Seserigo",
+        "namealt": "",
+        "description": "Um dos arrabaldes de Santarém medieval (na Ribeira).",
+        "IDLugar": "Lu637",
+        "LugarProfrana (galego)": "Seserigo",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-8.65148, 39.25448095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65148,
+          39.254481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "37",
+        "name": "Sevilha",
+        "namealt": "",
+        "description": "Capital da Andaluzia, tomada por Fernando III em 1248",
+        "IDLugar": "Lu445",
+        "LugarProfrana (galego)": "Sevilha",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-5.9953403, 37.3886303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99534,
+          37.38863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "158",
+        "name": "Sintra",
+        "namealt": "",
+        "description": "Município nos arredores de Lisboa, cujo castelo fazia parte da linha defensiva da cidade",
+        "IDLugar": "Lu639",
+        "LugarProfrana (galego)": "Sintra",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-9.35223, 38.8355605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.35223,
+          38.835561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "6",
+        "name": "Somportes",
+        "namealt": "Somport",
+        "description": "célebre desfiladeiro dos Pirinéus Centrais, por onde passava o Caminho de Santiago",
+        "IDLugar": "Lu640",
+        "LugarProfrana (galego)": "Somportes (Somport)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-0.5248473, 42.7957224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.524847,
+          42.795722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "155",
+        "name": "Sortelha",
+        "namealt": "",
+        "description": "Castelo no concelho do Sabugal, distrito da Guarda, na Beira Alta",
+        "IDLugar": "Lu522",
+        "LugarProfrana (galego)": "Sortelha",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.0896479, 40.3518321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.089648,
+          40.351832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "175",
+        "name": "Sousa",
+        "namealt": "",
+        "description": "Região no atual concelho de Felgueiras, distrito do Porto, dominio da principal família da nobreza portuguesa dos séculos XII e XIII",
+        "IDLugar": "Lu523",
+        "LugarProfrana (galego)": "Sousa (2)",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "grande",
+        "coordinates": "-8.24894, 41.3484",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.24894,
+          41.3484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "17",
+        "name": "Sousela",
+        "namealt": "",
+        "description": "A região das Terras de Sousa, no atual concelho de Felgueiras, distrito do Porto, domínios da principal família da nobreza portuguesa dos séculos XII e XIII",
+        "IDLugar": "Lu653",
+        "LugarProfrana (galego)": "Sousela",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "pequeno",
+        "coordinates": "-8.31018, 41.30174",
+        "_umap_options": {
+          "iconUrl": "?"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.31018,
+          41.30174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "200",
+        "name": "Soutomaior",
+        "namealt": "",
+        "description": "Localidade galega, na província de Pontevedra",
+        "IDLugar": "Lu525",
+        "LugarProfrana (galego)": "Soutomaior",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.5712973, 42.3367549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.571297,
+          42.336755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "118",
+        "name": "Soveral",
+        "namealt": "Sobral",
+        "description": "Localidade galega, da freguesia de Mogor, concelho de Marim, situada imediatamente a seguir a Bagüim",
+        "IDLugar": "Lu526",
+        "LugarProfrana (galego)": "Soveral (Sobral)",
+        "Aparicións (poemas)": "3",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "3",
+        "Dubidas": "",
+        "coordinates": "-8.54908, 42.05735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.54908,
+          42.05735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "47",
+        "name": "Talaveira",
+        "namealt": "",
+        "description": "Carolina Michaelis identifica o topónimo como Talavera la Real, em Badajoz (perto de Portugal, portanto)",
+        "IDLugar": "Lu527",
+        "LugarProfrana (galego)": "Talaveira",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.7707705, 38.8771848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77077,
+          38.877185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "174",
+        "name": "Tamariz",
+        "namealt": "",
+        "description": "Povoação de Castela, perto de Palência.",
+        "IDLugar": "Lu528",
+        "LugarProfrana (galego)": "Tamariz",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.01667, 41.98396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.01667,
+          41.98396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "108",
+        "name": "Tarrazona",
+        "namealt": "",
+        "description": "Cidade de Aragão, na província de Zaragoza, situada a cerca de 20 Km de Tudela.",
+        "IDLugar": "Lu529",
+        "LugarProfrana (galego)": "Tarrazona",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-1.7216461, 41.9065093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.721646,
+          41.906509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "34",
+        "name": "Terra de Campos",
+        "namealt": "",
+        "description": "Região natural de planície, nas atuais províncias de León, Palencia, Valladolid e Zamora, zona histórica de fronteira entre os reinos de Castela e de Leão.",
+        "IDLugar": "Lu521",
+        "LugarProfrana (galego)": "Terra de Campos (2)",
+        "Aparicións (poemas)": "4",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "4",
+        "Dubidas": "",
+        "coordinates": "-5.4791, 41.8771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4791,
+          41.8771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "85",
+        "name": "Toledo",
+        "namealt": "",
+        "description": "Cidade e província de Castela-La Mancha, na margem direita do Tejo, capital da Hispânia visigótica e uma das principais cidades medievais peninsulares",
+        "IDLugar": "Lu470",
+        "LugarProfrana (galego)": "Toledo",
+        "Aparicións (poemas)": "7",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "7",
+        "Dubidas": "",
+        "coordinates": "-4.024, 39.8561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.024,
+          39.8561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "30",
+        "name": "Torona",
+        "namealt": "",
+        "description": "Região no sul da Galiza, na fronteira do Minho. Acrescente-se que a mãe de D. Afonso Henriques, D. Teresa, já viúva, se afirmava senhora de Toronho (Tui).",
+        "IDLugar": "Lu520",
+        "LugarProfrana (galego)": "Torona",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.7238, 42.0631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7238,
+          42.0631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "199",
+        "name": "Touro",
+        "namealt": "Toro",
+        "description": "município na província de Zamora, em Castela-Leão",
+        "IDLugar": "Lu476",
+        "LugarProfrana (galego)": "Touro (Toro)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.0397243, 43.014771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.039724,
+          43.014771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "156",
+        "name": "Trancoso",
+        "namealt": "",
+        "description": "Município do distrito da Guarda, na Beira Alta.",
+        "IDLugar": "Lu519",
+        "LugarProfrana (galego)": "Trancoso",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.34908, 40.77847"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.34908,
+          40.77847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "63",
+        "name": "Tudela",
+        "namealt": "",
+        "description": "Cidade de Navarra, residência preferencial dos seus reis na Idade Média.",
+        "IDLugar": "Lu518",
+        "LugarProfrana (galego)": "Tudela",
+        "Aparicións (poemas)": "2",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "2",
+        "Dubidas": "",
+        "coordinates": "-1.60452, 42.06166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.60452,
+          42.06166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "104",
+        "name": "Valada",
+        "namealt": "",
+        "description": "Eventualmente a atual Valada do Ribatejo, freguesia do concelho do Cartaxo, distrito de Santarém. Mas é apenas umas das hipóteses, já que há pelo menos mais cinco ocorrências do topónimo em Portugal.",
+        "IDLugar": "Lu517",
+        "LugarProfrana (galego)": "Valada",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.76115, 39.080833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76115,
+          39.080833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "35",
+        "name": "Vale de Canhas",
+        "namealt": "",
+        "description": "Provavelmente Valdecañas de Cerrato, na província de Palencia",
+        "IDLugar": "Lu652",
+        "LugarProfrana (galego)": "Valdolide",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.18747, 41.99257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.18747,
+          41.99257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "83",
+        "name": "Valência",
+        "namealt": "",
+        "description": "Importante cidade do sul de Espanha, atualmente capital da Comunidade Valenciana. Conquistada uma primeira vez, em finais do século XI, por Rodrigo Díaz de Vivar, o célebre El Cid, foi tomada definitivamente por Jaime I de Aragão em 1238.",
+        "IDLugar": "Lu516",
+        "LugarProfrana (galego)": "Vale de Canhas",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-0.3759513, 39.4699014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.375951,
+          39.469901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "123",
+        "name": "Valladolid",
+        "namealt": "",
+        "description": "Cidade do noroeste de Espanha, em Castela-Leão.",
+        "IDLugar": "Lu488",
+        "LugarProfrana (galego)": "Valência",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-4.7286, 41.6521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7286,
+          41.6521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "68",
+        "name": "Valledolí",
+        "namealt": "",
+        "description": "Possivelmente a atual Valdolide, paróquia de San Fiz de Quión, concelho de Touro, Galiza",
+        "IDLugar": "Lu487",
+        "LugarProfrana (galego)": "Valladolid",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.2817393, 42.8958094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.281739,
+          42.895809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "51",
+        "name": "Veiga",
+        "namealt": "",
+        "description": "Veiga de Granada, a planície fértil que rodeia a cidade homónima, delimitada por montanhas, entre as quais a Sierra Nevada",
+        "IDLugar": "Lu491",
+        "LugarProfrana (galego)": "Veiga",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.60667, 37.18817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60667,
+          37.18817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "99",
+        "name": "Vigo",
+        "namealt": "",
+        "description": "Na época medieval, apenas uma pequena povoação nas Rias Baixas galegas.",
+        "IDLugar": "Lu513",
+        "LugarProfrana (galego)": "Vigo",
+        "Aparicións (poemas)": "6",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "6",
+        "Dubidas": "",
+        "coordinates": "-8.7247205, 42.2376602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72472,
+          42.23766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "49",
+        "name": "Vila Real",
+        "namealt": "Ciudad Real",
+        "description": "antiga povoação de Pozuelo Seco de Don Gil, à qual Afonso X mudou o nome (para Vila Real) em 1255",
+        "IDLugar": "Lu495",
+        "LugarProfrana (galego)": "Vila Real (Ciudad Real)",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-3.8886, 38.9646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8886,
+          38.9646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "44",
+        "name": "Vilanansur",
+        "namealt": "",
+        "description": "Lugar na província de Burgos",
+        "IDLugar": "Lu515",
+        "LugarProfrana (galego)": "Vilanansur",
+        "Aparicións (poemas)": "0",
+        "Aparicións (rúbricas)": "0",
+        "Aparicións (total)": "0",
+        "Dubidas": "",
+        "coordinates": "-3.3938217, 42.3082255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.393822,
+          42.308226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "213",
+        "name": "Vilar de Paos",
+        "namealt": "",
+        "description": "Deverá tratar-se da antiga Villar de Palos (atualmente,  cast. Villadepalos), povoação do concelho de Carracedelo, também em Leão.",
+        "IDLugar": "Lu514",
+        "LugarProfrana (galego)": "Vilar de Paos",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-6.7553861, 42.5371938"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.755386,
+          42.537194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "188",
+        "name": "Viveiro",
+        "namealt": "",
+        "description": "Município do extremo norte da Galiza",
+        "IDLugar": "Lu512",
+        "LugarProfrana (galego)": "Viveiro",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-7.58279, 43.6555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.58279,
+          43.6555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "25",
+        "name": "Zamora",
+        "namealt": "",
+        "description": "Cidade do noroeste de Espanha, em Castela-Leão, próxima da fronteira portuguesa, nas margens do rio Douro.",
+        "IDLugar": "Lu511",
+        "LugarProfrana (galego)": "Zamora",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-5.94232, 41.6857693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94232,
+          41.685769
+        ]
+      }
+    }
+  ]
+}

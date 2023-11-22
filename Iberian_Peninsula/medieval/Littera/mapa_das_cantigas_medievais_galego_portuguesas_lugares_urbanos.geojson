@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "168",
+        "name": "Moeda Velha",
+        "namealt": "",
+        "description": "Rua em Santigo de Compostela, perto da catedral, e ainda hoje existente",
+        "IDLugar": "Lu601",
+        "LugarProfrana (galego)": "Moeda Velha",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-8.5437146, 42.8814806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.543715,
+          42.881481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CdLugar": "198",
+        "name": "Porta do Ferro",
+        "namealt": "",
+        "description": "Uma das principais portas da Lisboa medieval. Situada em frente da Sé, era um lugar de ativo comércio.",
+        "IDLugar": "Lu620",
+        "LugarProfrana (galego)": "Porta do Ferro",
+        "Aparicións (poemas)": "1",
+        "Aparicións (rúbricas)": "",
+        "Aparicións (total)": "1",
+        "Dubidas": "",
+        "coordinates": "-9.1365919, 38.7077507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.136592,
+          38.707751
+        ]
+      }
+    }
+  ]
+}

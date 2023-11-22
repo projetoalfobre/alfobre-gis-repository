@@ -1,0 +1,6566 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-09T16:10:48Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/329434002",
+        "archaeological_site": "megalith",
+        "building": "yes",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del Miracle",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.5244749,
+              41.9105797
+            ],
+            [
+              1.5244763,
+              41.9105494
+            ],
+            [
+              1.5245008,
+              41.9105464
+            ],
+            [
+              1.5245001,
+              41.9105772
+            ],
+            [
+              1.5244749,
+              41.9105797
+            ]
+          ]
+        ]
+      },
+      "id": "way/329434002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1119127975",
+        "access": "yes",
+        "alt_name": "Estación megalítica de Sejos",
+        "archaeological_site": "megalith",
+        "description": "Atribuidos a los pastores que ya en el periodo megalítico subían con sus rebaños hasta estas montañas, son los vestigios megalíticos más importantes de Cantabria.",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "loc_name": "Menhires de Sejos",
+        "megalith_type": "menhir",
+        "name": "Estación megalítica de Sejos-Cuquillo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.3528126,
+              43.082646
+            ],
+            [
+              -4.3527566,
+              43.0823991
+            ],
+            [
+              -4.352593,
+              43.0824189
+            ],
+            [
+              -4.3526489,
+              43.0826658
+            ],
+            [
+              -4.3528126,
+              43.082646
+            ]
+          ]
+        ]
+      },
+      "id": "way/1119127975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/374034634",
+        "alt_name": "Menhir de Meada",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MN",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70245",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=48609",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=1756",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Meada",
+        "operator": "Sem afectação",
+        "protection_title": "Monumento Nacional",
+        "ref:cns": "503",
+        "ref:dgpc": "70245",
+        "ref:ipa": "1756",
+        "site_status": "Classificado",
+        "source:ref": "http://dre.pt/pdf1sdip/2013/06/11900/0345703458.pdf",
+        "wikidata": "Q1920532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4457254,
+          39.4960159
+        ]
+      },
+      "id": "node/374034634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/447704447",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Casa Cremada 2",
+        "source": "survey and thomas witzke - http://tw.strahlen.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1954319,
+          42.261771
+        ]
+      },
+      "id": "node/447704447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1265973336",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Pedra Llarga o de la Pedra del Diable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1799847,
+          41.5805966
+        ]
+      },
+      "id": "node/1265973336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1417361198",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Piedrahíta El Cañon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1796169,
+          42.8729552
+        ]
+      },
+      "id": "node/1417361198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1417394297",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir El Cabezudo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1913628,
+          42.8853337
+        ]
+      },
+      "id": "node/1417394297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1417394302",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir La Puentecilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1927799,
+          42.8971652
+        ]
+      },
+      "id": "node/1417394302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1417394309",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir La Llaneda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1942811,
+          42.8956288
+        ]
+      },
+      "id": "node/1417394309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1587734458",
+        "alt_name": "Menir de Almendres",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1974",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=20418685",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=57542",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=35887",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir dos Almendres",
+        "name:zh": "阿爾門德雷斯 環狀列石",
+        "opening_hours": "24/7",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "13907",
+        "ref:ipa": "35887",
+        "wikidata": "Q10328702",
+        "wikipedia": "pt:Menir dos Almendres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.048347,
+          38.564017
+        ]
+      },
+      "id": "node/1587734458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1711025482",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Leurtza",
+        "name:es": "Menhir Leurtza",
+        "name:eu": "Leurtza zutarria",
+        "wikimedia_commons": "File:Leurtza_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7181598,
+          43.0661261
+        ]
+      },
+      "id": "node/1711025482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726989668",
+        "description": "Monolito situado na confluencia de catro municipios: Vilasantar, Oza-Cesuras, Curtis e Mesía",
+        "historic": "memorial",
+        "inscription": "Vilasantar- Cesuras- Curtis- Mesía",
+        "material": "reinforced_concrete",
+        "megalith_type": "menhir",
+        "memorial": "obelisk",
+        "name": "Monolito Catro Concellos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1597828,
+          43.1192736
+        ]
+      },
+      "id": "node/1726989668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743060404",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Mugarriluze_zutarria_-_Elgea.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Mugarriluze / Mugarriluze zutarria",
+        "name:eu": "Mugarriluze zutarria",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5112705,
+          42.9640294
+        ]
+      },
+      "id": "node/1743060404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796751900",
+        "access": "yes",
+        "alt_name": "Arribirilleta",
+        "alt_name:eu": "Arribirilletako zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menhir Arribiribilleta / Arribiribilleta zutarria",
+        "name:eu": "Arribiribilletako zutarria",
+        "wikidata": "Q20492546",
+        "wikimedia_commons": "File:Arribiribilleta_zutarria.jpg",
+        "wikipedia": "eu:Arribiribilleta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3703456,
+          43.1766308
+        ]
+      },
+      "id": "node/1796751900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814943653",
+        "alt_name": "Vilarinha 3",
+        "archaeological_site": "megalith",
+        "heritage": "7",
+        "heritage:ref": "MIM",
+        "heritage:since": "2016",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=20965879",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2701778",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=35855",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Vilarinha 3",
+        "protection_title": "Monumento de Interesse Municipal",
+        "ref:cns": "29618",
+        "ref:ipa": "35855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3442737,
+          37.2453034
+        ]
+      },
+      "id": "node/1814943653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814943657",
+        "alt_name": "Vilarinha 2",
+        "archaeological_site": "megalith",
+        "heritage": "7",
+        "heritage:ref": "MIM",
+        "heritage:since": "2016",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=20964805",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2701699",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=35854",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Vilarinha 2",
+        "protection_title": "Monumento de Interesse Municipal",
+        "ref:cns": "29616",
+        "ref:ipa": "35854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.341609,
+          37.2465744
+        ]
+      },
+      "id": "node/1814943657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814943662",
+        "alt_name": "Vilarinha 5",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2701896",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Vilarinha 5",
+        "ref:cns": "29620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.345967,
+          37.245918
+        ]
+      },
+      "id": "node/1814943662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814943664",
+        "alt_name": "Vilarinha 1;Menir 1 da Vilarinha",
+        "archaeological_site": "megalith",
+        "heritage": "7",
+        "heritage:ref": "MIM",
+        "heritage:since": "2016",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=20607332",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2701661",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=35853",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Vilarinha 1",
+        "protection_title": "Monumento de Interesse Municipal",
+        "ref:cns": "29615",
+        "ref:ipa": "35853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3378815,
+          37.2486117
+        ]
+      },
+      "id": "node/1814943664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2020087877",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del coll de Sant Magí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2737006,
+          42.3606415
+        ]
+      },
+      "id": "node/2020087877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2077581601",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Dolmen dels Tres Reis",
+        "name:ca": "Dolmen dels Tres Reis",
+        "wikidata": "Q11917580",
+        "wikipedia": "ca:Dolmen dels Tres Reis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5798472,
+          41.6847361
+        ]
+      },
+      "id": "node/2077581601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2122667305",
+        "access": "private",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir de Olveira",
+        "source": "local knowledge",
+        "website": "https://www.lavozdegalicia.es/noticia/barbanza/2017/08/13/hallazgo-menhir-jardin-bretal/0003_201708B13C11996.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0341715,
+          42.5903156
+        ]
+      },
+      "id": "node/2122667305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2198158651",
+        "megalith_type": "menhir",
+        "note": "autentic??"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1609519,
+          42.3113564
+        ]
+      },
+      "id": "node/2198158651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315554703",
+        "archaeological_site": "megalith",
+        "description": "2 meters / 6 feet tall standing rock",
+        "historic": "archaeological_site",
+        "historic:civilization": "Neolithic",
+        "megalith_type": "menhir",
+        "name": "Menhir d'en Llac",
+        "name:ca": "Menhir d'en Llac",
+        "name:en": "Megalith",
+        "wikidata": "Q21819883",
+        "wikipedia": "ca:Menhir d'en Llach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9350783,
+          41.7593198
+        ]
+      },
+      "id": "node/2315554703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2323049083",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Santa Helena",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.159216,
+          42.3253367
+        ]
+      },
+      "id": "node/2323049083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378226543",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bustiztza Zutarria",
+        "name:es": "Menhir de Bustitza",
+        "name:eu": "Bustitzako zutarria",
+        "name:fr": "Menhir de Bustitza",
+        "wikidata": "Q25474809",
+        "wikimedia_commons": "File:Buztizko lepoa zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7234856,
+          43.1581405
+        ]
+      },
+      "id": "node/2378226543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2791754600",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ugarra",
+        "name:eu": "Ugarra zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2241719,
+          42.7258018
+        ]
+      },
+      "id": "node/2791754600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836654890",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Altsoroi 1",
+        "name:eu": "Altsoroi zutarria 1",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Altsoroi_1_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5834781,
+          43.2416391
+        ]
+      },
+      "id": "node/2836654890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2836654891",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Altsoroi 2",
+        "name:eu": "Altsoroi zutarria 2",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Altsoroi_2_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5834903,
+          43.2420803
+        ]
+      },
+      "id": "node/2836654891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2869084715",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Saltarri",
+        "name:eu": "Saltarri zutarria",
+        "wikidata": "Q12266810",
+        "wikimedia_commons": "File:Saltarri_zutarria.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0944811,
+          43.0083079
+        ]
+      },
+      "id": "node/2869084715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941932158",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir El Peñuco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1858067,
+          42.8693868
+        ]
+      },
+      "id": "node/2941932158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941932159",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir La Matorra II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1920417,
+          42.9062893
+        ]
+      },
+      "id": "node/2941932159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941932160",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir La Motorra I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1920159,
+          42.9062469
+        ]
+      },
+      "id": "node/2941932160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2941932161",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Peñahincada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2103551,
+          42.9237079
+        ]
+      },
+      "id": "node/2941932161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973078607",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Can Mont",
+        "name:ca": "Menhir de Can Mont",
+        "tourism": "yes",
+        "wikidata": "Q21789894",
+        "wikipedia": "ca:Menhir de can Mont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.04899,
+          41.864367
+        ]
+      },
+      "id": "node/2973078607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3003268255",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bidangoko Gaña",
+        "name:eu": "Bidangoko Gaña zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Bidango Gaña zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7781738,
+          43.2379359
+        ]
+      },
+      "id": "node/3003268255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3019738623",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Can Llaurador",
+        "name:ca": "Menhir de Can Llaurador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9698291,
+          41.8040294
+        ]
+      },
+      "id": "node/3019738623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3163610064",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bidartxoko",
+        "name:eu": "Bidartxokoko zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6754351,
+          43.0893656
+        ]
+      },
+      "id": "node/3163610064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3190277686",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Pedra Chantada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7503503,
+          43.3408384
+        ]
+      },
+      "id": "node/3190277686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269294195",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Urdintz",
+        "name:eu": "Urdintz zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q56643668",
+        "wikimedia_commons": "File:Urdintz_zutarria.jpg",
+        "wikipedia": "eu:Urdintz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5595739,
+          43.0943179
+        ]
+      },
+      "id": "node/3269294195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332442761",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "image": "https://commons.wikimedia.org/wiki/File:Pagarreta_II_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Pagarreta II / Pagarreta II zutarria",
+        "name:eu": "Pagarreta II zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3520887,
+          42.9463196
+        ]
+      },
+      "id": "node/3332442761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332442766",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Zorrotzarri / Zorrotzarri zutarria",
+        "name:eu": "Zorrotzarri zutarria",
+        "wikimedia_commons": "File:Zorrotzarri_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3521013,
+          42.9520686
+        ]
+      },
+      "id": "node/3332442766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942822",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arrubi",
+        "name:eu": "Arrubi zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0809821,
+          43.0097657
+        ]
+      },
+      "id": "node/3332942822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942823",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ataburu Gañe",
+        "name:eu": "Ataburu Gañe zutarria",
+        "wikimedia_commons": "File:Atauru_Ga%C3%B1e_zutarria.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.110842,
+          43.0085157
+        ]
+      },
+      "id": "node/3332942823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942827",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Igaratza III",
+        "name:eu": "Igaratza III zutarria",
+        "wikimedia_commons": "File:Igaratza_III_zutarria.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0395058,
+          42.989416
+        ]
+      },
+      "id": "node/3332942827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942828",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menhir Igaratza IV",
+        "name:eu": "Igaratza IV zutarria",
+        "wikimedia_commons": "File:Igaratza_IV_zutarria.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0428801,
+          42.9901376
+        ]
+      },
+      "id": "node/3332942828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942832",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Irazustako lepoa",
+        "name:eu": "Irazustako lepoa zutarria",
+        "wikimedia_commons": "File:Irazustako Lepoa zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.073691,
+          43.003203
+        ]
+      },
+      "id": "node/3332942832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942833",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Jentilarri",
+        "name:eu": "Jentilarri zutarria",
+        "wikimedia_commons": "File:Jentillarri_zutarria.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1091134,
+          42.9914288
+        ]
+      },
+      "id": "node/3332942833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332942844",
+        "alt_name": "Suspentaitz zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Supitaitz",
+        "name:eu": "Supitaitz zutarria",
+        "wikimedia_commons": "File:Supitaitz zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1022757,
+          42.9884037
+        ]
+      },
+      "id": "node/3332942844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3334392554",
+        "alt_name": "Sekillagako zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Mugarriaundi",
+        "name:eu": "Mugarriaundi zutarria",
+        "wikimedia_commons": "File:Arriaundi_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4366745,
+          42.9584471
+        ]
+      },
+      "id": "node/3334392554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3334469943",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arluze",
+        "name:eu": "Arluze zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2751541,
+          43.2413913
+        ]
+      },
+      "id": "node/3334469943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3334684715",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Usobelartza",
+        "name:eu": "Usobelartza zutarria",
+        "wikimedia_commons": "File:Usobelartza_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9787479,
+          43.1980545
+        ]
+      },
+      "id": "node/3334684715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3334738316",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Monolito Txoritokieta",
+        "name:eu": "Txoritokieta zutarria",
+        "wikimedia_commons": "File:Txoritokieta_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9199806,
+          43.2891546
+        ]
+      },
+      "id": "node/3334738316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339317689",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Palanca del Moro",
+        "source": "www.megalitos.es",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4253721,
+          38.2107888
+        ]
+      },
+      "id": "node/3339317689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3341151157",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Cardenchosa",
+        "source": "www.megalitos.es",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5508628,
+          38.2379777
+        ]
+      },
+      "id": "node/3341151157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358847776",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "note": "ubicación aproximada",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6425642,
+          42.7294521
+        ]
+      },
+      "id": "node/3358847776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3358847777",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "note": "ubicación aproximada",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6435356,
+          42.746115
+        ]
+      },
+      "id": "node/3358847777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3363198707",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bagazelai",
+        "name:eu": "Bagazelai zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5699953,
+          43.0413422
+        ]
+      },
+      "id": "node/3363198707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3363198709",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Barabar",
+        "name:eu": "Barabar zutarria",
+        "wikidata": "Q66115219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5795839,
+          43.0067209
+        ]
+      },
+      "id": "node/3363198709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3363198717",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Okolin",
+        "name:eu": "Okolin zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5901407,
+          43.0402955
+        ]
+      },
+      "id": "node/3363198717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3369631800",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Las Atalayas (la Buena Moza, Las Talayas)",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8837725,
+          42.4901808
+        ]
+      },
+      "id": "node/3369631800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3369631801",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Vallemedín - Piedralta - Piedra Alta",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8921802,
+          42.4465709
+        ]
+      },
+      "id": "node/3369631801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370627772",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Algorrieta",
+        "name:eu": "Algorrieta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.60159,
+          43.0357202
+        ]
+      },
+      "id": "node/3370627772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370627780",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Irumugeta",
+        "name:eu": "Irumugeta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.594869,
+          43.0407499
+        ]
+      },
+      "id": "node/3370627780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372347194",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Aitziturri 1",
+        "name:eu": "Aitziturri 1 zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2277451,
+          42.8791932
+        ]
+      },
+      "id": "node/3372347194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372347206",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Azpegi",
+        "name:eu": "Azpegi zutarria",
+        "wikidata": "Q66121996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2226812,
+          43.037852
+        ]
+      },
+      "id": "node/3372347206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372347214",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Irurilleta",
+        "name:eu": "Irurilleta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2527697,
+          42.9057464
+        ]
+      },
+      "id": "node/3372347214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372347231",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ursario",
+        "name:eu": "Ursario zutarria",
+        "wikidata": "Q66121993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.206501,
+          43.0346756
+        ]
+      },
+      "id": "node/3372347231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3372347232",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Zamaiturrialdea",
+        "name:eu": "Zamaiturrialdea zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2462449,
+          42.9043048
+        ]
+      },
+      "id": "node/3372347232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375184551",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Berraburu",
+        "name:eu": "Berraburu zutarria",
+        "wikidata": "Q66122954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3184601,
+          42.9225973
+        ]
+      },
+      "id": "node/3375184551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375184554",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Irumugeta",
+        "name:eu": "Irumugeta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3361338,
+          42.947862
+        ]
+      },
+      "id": "node/3375184554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375184561",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Mendigibel",
+        "name:eu": "Mendigibel zutarria",
+        "wikidata": "Q66122950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3198417,
+          42.9199699
+        ]
+      },
+      "id": "node/3375184561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390737664",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Cal Camat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3468346,
+          41.5421877
+        ]
+      },
+      "id": "node/3390737664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3390740199",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de la Pedra del Diable",
+        "name:ca": "Menhir de la Pedra del Diable",
+        "wikidata": "Q21402431",
+        "wikimedia_commons": "Category:Menhir de la Pedra del Diable",
+        "wikipedia": "ca:Menhir de la Pedra del Diable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3297511,
+          41.5250314
+        ]
+      },
+      "id": "node/3390740199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3392156943",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de la Fuente de Abajo",
+        "source": "www.megalitos.es",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4774925,
+          38.2658534
+        ]
+      },
+      "id": "node/3392156943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398181817",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Adikosoro",
+        "name:eu": "Adikosoro zutarria",
+        "wikidata": "Q66115281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4432166,
+          43.0232988
+        ]
+      },
+      "id": "node/3398181817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398181818",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ohianondo",
+        "name:eu": "Ohianondo zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3686046,
+          42.9910216
+        ]
+      },
+      "id": "node/3398181818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398181819",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Sakarteburu",
+        "name:eu": "Sakarteburu zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3861271,
+          42.953322
+        ]
+      },
+      "id": "node/3398181819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398268929",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Amuz",
+        "name:eu": "Amuz zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4889548,
+          42.9863977
+        ]
+      },
+      "id": "node/3398268929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398268930",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Goitean",
+        "name:eu": "Goitean zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549602,
+          42.9872544
+        ]
+      },
+      "id": "node/3398268930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398268931",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Leateko Harria",
+        "name:eu": "Leateko Harria zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.502574,
+          43.030006
+        ]
+      },
+      "id": "node/3398268931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3404672076",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Induriaga",
+        "name:eu": "Induriaga zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3201485,
+          42.800731
+        ]
+      },
+      "id": "node/3404672076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3404672077",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Oihanzabalea",
+        "name:eu": "Oihanzabalea zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3383206,
+          42.8007791
+        ]
+      },
+      "id": "node/3404672077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3406947940",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Fuente de la Pila",
+        "name:eu": "Pilako Iturriaren zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66123094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1317945,
+          42.6606179
+        ]
+      },
+      "id": "node/3406947940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409454473",
+        "alt_name": "Menhir de Las Alforjas",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arrizabala",
+        "name:eu": "Arrizabala zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1024072,
+          42.9558298
+        ]
+      },
+      "id": "node/3409454473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414938389",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arrikolota",
+        "name:eu": "Arrikolota zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Arrikolota_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5905969,
+          43.2419881
+        ]
+      },
+      "id": "node/3414938389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414938390",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Orizki",
+        "name:eu": "Orizki zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Orizki_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5819164,
+          43.242394
+        ]
+      },
+      "id": "node/3414938390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3414938391",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Pagolleta",
+        "name:eu": "Pagolleta zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Pagoieta_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5921059,
+          43.2380308
+        ]
+      },
+      "id": "node/3414938391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893775",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Azpilleta",
+        "name:eu": "Azpilleta zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7975325,
+          43.0946644
+        ]
+      },
+      "id": "node/3423893775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893776",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Belarregi",
+        "name:eu": "Belarregi zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113500",
+        "wikimedia_commons": "File:Belarregi_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8310304,
+          43.0885088
+        ]
+      },
+      "id": "node/3423893776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893777",
+        "alt_name": "Elazmuño zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Iruñarri",
+        "name:eu": "Iruñarri zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q25474815",
+        "wikimedia_commons": "File:Iru%C3%B1arri_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8112494,
+          43.1007054
+        ]
+      },
+      "id": "node/3423893777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893778",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Latargi 2",
+        "name:eu": "Latargi 2 zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8038942,
+          43.0935708
+        ]
+      },
+      "id": "node/3423893778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893779",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Latargi 1",
+        "name:eu": "Latargi 1 zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8039004,
+          43.093718
+        ]
+      },
+      "id": "node/3423893779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893780",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Learra",
+        "name:eu": "Learra zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113497",
+        "wikimedia_commons": "File:Learra_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7475216,
+          43.1387389
+        ]
+      },
+      "id": "node/3423893780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3423893781",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Sarobe",
+        "name:eu": "Sarobe zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113505",
+        "wikimedia_commons": "File:Sarobe_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7632215,
+          43.1262165
+        ]
+      },
+      "id": "node/3423893781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452491125",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Legate",
+        "name:eu": "Legate zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Legate_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5642942,
+          43.1712223
+        ]
+      },
+      "id": "node/3452491125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111264",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Aitzalegi",
+        "name:eu": "Aitzalegi zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114409",
+        "wikimedia_commons": "File:Aitzalegi_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5669066,
+          43.0685431
+        ]
+      },
+      "id": "node/3475111264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111265",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Aramendiko Borda",
+        "name:eu": "Aramendiko Borda zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5006842,
+          43.1975033
+        ]
+      },
+      "id": "node/3475111265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111267",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Argibelgo_lepoa_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Argibelgo Lepoa",
+        "name:eu": "Argibelgo Lepoa zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4714256,
+          43.0910063
+        ]
+      },
+      "id": "node/3475111267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111268",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Argintzuko_lepoa_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Argintzuko Lepoa",
+        "name:eu": "Argintzuko Lepoa zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4853076,
+          43.0598467
+        ]
+      },
+      "id": "node/3475111268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111269",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arrazela",
+        "name:eu": "Arrazela zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Arrazela_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5555022,
+          43.1090742
+        ]
+      },
+      "id": "node/3475111269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111270",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Artxubieta_Hegoalde_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Artxubieta Hegoalde",
+        "name:eu": "Artxubieta Hegoalde zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5049899,
+          43.2237417
+        ]
+      },
+      "id": "node/3475111270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111271",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Artxubieta_Iparralde_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Artxubieta Iparralde",
+        "name:eu": "Artxubieta Iparralde zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5050096,
+          43.2237648
+        ]
+      },
+      "id": "node/3475111271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111272",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Autrin_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Autrin",
+        "name:eu": "Autrin zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4734787,
+          43.0704504
+        ]
+      },
+      "id": "node/3475111272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111273",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bagordi",
+        "name:eu": "Bagordi zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Bagordi_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5350091,
+          43.1705104
+        ]
+      },
+      "id": "node/3475111273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111274",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Betarte_1_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Betarte 1",
+        "name:eu": "Betarte 1 zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5014733,
+          43.2122673
+        ]
+      },
+      "id": "node/3475111274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111275",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Betarte_2_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Betarte 2",
+        "name:eu": "Betarte 2 zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.501766,
+          43.2120765
+        ]
+      },
+      "id": "node/3475111275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111276",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ermitako Lepoa",
+        "name:eu": "Ermitako Lepoa zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114396",
+        "wikimedia_commons": "File:Ermitako_lepoa_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6168251,
+          43.0437287
+        ]
+      },
+      "id": "node/3475111276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111278",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Gorospilgo Lepoa 1",
+        "name:eu": "Gorospilgo Lepoa 1 zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114393",
+        "wikimedia_commons": "File:Gorospilgo_lepoa_1_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5643716,
+          43.0750668
+        ]
+      },
+      "id": "node/3475111278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111279",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Gorospilgo Lepoa 2",
+        "name:eu": "Gorospilgo Lepoa 2 zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Gorospilgo_lepoa_2_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5642408,
+          43.0744173
+        ]
+      },
+      "id": "node/3475111279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111280",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Gorramendi_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Gorramendi",
+        "name:eu": "Gorramendi zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4431193,
+          43.2091587
+        ]
+      },
+      "id": "node/3475111280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111282",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Inzpideko_Borda_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Inzpideko Borda",
+        "name:eu": "Inzpideko Borda zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4290927,
+          43.2007949
+        ]
+      },
+      "id": "node/3475111282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111283",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Inzpideko Lepoa",
+        "name:eu": "Inzpideko Lepoa zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4334493,
+          43.1993667
+        ]
+      },
+      "id": "node/3475111283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111284",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Irurita_Barrengo_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Irurita Barrengo",
+        "name:eu": "Irurita Barrengo zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.477312,
+          43.095119
+        ]
+      },
+      "id": "node/3475111284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111285",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Luurtzu Hegoalde",
+        "name:eu": "Luurtzu Hegoalde zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4868928,
+          43.0550288
+        ]
+      },
+      "id": "node/3475111285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111286",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Luurtzuko_lepoa_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Luurtzuko Lepoa",
+        "name:eu": "Luurtzuko Lepoa zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4909728,
+          43.0574777
+        ]
+      },
+      "id": "node/3475111286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111287",
+        "addr:city": "Baztan",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Mehatzeko Bizkarra",
+        "name:eu": "Mehatzeko Bizkarra zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.412048,
+          43.272392
+        ]
+      },
+      "id": "node/3475111287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111288",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Saroiko Bisker",
+        "name:eu": "Saroiko Bisker zutarria",
+        "source": "wiki.txoperena.es",
+        "wikimedia_commons": "File:Saroiko_Bisker_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5300403,
+          43.1638495
+        ]
+      },
+      "id": "node/3475111288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111289",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Ubedo_1_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Ubedo 1",
+        "name:eu": "Ubedo 1 zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4033612,
+          43.1969734
+        ]
+      },
+      "id": "node/3475111289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475111290",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Urkitze_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Urkizte",
+        "name:eu": "Urkizte zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5063586,
+          43.1098547
+        ]
+      },
+      "id": "node/3475111290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475324677",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Belarzinketa",
+        "name:eu": "Belarzinketa zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114045",
+        "wikimedia_commons": "File:Belarzinketa_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8946667,
+          43.0673836
+        ]
+      },
+      "id": "node/3475324677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475324678",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Iruso",
+        "name:eu": "Iruso zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66113381",
+        "wikimedia_commons": "File:Iruso_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9334314,
+          43.0993741
+        ]
+      },
+      "id": "node/3475324678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3478465574",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Arakil",
+        "name:eu": "Arakil zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66114930",
+        "wikimedia_commons": "File:Arakil_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0073784,
+          42.9834146
+        ]
+      },
+      "id": "node/3478465574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479800931",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Erroldan Harria",
+        "name:eu": "Erroldan Harria zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66115014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9142822,
+          42.9499854
+        ]
+      },
+      "id": "node/3479800931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479800932",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Urdiaingo Portua",
+        "name:eu": "Urdiaingo Portua zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66122363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1235192,
+          42.8715638
+        ]
+      },
+      "id": "node/3479800932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947565",
+        "alt_name": "Estrankalai zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bretxagaina / Bretxagaina (Mugako-Arriya) zutarria",
+        "name:eu": "Bretxagaina (Mugako-Arriya) zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.108052,
+          42.8440784
+        ]
+      },
+      "id": "node/3481947565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947566",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Las Campanas",
+        "name:es": "Menhir Las Campanas",
+        "name:eu": "Las Campanas zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66122361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1656673,
+          42.806283
+        ]
+      },
+      "id": "node/3481947566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947567",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Otsoportillo 1 Iparralde",
+        "name:eu": "Otsoportillo 1 Iparralde zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0691672,
+          42.8190135
+        ]
+      },
+      "id": "node/3481947567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947568",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Otsoportillo 2 Hegoalde",
+        "name:eu": "Otsoportillo 2 Hegoalde zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0715869,
+          42.8161411
+        ]
+      },
+      "id": "node/3481947568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947569",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Santa Marina / Santa Marina zutarria",
+        "name:eu": "Santa Marina zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11412,
+          42.867122
+        ]
+      },
+      "id": "node/3481947569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3481947570",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Saroibarren / Saroibarren zutarria",
+        "name:eu": "Saroibarren zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1161793,
+          42.8551278
+        ]
+      },
+      "id": "node/3481947570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484690415",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Elordiko Harria",
+        "name:eu": "Elordiko Harria zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9515375,
+          42.8618702
+        ]
+      },
+      "id": "node/3484690415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484690416",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Menhir_Fuente_Fr%C3%ADa.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Fuente Fría",
+        "name:eu": "Fuente Fria zutarria",
+        "source": "wiki.txoperena.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.930113,
+          42.867806
+        ]
+      },
+      "id": "node/3484690416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484690417",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Irunsario_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Irunsario",
+        "name:eu": "Irunsario zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66122608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9190318,
+          42.871544
+        ]
+      },
+      "id": "node/3484690417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484690418",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Sarasako Sakana",
+        "name:eu": "Sarasako Sakana zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66122611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9911149,
+          42.8602634
+        ]
+      },
+      "id": "node/3484690418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3484690419",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Soosa",
+        "name:eu": "Soosa zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66122609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9932829,
+          42.8405783
+        ]
+      },
+      "id": "node/3484690419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3497727612",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Eskintza",
+        "name:eu": "Eskintza zutarria",
+        "source": "wiki.txoperena.es",
+        "wikidata": "Q66123032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9201202,
+          42.6518346
+        ]
+      },
+      "id": "node/3497727612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3502510437",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Yelso de Hayas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.389043,
+          43.3626254
+        ]
+      },
+      "id": "node/3502510437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3591992043",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Santa Margarida",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5415274,
+          42.1413679
+        ]
+      },
+      "id": "node/3591992043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3691148185",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Mijaraluenga",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1995195,
+          42.7793806
+        ]
+      },
+      "id": "node/3691148185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710698958",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de la Murtra",
+        "name:ca": "Menhir de la Murtra",
+        "wikidata": "Q11692046",
+        "wikipedia": "ca:Menhir de la Murtra (Sant Climent Sescebes)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9777796,
+          42.4025456
+        ]
+      },
+      "id": "node/3710698958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3860494105",
+        "alt_name": "Menhir Legaire 3",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Akarte / Akarte zutarria",
+        "name:eu": "Akarte zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2782799,
+          42.842842
+        ]
+      },
+      "id": "node/3860494105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566975",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Cildepuerta",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.235719,
+          42.8974334
+        ]
+      },
+      "id": "node/3974566975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566976",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir El Castrillo",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2446528,
+          42.889337
+        ]
+      },
+      "id": "node/3974566976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566977",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Itaidako zutarria (Menhir)",
+        "name:en": "Menhir of Itaida",
+        "name:es": "Menhir de Itaida",
+        "name:eu": "Itaidako zutarria",
+        "name:fr": "Menhir d'Itaida",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.279413,
+          42.8129095
+        ]
+      },
+      "id": "node/3974566977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566978",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir La Lastrilla",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0989513,
+          43.0116076
+        ]
+      },
+      "id": "node/3974566978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566979",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Legaire 1 / Legaire 1 zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2728001,
+          42.8387289
+        ]
+      },
+      "id": "node/3974566979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566980",
+        "alt_name": "Menhir Akarteko Iraganbide",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Legaire 2 / Legaire 2 zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2755699,
+          42.839042
+        ]
+      },
+      "id": "node/3974566980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566981",
+        "alt_name": "Menhir Legaire 4",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Surbe / Surbe zutarria",
+        "name:eu": "Surbe zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2906982,
+          42.8461257
+        ]
+      },
+      "id": "node/3974566981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566982",
+        "alt_name": "Menhir Legaire 5",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Atau 1 / Atau 1 zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3017296,
+          42.8458918
+        ]
+      },
+      "id": "node/3974566982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566983",
+        "alt_name": "Menhir Legaire 6",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Atau 2 / Atau 2 zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3007206,
+          42.846323
+        ]
+      },
+      "id": "node/3974566983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566984",
+        "alt_name": "Menhir Legaire 7",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Lekuona / Lekuona zutarria",
+        "name:eu": "Lekuona zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2955821,
+          42.8419457
+        ]
+      },
+      "id": "node/3974566984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566985",
+        "alt_name": "Menhir Legaire 9",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Mendiluze / Mendiluze zutarria",
+        "name:eu": "Mendiluze zutarria",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2856717,
+          42.839699
+        ]
+      },
+      "id": "node/3974566985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566986",
+        "alt_name": "Menhir El Gustal",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Pico Gustal",
+        "source": "www.megalitos.es",
+        "wikidata": "Q20170814"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2441631,
+          42.9022969
+        ]
+      },
+      "id": "node/3974566986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3974566987",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ribota",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1939108,
+          42.8958574
+        ]
+      },
+      "id": "node/3974566987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3978534993",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Moyón de la Corralá",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5307928,
+          43.1138728
+        ]
+      },
+      "id": "node/3978534993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3986837616",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Alto Guriezo",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3669131,
+          43.357459
+        ]
+      },
+      "id": "node/3986837616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3986837617",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Navas de Tez (Navaspez)",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8568057,
+          42.8170483
+        ]
+      },
+      "id": "node/3986837617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3986837618",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Pedruecos",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8545439,
+          43.0913674
+        ]
+      },
+      "id": "node/3986837618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426618",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Convento de São José"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4536187,
+          37.1369094
+        ]
+      },
+      "id": "node/3999426618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426619",
+        "alt_name": "Marco de Anta;Estela Menir da Caparrosa;Estela Menir de Caparrosa",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73146",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=56786",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=4988",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Estela-Menir de Caparrosa",
+        "note": "Em Vias de Classificação",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "677",
+        "ref:ipa": "4988",
+        "wikidata": "Q48755334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0855,
+          40.63315
+        ]
+      },
+      "id": "node/3999426619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426620",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bispo 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.91607,
+          37.06492
+        ]
+      },
+      "id": "node/3999426620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426621",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Bispo 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.91495,
+          37.06483
+        ]
+      },
+      "id": "node/3999426621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426622",
+        "alt_name": "Menir da Bulhoa",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MN",
+        "heritage:since": "1971",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69720",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47786",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=1225",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Abelhoa",
+        "operator": "Sem afectação",
+        "protection_title": "Monumento Nacional",
+        "ref": "CNS 592",
+        "ref:cns": "592",
+        "ref:dgpc": "69720",
+        "ref:ipa": "1225",
+        "related_law": "Decreto n.º 516/71, DG, I Série, n.º 274, de 22-11-1971",
+        "site_status": "Classificado",
+        "source:ref": "http://www.dre.pt/pdf1s/1971/11/27400/17981799.pdf",
+        "wikidata": "Q1920530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3829194,
+          38.4622457
+        ]
+      },
+      "id": "node/3999426622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426623",
+        "alt_name": "Menir no sítio do Penedo Comprido;Penedo Comprido",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MN",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69718",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=54087",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3863",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir do Outeiro",
+        "protection_title": "Monumento Nacional",
+        "ref:cns": "11314",
+        "ref:dgpc": "69718",
+        "ref:ipa": "3863",
+        "site_status": "Classificado",
+        "source:ref": "http://www.dre.pt/pdf1s/1971/11/27400/17981799.pdf",
+        "wikidata": "Q1920534",
+        "wikipedia": "pt:Menir de Outeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39362,
+          38.470387
+        ]
+      },
+      "id": "node/3999426623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426624",
+        "alt_name": "Menir do Patalou",
+        "archaeological_site": "megalith",
+        "heritage": "yes",
+        "heritage:operator": "dgpc",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=25722460",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2589459",
+        "heritage:website:sipa": "http://monumentos.pt/site/app_pagesuser/SIPA.aspx?id=35572",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir do Patalou",
+        "protection_title": "Com Despacho de Abertura",
+        "ref:cns": "24638",
+        "ref:dgpc": "25722460",
+        "ref:ipa": "35572",
+        "site_status": "Em Vias de Classificação",
+        "source:ref": "https://dre.pt/application/conteudo/119972507",
+        "wikidata": "Q55571080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.59391,
+          39.48269
+        ]
+      },
+      "id": "node/3999426624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426626",
+        "alt_name": "Menir da Pedra Longa",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1986",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69689",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=57323",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=2733",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic_3",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menires da Pedra Longa",
+        "note": "Conjunto de três menires",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "2357",
+        "ref:ipa": "2733",
+        "wikidata": "Q66813739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.09132,
+          38.69976
+        ]
+      },
+      "id": "node/3999426626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426627",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir Das Fazendas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.090256,
+          38.698749
+        ]
+      },
+      "id": "node/3999426627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426628",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir Do Sideral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.28,
+          38.63445
+        ]
+      },
+      "id": "node/3999426628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426629",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=55303",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Caeira",
+        "ref:cns": "12262",
+        "wikidata": "Q19834685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9486775,
+          38.8802823
+        ]
+      },
+      "id": "node/3999426629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426630",
+        "archaeological_site": "megalith",
+        "fixme": "tbc",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir da Carrilha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5001785,
+          39.0654381
+        ]
+      },
+      "id": "node/3999426630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426631",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir da Casa Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6605933,
+          39.4103963
+        ]
+      },
+      "id": "node/3999426631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426632",
+        "alt_name": "Menir da Courela da Casa Nova;Menir da Courela do Guita",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "DGPC",
+        "heritage:ref": "MN",
+        "heritage:since": "1974",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70174",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47845",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1188",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir na Courela da Casa Nova",
+        "protection_title": "Monumento Nacional",
+        "ref:cns": "617",
+        "ref:ipa": "1188",
+        "url": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1188",
+        "website": "https://arqueologia.patrimoniocultural.pt/?sid=sitios.resultados&subsid=47845",
+        "wikidata": "Q51077913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2925749,
+          38.648918
+        ]
+      },
+      "id": "node/3999426632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426634",
+        "alt_name": "Marco de Luzim",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1970",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69728",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=48358",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=5320",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir de Luzim",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "789",
+        "ref:ipa": "5320",
+        "wikidata": "Q10328699",
+        "wikimedia_commons": "Category:Menir de Luzim",
+        "wikipedia": "pt:Menir de Luzim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2554,
+          41.14495
+        ]
+      },
+      "id": "node/3999426634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426635",
+        "alt_name": "nir de Malcabrão; menir de Malk-Abraham (1884)",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "IIP",
+        "heritage:since": "1990",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=72974",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=992",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menir de Mac Abraão",
+        "operator": "Sem afectação",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref": "CNS 553",
+        "ref:dgpc": "72974",
+        "ref:ipa": "992",
+        "site_status": "Classificado",
+        "source:ref": "http://www.dre.pt/pdf1s/1990/07/16300/29722974.pdf",
+        "website": "https://arqueologia.patrimoniocultural.pt/?sid=sitios.resultados&subsid=53211",
+        "wikidata": "Q10328700",
+        "wikipedia": "pt:Menir de Mac Abraão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.874183,
+          38.218435
+        ]
+      },
+      "id": "node/3999426635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426636",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Penedono",
+        "wikidata": "Q51077929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39215,
+          40.97306
+        ]
+      },
+      "id": "node/3999426636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426638",
+        "alt_name": "Padrão de São Bartolomeu do Mar",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=75004",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=53931",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1100",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de São Bartolomeu do Mar",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "11114",
+        "ref:ipa": "1100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7910106,
+          41.5735508
+        ]
+      },
+      "id": "node/3999426638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426639",
+        "alt_name": "Menir de Pedra a Pé;Menir de Antas",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1992",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73616",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47979",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1920",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir de São Paio de Antas",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "665",
+        "ref:ipa": "1920",
+        "website": "https://www.visitesposende.com/pt/fazer/roteiros/arqueologico/menir-de-s-paio-de-antas-antas",
+        "wikidata": "Q1427734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7671119,
+          41.6009226
+        ]
+      },
+      "id": "node/3999426639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426640",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Ulme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4278,
+          39.314233
+        ]
+      },
+      "id": "node/3999426640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426641",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Vale dos Chãos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.19515,
+          39.46747
+        ]
+      },
+      "id": "node/3999426641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426642",
+        "alt_name": "Menir da Água da Cuba;Água de Cuba",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47715",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir de Água de Cuba",
+        "ref:cns": "1144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3581,
+          39.40607
+        ]
+      },
+      "id": "node/3999426642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426643",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir do Carvalhal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.48,
+          39.526
+        ]
+      },
+      "id": "node/3999426643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426644",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir do Corregedor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.39,
+          39.472
+        ]
+      },
+      "id": "node/3999426644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426645",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir do Tojal",
+        "wikidata": "Q51077936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.239999,
+          38.517639
+        ]
+      },
+      "id": "node/3999426645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426646",
+        "alt_name": "Vale de Maria Pais",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=52598",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir do Vale de Maria Pais",
+        "ref:cns": "7377",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.38837,
+          40.918827
+        ]
+      },
+      "id": "node/3999426646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426647",
+        "alt_name": "Pedra dos Cucos",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "IIP",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74038",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=3977",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir dos Gregórios",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:dgpc": "74038",
+        "ref:ipa": "3977",
+        "site_status": "Classificado",
+        "source:ref": "http://www.dre.pt/pdf1s/1986/01/00200/00110014.pdf",
+        "wikidata": "Q66813910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3509045,
+          37.2406721
+        ]
+      },
+      "id": "node/3999426647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426648",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir dos Pombais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.33335,
+          39.465811
+        ]
+      },
+      "id": "node/3999426648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426649",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir dos Sete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4347212,
+          39.0940171
+        ]
+      },
+      "id": "node/3999426649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426650",
+        "alt_name": "Menir na Quinta das Vidigueiras;Menir da Herdade das Vidigueiras;Menir das Vidigueiras",
+        "archaeological_site": "megalith",
+        "heritage": "no",
+        "heritage:operator": "dgpc",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73377",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47785",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1187",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir na Herdade das Vidigueiras",
+        "ref": "CNS 589",
+        "ref:cns": "589",
+        "ref:ipa": "1187",
+        "website": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=47785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.517535,
+          38.393713
+        ]
+      },
+      "id": "node/3999426650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426651",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir no Vale dos Cardos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.056033,
+          38.549676
+        ]
+      },
+      "id": "node/3999426651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426652",
+        "alt_name": "Monumento Megalítico Menires do Lavajo;Lavajo I;Afonso Vicente;Menires do Lavajo 1",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=52816",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic_3;anciente_chalcolithic",
+        "historic:period": "stone-age;bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menires do Lavajo",
+        "ref:cns": "8213",
+        "wikidata": "Q143123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.53505,
+          37.5014309
+        ]
+      },
+      "id": "node/3999426652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426653",
+        "alt_name": "Menires de Milrei e do Padrão;Menir do Padrão;Conjunto de menires de Milrei e do Padrão",
+        "archaeological_site": "megalith",
+        "heritage": "no",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73801",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/?sid=sitios&subsid=53226",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menires do Padrão",
+        "ref:cns": "728",
+        "wikidata": "Q10328701",
+        "wikimedia_commons": "File:Menir_de_Padrão,_Raposeira.08-05-2018.jpg",
+        "wikipedia": "pt:Menir de Padrão"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8883512,
+          37.0626692
+        ]
+      },
+      "id": "node/3999426653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426654",
+        "alt_name": "Menires da Pedra Escorregadia",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=51731",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic_3",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Pedra Escorregadia 1",
+        "note": "Conjunto de 3 menires",
+        "ref:cns": "5194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9186873,
+          37.070408
+        ]
+      },
+      "id": "node/3999426654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426655",
+        "alt_name": "Menires da Pedra Escorregadia",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=51731",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic_3",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Pedra Escorregadia 2",
+        "note": "Conjunto de 3 menires",
+        "ref:cns": "5194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.918092,
+          37.0709578
+        ]
+      },
+      "id": "node/3999426655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999426656",
+        "alt_name": "Menir da Rocha dos Namorados",
+        "archaeological_site": "megalith",
+        "heritage:operator": "dgpc",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47808",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Rocha dos Namorados",
+        "natural": "rock",
+        "note": "Afloramento granítico",
+        "ref": "CNS 595",
+        "ref:cns": "595",
+        "tourism": "attraction",
+        "wikidata": "Q10363540",
+        "wikipedia": "pt:Rocha dos Namorados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4757061,
+          38.4455765
+        ]
+      },
+      "id": "node/3999426656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999445459",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menires De Vale De Cancelas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.207233,
+          38.779623
+        ]
+      },
+      "id": "node/3999445459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999445460",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menires da Charneca do Vale do Sobral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7261,
+          39.57
+        ]
+      },
+      "id": "node/3999445460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999445462",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menires de Rochoso",
+        "note": "Dois (de 3) monólitos graníticos, fusiformes, com cerca de 3 m, junto à entrada de uma habitação, no centro da aldeia de Rochoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0895653,
+          40.5162743
+        ]
+      },
+      "id": "node/3999445462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3999445463",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menires do Alminho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22,
+          39.049
+        ]
+      },
+      "id": "node/3999445463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4001533020",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de los Llabes",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5756399,
+          43.2725832
+        ]
+      },
+      "id": "node/4001533020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002976648",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Ilso Anguía",
+        "source": "www.megalitos.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2559685,
+          43.3271666
+        ]
+      },
+      "id": "node/4002976648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4002976649",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Ilso de Lodos",
+        "source": "www.megalitos.es",
+        "wikidata": "Q37790808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3588305,
+          43.306543
+        ]
+      },
+      "id": "node/4002976649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013063191",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Marco da Anta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2351678,
+          41.7905167
+        ]
+      },
+      "id": "node/4013063191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4013145586",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Mota Grande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0959293,
+          42.0711626
+        ]
+      },
+      "id": "node/4013145586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4014330880",
+        "alt_name": "Estela-menir da Herdade do Barrocal",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2501411",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir do Barrocal",
+        "name:de": "Menhir von Barrocal",
+        "ref:cns": "22860",
+        "start_date": "~5000 BCE",
+        "website": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios.resultados&subsid=2501411&vt=3136122",
+        "wikidata": "Q51076282",
+        "wikipedia": "de:Menhir von Barrocal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4137678,
+          38.4418895
+        ]
+      },
+      "id": "node/4014330880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4014860652",
+        "alt_name": "Menir da Têra 1;Monte da Têra",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=48072",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menir do Monte da Têra",
+        "ref:cns": "695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9623295,
+          38.8896189
+        ]
+      },
+      "id": "node/4014860652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040969323",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menir Cortes 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5975957,
+          37.9446339
+        ]
+      },
+      "id": "node/4040969323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4178225167",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Goizemezko_lepoa_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Goizemezko Lepoa",
+        "name:eu": "Goizemezko lepoa zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4745342,
+          43.1348155
+        ]
+      },
+      "id": "node/4178225167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4178225180",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Basagar_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Basagar",
+        "name:eu": "Menhir Basagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4513804,
+          43.1283532
+        ]
+      },
+      "id": "node/4178225180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198690216",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir El Gizon",
+        "name:eu": "El Gizon zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.725471,
+          43.0062081
+        ]
+      },
+      "id": "node/4198690216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198690221",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Abaroa",
+        "name:eu": "Abaroa zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8674005,
+          43.0634604
+        ]
+      },
+      "id": "node/4198690221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198690222",
+        "archaeological_site": "megalith",
+        "height": "5.4",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Kurtzegan",
+        "name:es": "Menhir de Kurtzegan",
+        "name:eu": "Kurtzeganeko zutarria",
+        "name:fr": "Menhir de Kurtzegan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8674754,
+          43.0761822
+        ]
+      },
+      "id": "node/4198690222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198690223",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Larraluze",
+        "name:eu": "Larraluze zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8747301,
+          43.0820245
+        ]
+      },
+      "id": "node/4198690223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198690224",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Zastegi",
+        "name:eu": "Zastegi zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7863735,
+          43.048544
+        ]
+      },
+      "id": "node/4198690224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198727115",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menhir Pimpil I / Pinpil I zutarria",
+        "name:eu": "Pinpil I zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3488614,
+          42.9402485
+        ]
+      },
+      "id": "node/4198727115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4198727116",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "image": "http://www.euskal-herria.org/argazki/top/27024.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Pimpil II / Pinpil II zutarria",
+        "name:eu": "Pinpil II zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3493771,
+          42.9393141
+        ]
+      },
+      "id": "node/4198727116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199076948",
+        "alt_name:es": "Menhir Azkasaroi",
+        "alt_name:eu": "Azkasaroi zutarria",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Aratzkosaroi / Aratzkosaroi zutarria",
+        "name:eu": "Aratzkosaroi zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.311605,
+          42.9222962
+        ]
+      },
+      "id": "node/4199076948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199076949",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Malkorra",
+        "name:eu": "Malkorra zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.364889,
+          42.9427091
+        ]
+      },
+      "id": "node/4199076949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199076950",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "stone-age / bronze-age undetermined",
+        "megalith_type": "menhir",
+        "name": "Menhir Naparbasoko Punta",
+        "name:eu": "Naparbasoko Punta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.377743,
+          42.9478623
+        ]
+      },
+      "id": "node/4199076950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4199076951",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menhir Peñas de Urrialdo",
+        "name:eu": "Peñas de Urrialdo zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3339606,
+          42.9106505
+        ]
+      },
+      "id": "node/4199076951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353062255",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://commons.wikimedia.org/wiki/File:Larrabeltz_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Larrebeltz",
+        "name:eu": "Larrebeltz zutarria",
+        "source": "survey",
+        "wikidata": "Q66114724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.485399,
+          43.0980031
+        ]
+      },
+      "id": "node/4353062255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4490906640",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Peñalada",
+        "source": "knowledge",
+        "tourism": "attraction",
+        "website": "http://sendasdeburgos.blogspot.com.es/2014/06/monte-de-castrillo-del-val.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.567646,
+          42.3048005
+        ]
+      },
+      "id": "node/4490906640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595246891",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Urlegi_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Urlegi",
+        "name:eu": "Urlegi zutarria",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4643299,
+          43.2327096
+        ]
+      },
+      "id": "node/4595246891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4608407659",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Eskosko_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Eskosko",
+        "name:eu": "Eskosko zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4648075,
+          43.2284145
+        ]
+      },
+      "id": "node/4608407659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612445060",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Uraska 3",
+        "name:eu": "Uraska 3 zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3250023,
+          42.8159211
+        ]
+      },
+      "id": "node/4612445060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614276287",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Kapitarte",
+        "name:eu": "Kapitarte zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3309046,
+          42.7748468
+        ]
+      },
+      "id": "node/4614276287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614377048",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Legaire 5 Sur",
+        "name:eu": "Legaire 5 Sur zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2729029,
+          42.8340601
+        ]
+      },
+      "id": "node/4614377048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614382485",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Irganbide",
+        "name:eu": "Irganbide zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2782334,
+          42.8468227
+        ]
+      },
+      "id": "node/4614382485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614396610",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Baio 2",
+        "name:eu": "Baio 2 zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.303178,
+          42.8415632
+        ]
+      },
+      "id": "node/4614396610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614396611",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Baio 1",
+        "name:eu": "Baio 1 zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3032208,
+          42.8415613
+        ]
+      },
+      "id": "node/4614396611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614396612",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Baio Este / Baio Ek. zutarria",
+        "name:eu": "Baio Ekialde zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3013068,
+          42.842408
+        ]
+      },
+      "id": "node/4614396612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614422647",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Mojón Largo",
+        "name:eu": "Mojón Largo zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.309703,
+          42.7363965
+        ]
+      },
+      "id": "node/4614422647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614446093",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Solonagua",
+        "name:eu": "Solonagua zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4055164,
+          42.8067056
+        ]
+      },
+      "id": "node/4614446093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614456121",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Menhir Riparasa",
+        "name:eu": "Riparasa zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7592244,
+          42.626171
+        ]
+      },
+      "id": "node/4614456121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4803750780",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Canto Hito",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1115877,
+          42.7624732
+        ]
+      },
+      "id": "node/4803750780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807730802",
+        "alt_name": "Menir de Alvadia;Menir de Pedra d’Anta de Alvadia",
+        "archaeological_site": "megalith",
+        "heritage:operator": "dgpc",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2233979",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Pedra d’Anta",
+        "note": "The exact location needs to be confirmed",
+        "ref:cns": "2233979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.789801,
+          41.4449111
+        ]
+      },
+      "id": "node/4807730802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807730803",
+        "alt_name": "Carrilha 1",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "https://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=54937",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menir da Carrilha 1",
+        "ref:cns": "11891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.499743,
+          39.068539
+        ]
+      },
+      "id": "node/4807730803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4874748869",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Airagarri",
+        "name:eu": "Airagarri zutarria",
+        "wikimedia_commons": "File:Airagarri_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5494907,
+          43.2537578
+        ]
+      },
+      "id": "node/4874748869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947031528",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "IIP",
+        "heritage:since": "1992",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=69680",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=2810",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "moved": "no",
+        "name": "Menir de Aspradantes",
+        "note": "Precise location needs confirmation",
+        "operator": "Sem afectação",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:dgpc": "69680",
+        "ref:ipa": "2810",
+        "site_status": "Classificado",
+        "source:ref": "http://www.dre.pt/pdf1s/1992/06/126B02/00520054.pdf",
+        "wikidata": "Q10328698",
+        "wikimedia_commons": "Category:Menir de Aspradantes",
+        "wikipedia": "pt:Menir de Aspradantes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.864486,
+          37.071786
+        ]
+      },
+      "id": "node/4947031528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112516067",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Aspoarri zutarria",
+        "name:eu": "Aspoarri zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3508167,
+          42.9365097
+        ]
+      },
+      "id": "node/5112516067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138251250",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Aginan zutarria",
+        "name:eu": "Aginan zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.091511,
+          42.8700853
+        ]
+      },
+      "id": "node/5138251250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138288050",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Baitza zutarria",
+        "name:eu": "Baitza zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0858281,
+          42.8746521
+        ]
+      },
+      "id": "node/5138288050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5171720025",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Obioneta zutarria",
+        "name:eu": "Obioneta zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0232052,
+          42.9874979
+        ]
+      },
+      "id": "node/5171720025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338847085",
+        "alt_name": "Sitja del Llop",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Estela de la Calma",
+        "name:ca": "Estela de la Calma",
+        "note": "El megalit actual és una còpia, l'original és al poble de Montseny. The current megalith is a copy, the original is in a village called Montseny.",
+        "opening_hours": "24/7",
+        "website": "https://www.montseny.cat/turisme/llocs-dinteres/mirador-de-lestela.html",
+        "wikidata": "Q50689093",
+        "wikipedia": "ca:Estela de la Calma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3372272,
+          41.76069
+        ]
+      },
+      "id": "node/5338847085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5525832054",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de Aspradantes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8635954,
+          37.0600042
+        ]
+      },
+      "id": "node/5525832054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5598603883",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Soalar_zutarria.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir Soalar",
+        "name:eu": "Soalar zutarria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4641274,
+          43.1448465
+        ]
+      },
+      "id": "node/5598603883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5642145242",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Ezkain",
+        "name:eu": "Ezkain zutarria",
+        "wikimedia_commons": "File:Ezkain_zutarria.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8233804,
+          43.0969386
+        ]
+      },
+      "id": "node/5642145242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902447086",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "File:Maistrugain_zutarria.jpg",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4459682,
+          43.2050458
+        ]
+      },
+      "id": "node/5902447086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6013419273",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Zagua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4775471,
+          43.093136
+        ]
+      },
+      "id": "node/6013419273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6015590970",
+        "archaeological_site": "megalith",
+        "heritage": "no",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=156492",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2233604",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=1202",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir da Cabeça do Rochedo",
+        "ref:cns": "19324",
+        "ref:ipa": "1202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.701521,
+          37.1332093
+        ]
+      },
+      "id": "node/6015590970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6023556390",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Pedra Fita da Penela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6156463,
+          43.023105
+        ]
+      },
+      "id": "node/6023556390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149599583",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "IIP",
+        "heritage:since": "1992",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=74644",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir de Santa Margarida",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref": "CNS 691",
+        "website": "https://arqueologia.patrimoniocultural.pt/?sid=sitios.resultados&subsid=54078",
+        "wikidata": "Q66813799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.430003,
+          38.450568
+        ]
+      },
+      "id": "node/6149599583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6343385395",
+        "alt_name": "Estátua-Menir da Serra da Nave 1",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=59046",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "moved": "no",
+        "name": "Estátua-Menir da Nave",
+        "ref:cns": "14709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6717854,
+          40.9412821
+        ]
+      },
+      "id": "node/6343385395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6534762315",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=59062",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Estátua Menir de Alvite",
+        "ref:cns": "14711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.700494,
+          40.9510058
+        ]
+      },
+      "id": "node/6534762315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657326124",
+        "archaeological_site": "megalith",
+        "description": "Réplica do original, preservado no Museu Francisco Tavares Proença Júnior (Castelo Branco).",
+        "fixme": "Localização conjecturada. Precisa de confirmação.",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=48038",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menir de São Martinho",
+        "ref:cns": "680",
+        "website": "http://www.matriznet.dgpc.pt/MatrizNet/Objectos/ObjectosConsultar.aspx?IdReg=217107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4639238,
+          39.8031313
+        ]
+      },
+      "id": "node/6657326124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6881884944",
+        "alt_name": "Menir de Vale do Asno",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=51064",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Menir do Marco da Jogada",
+        "ref:cns": "6220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.09087,
+          40.99356
+        ]
+      },
+      "id": "node/6881884944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902892918",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menires de Rochoso",
+        "note": "Terceiro menir-estela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.088833,
+          40.51675
+        ]
+      },
+      "id": "node/6902892918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6969196247",
+        "alt_name": "Cruciforme megalítico do Alto da Cruz;Cruciforme do Alto da Cruz;Alto da Cruz",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=3063308",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menires do Alto da Cruz",
+        "ref:cns": "33705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.11853,
+          38.83851
+        ]
+      },
+      "id": "node/6969196247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983184470",
+        "alt_name": "Alto da Escrita",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2286914",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Estátua-Menir do Alto da Escrita",
+        "note": "Escultura antropomórfica",
+        "ref:cns": "19954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5679106,
+          41.1165368
+        ]
+      },
+      "id": "node/6983184470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6983202625",
+        "alt_name": "Estátua-menir do Prazo",
+        "archaeological_site": "megalith",
+        "heritage": "yes",
+        "historic": "archaeological_site",
+        "material": "stone",
+        "megalith_type": "menhir",
+        "name": "Menir do Prazo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2429874,
+          41.0688291
+        ]
+      },
+      "id": "node/6983202625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989977586",
+        "alt_name": "Menires da Herdade da Casbarra",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73497",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=50608",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3836",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Casbarra 4",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "6047",
+        "ref:ipa": "3836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.99176,
+          38.63006
+        ]
+      },
+      "id": "node/6989977586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989977587",
+        "alt_name": "Menires da Herdade da Casbarra",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73497",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=50608",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3836",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Casbarra 3",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "6047",
+        "ref:ipa": "3836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.98849,
+          38.6233
+        ]
+      },
+      "id": "node/6989977587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989977588",
+        "alt_name": "Menires da Herdade da Casbarra",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73497",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=50608",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3836",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Casbarra 2",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "6047",
+        "ref:ipa": "3836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.99003,
+          38.62336
+        ]
+      },
+      "id": "node/6989977588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989977589",
+        "alt_name": "Menires da Herdade da Casbarra",
+        "archaeological_site": "megalith",
+        "heritage": "2",
+        "heritage:ref": "IIP",
+        "heritage:since": "1997",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=73497",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=47842",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=3836",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Casbarra 1",
+        "protection_title": "Imóvel de Interesse Público",
+        "ref:cns": "613",
+        "ref:ipa": "3836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.97114,
+          38.61752
+        ]
+      },
+      "id": "node/6989977589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6989991860",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2650984",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neolithic",
+        "historic:period": "stone-age",
+        "megalith_type": "menhir",
+        "name": "Menir das Veladas",
+        "ref:cns": "28102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.08327,
+          38.60121
+        ]
+      },
+      "id": "node/6989991860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992276477",
+        "alt_name": "Monte da Ribeira",
+        "archaeological_site": "megalith",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=54805",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:era": "neo-chalcolithic",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "moved": "yes",
+        "name": "Menir do Monte da Ribeira",
+        "note": "Exposto no Museu Megalítico José Maria da Fonseca, em Reguengos de Monsaraz",
+        "ref:cns": "11612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5296728,
+          38.4247561
+        ]
+      },
+      "id": "node/6992276477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7182504982",
+        "alt_name": "Estátua de Vreia de Jales;Barrela",
+        "archaeological_site": "megalith",
+        "description": "Escultura em granito, de forma antropomórfica.",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=72790",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=2169863",
+        "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=6014",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Estátua-Menir do Marco",
+        "ref:cns": "18007",
+        "ref:ipa": "6014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.60133,
+          41.42203
+        ]
+      },
+      "id": "node/7182504982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234302791",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Dolmen de la Vinya Monera",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/06/dolmen-vinya-monera-barcelones.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15792,
+          41.370055
+        ]
+      },
+      "id": "node/7234302791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317286",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Castellar-Rocs Blancs",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/03/menhir-del-castellarrocs-blancs-alt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.977479,
+          42.413315
+        ]
+      },
+      "id": "node/7234317286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317287",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Sant Sadurní",
+        "name:ca": "Menhir de Sant Sadurní",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/04/menhir-o-pedra-dreta-de-sant-sadurni.html",
+        "wikidata": "Q21730787",
+        "wikipedia": "ca:Menhir de Sant Sadurní"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.981214,
+          41.951883
+        ]
+      },
+      "id": "node/7234317287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317288",
+        "alt_name": "Roc d'en Rotllan",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir ou Pedra Dreta",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/03/menhir-de-la-pedra-dreta-alt-emporda.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.741088,
+          42.382263
+        ]
+      },
+      "id": "node/7234317288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317386",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del Castellà",
+        "name:ca": "Menhir del Castellà",
+        "wikidata": "Q18004758",
+        "wikipedia": "ca:Menhir del Castellà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.98083,
+          42.41472
+        ]
+      },
+      "id": "node/7234317386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317387",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir dels Estanys II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.907532,
+          42.39405
+        ]
+      },
+      "id": "node/7234317387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317388",
+        "alt_name": "Pedra dreta d'Agullana",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Roc del Frare",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/05/pedra-dreta-dagullana-o-roc-del-frare.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.845497,
+          42.380971
+        ]
+      },
+      "id": "node/7234317388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234317392",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Casa Cremada III"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1937468,
+          42.2601391
+        ]
+      },
+      "id": "node/7234317392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322085",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Castellruf",
+        "name:ca": "Menhir de Castellruf",
+        "wikidata": "Q21402430",
+        "wikipedia": "ca:Menhir de Castellruf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25389,
+          41.51917
+        ]
+      },
+      "id": "node/7234322085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322086",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Mollet",
+        "name:ca": "Menhir de Mollet",
+        "wikidata": "Q6010258",
+        "wikipedia": "ca:Menhir de Mollet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20972,
+          41.5375
+        ]
+      },
+      "id": "node/7234322086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322087",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Vilartolí",
+        "name:ca": "Menhir de Vilartolí",
+        "wikidata": "Q18004757",
+        "wikipedia": "ca:Menhir de Vilartolí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.96806,
+          42.39167
+        ]
+      },
+      "id": "node/7234322087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322088",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir dels Palaus",
+        "name:ca": "Menhir dels Palaus",
+        "wikidata": "Q46917885",
+        "wikipedia": "ca:Menhir dels Palaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.87361,
+          42.40139
+        ]
+      },
+      "id": "node/7234322088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322090",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Casa Cremada II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1960338,
+          42.2628912
+        ]
+      },
+      "id": "node/7234322090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322485",
+        "alt_name": "Menhir del Mas Roqué",
+        "alt_name:ca": "Menhir del Mas Roqué",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del Mas Roquer",
+        "name:ca": "Menhir del Mas Roquer",
+        "wikidata": "Q20103701",
+        "wikipedia": "ca:Menhir del Mas Roqué"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0475,
+          42.4025
+        ]
+      },
+      "id": "node/7234322485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322486",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Puig de la Llosa",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/03/menhir-del-puig-de-la-llosa-alt-emporda.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.913138,
+          42.403289
+        ]
+      },
+      "id": "node/7234322486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234322487",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Quer Afumat I",
+        "source": "http://dolmensmenhirs.blogspot.com/2014/03/menhir-del-quer-afumat-i-alt-emporda.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.91111,
+          42.39389
+        ]
+      },
+      "id": "node/7234322487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7234323385",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir dels Estanys I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9059,
+          42.39418
+        ]
+      },
+      "id": "node/7234323385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7332582168",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del Rábano",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4275403,
+          38.2101317
+        ]
+      },
+      "id": "node/7332582168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7356155897",
+        "alt_name": "Caminho do Padrão;Marco da Cruz de Cepos",
+        "archaeological_site": "megalith",
+        "description": "Estátua-menir pré-histórica",
+        "heritage:website:arqueologia": "http://arqueologia.patrimoniocultural.pt/index.php?sid=sitios&subsid=57716",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "historic:period": "bronze-age",
+        "megalith_type": "menhir",
+        "name": "Cruz de Cepos",
+        "ref:cns": "13972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.674417,
+          41.749861
+        ]
+      },
+      "id": "node/7356155897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7430849317",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir Apeztxoleta",
+        "name:eu": "Apeztxoleta zutarria",
+        "wikidata": "Q115040650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8379536,
+          42.9335667
+        ]
+      },
+      "id": "node/7430849317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7595348723",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9245852,
+          41.6994751
+        ]
+      },
+      "id": "node/7595348723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7660359839",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Ca l'Arenes II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4613868,
+          41.6179308
+        ]
+      },
+      "id": "node/7660359839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8119046768",
+        "archaeological_site": "megalith",
+        "description": "Localizado casualmente no ano 2012, desmontando un valado de pedra para anchear unha pista. A pedrafita atopábase deitada facendo de base do valo. Trátase probablemente do meirande menhir de Galicia, de feitura inequivocamente antrópica.",
+        "historic": "archaeological_site",
+        "image": "https://www.abeancos.gal/sites/default/files/imaxes/pedrafita_casal.jpg",
+        "megalith_type": "menhir",
+        "name": "Pedrafita do Casal",
+        "url": "https://www.abeancos.gal/elemento/pedrafita-do-casal",
+        "wikidata": "Q25509639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0428262,
+          42.8989188
+        ]
+      },
+      "id": "node/8119046768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8406048744",
+        "access": "yes",
+        "alt_name": "Menhir del General",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir del Serrat dels Rebolls",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.883111,
+          42.3388485
+        ]
+      },
+      "id": "node/8406048744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8446644052",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir o Pedra Dreta del mas Marès-I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2031564,
+          42.2543586
+        ]
+      },
+      "id": "node/8446644052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8875388318",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Lapa de Gargantáns",
+        "wikidata": "Q16214320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5831475,
+          42.5700107
+        ]
+      },
+      "id": "node/8875388318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9016955345",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de la Casa Cremada I",
+        "name:ca": "Menhir de la Casa Cremada I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1948113,
+          42.2643046
+        ]
+      },
+      "id": "node/9016955345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9154048408",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3709814,
+          38.4534276
+        ]
+      },
+      "id": "node/9154048408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9460734280",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "inscription": "Monumento megalítico, III milenio a.c. Descubierto en 1975 Puesto en pie en junio 1995",
+        "megalith_type": "menhir",
+        "name": "Menhir de Serrata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.688342,
+          37.6959966
+        ]
+      },
+      "id": "node/9460734280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9827716845",
+        "alt_name": "Hitón",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Piedra Jincá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3532933,
+          43.0864212
+        ]
+      },
+      "id": "node/9827716845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9958936881",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Terrazas con menhires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4054825,
+          37.3335609
+        ]
+      },
+      "id": "node/9958936881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235225714",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3527017,
+          43.0826029
+        ]
+      },
+      "id": "node/10235225714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235225715",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3527636,
+          43.082608
+        ]
+      },
+      "id": "node/10235225715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235225716",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3526427,
+          43.0825613
+        ]
+      },
+      "id": "node/10235225716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235270117",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3526722,
+          43.0824797
+        ]
+      },
+      "id": "node/10235270117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10235270118",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3527298,
+          43.0824283
+        ]
+      },
+      "id": "node/10235270118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10737362992",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir d'en Poet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1635976,
+          42.3131517
+        ]
+      },
+      "id": "node/10737362992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10772051088",
+        "access": "yes",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
+        "megalith_type": "menhir",
+        "name": "Pedra Alta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6709539,
+          42.1393948
+        ]
+      },
+      "id": "node/10772051088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11118431470",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "megalith_type": "menhir",
+        "name": "Menhir de Montmagastre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1242398,
+          41.9711234
+        ]
+      },
+      "id": "node/11118431470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11305616160",
+        "archaeological_site": "megalith",
+        "historic": "archaeological_site",
+        "image": "https://i.imgur.com/UK8a55t.jpg",
+        "megalith_type": "menhir",
+        "name": "Menhir de Cala Pedrosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0574188,
+          41.791282
+        ]
+      },
+      "id": "node/11305616160"
+    }
+  ]
+}
