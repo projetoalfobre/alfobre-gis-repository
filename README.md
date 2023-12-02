@@ -1,8 +1,11 @@
 # Alfobre GIS Repository
-Geographic Information System data repository. 
+This is the storage repository for the A-GeoCat (Alfobre GeoData Catalog), an open geospatial data catalog from Alfobre (Alfobre.com). 
 
-Main focus is on HGIS (Historical GIS) and Portugal.
+Datasets are licensed under the Open Data Commons Open Database License (ODbL) by Alfobre.com
 
-Please check data sources for copyright.
+Please visit http://projetoalfobre.github.io/a-geocat 
 
-https://github.com/projetoalfobre/alfobre-gis-repository/tree/main
+
+
+
+
