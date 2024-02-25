@@ -1,0 +1,251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.289063,
+          30.035811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.393677,
+          31.409912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.030899,
+          12.794392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.525024,
+          30.007274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.618164,
+          28.260844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.616699,
+          24.47715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.836426,
+          21.43773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.784035,
+          11.245419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.371704,
+          11.87743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835335,
+          15.477174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.453247,
+          27.098254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.100098,
+          -3.21456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.728722,
+          -15.039633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.735336,
+          -20.151363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.513702,
+          -8.975967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.471527,
+          11.352143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": " Desembarcam na ilha de Rodes",
+        "name": " Desembarcam na ilha de Rodes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.201904,
+          36.452218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": " Atravessam o sul da Península Ibérica até Barcelona, onde chegam a 14 de Junho",
+        "name": "14 de Junho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.172546,
+          41.37887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "levou até Nápoles em dez dias ",
+        "name": "levou até Nápoles em dez dias "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.246521,
+          40.849138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "partem a cavalo a 7 de Maio de Santarém (onde estava a Corte), rumo a Valência",
+        "name": "partem a cavalo a 7 de Maio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.693619,
+          39.240231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumaram para Alexandria, no Egito, ",
+        "description": "rumaram para Alexandria, no Egito, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.981689,
+          31.240985
+        ]
+      }
+    }
+  ]
+}

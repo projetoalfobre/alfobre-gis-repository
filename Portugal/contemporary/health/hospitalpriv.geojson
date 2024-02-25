@@ -1,0 +1,1176 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-02-22T17:03:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7418760",
+        "addr:city": "Porto",
+        "addr:housenumber": "14341",
+        "addr:postcode": "4100-180",
+        "addr:street": "Estrada da Circunvalação",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology;dentistry;paediatrics;general",
+        "name": "Hospital da CUF",
+        "nif": "508963150",
+        "official_name": "Hospital Cuf Porto, S.A.",
+        "operator": "CUF",
+        "operator:type": "private",
+        "phone": "+351 220 039 000",
+        "type": "multipolygon",
+        "website": "https://www.cuf.pt/hospitais-e-clinicas/hospital-cuf-porto",
+        "wikidata": "Q50036643"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6693617,
+              41.1754264
+            ],
+            [
+              -8.6692793,
+              41.1754504
+            ],
+            [
+              -8.6686337,
+              41.1756396
+            ],
+            [
+              -8.6685445,
+              41.1756648
+            ],
+            [
+              -8.6684986,
+              41.1756777
+            ],
+            [
+              -8.6685179,
+              41.175825
+            ],
+            [
+              -8.6685262,
+              41.1758889
+            ],
+            [
+              -8.6685545,
+              41.1761189
+            ],
+            [
+              -8.6685573,
+              41.176161
+            ],
+            [
+              -8.6685602,
+              41.1762029
+            ],
+            [
+              -8.6686255,
+              41.1764737
+            ],
+            [
+              -8.6687361,
+              41.1764328
+            ],
+            [
+              -8.6687584,
+              41.1764251
+            ],
+            [
+              -8.668926,
+              41.1763668
+            ],
+            [
+              -8.6697151,
+              41.1761343
+            ],
+            [
+              -8.6696565,
+              41.1760187
+            ],
+            [
+              -8.6693617,
+              41.1754264
+            ]
+          ]
+        ]
+      },
+      "id": "relation/7418760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151217626",
+        "addr:city": "Alfena",
+        "addr:housenumber": "201",
+        "addr:postcode": "4445-268",
+        "addr:street": "Rua das Passarias",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Privado de Alfena",
+        "operator": "Hospital Privado de Alfena",
+        "operator:type": "private",
+        "phone": "+351 229 688 700",
+        "website": "https://www.hospitalprivadodealfena.pt/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.540194,
+              41.2281844
+            ],
+            [
+              -8.5407613,
+              41.2276851
+            ],
+            [
+              -8.5408254,
+              41.2276227
+            ],
+            [
+              -8.5408629,
+              41.2275571
+            ],
+            [
+              -8.540879,
+              41.2274744
+            ],
+            [
+              -8.5408741,
+              41.2273876
+            ],
+            [
+              -8.5408375,
+              41.227313
+            ],
+            [
+              -8.5407798,
+              41.2272555
+            ],
+            [
+              -8.5406484,
+              41.227192
+            ],
+            [
+              -8.5404462,
+              41.2271223
+            ],
+            [
+              -8.5388396,
+              41.2268238
+            ],
+            [
+              -8.5385933,
+              41.2269569
+            ],
+            [
+              -8.5385525,
+              41.2271324
+            ],
+            [
+              -8.5395198,
+              41.2277523
+            ],
+            [
+              -8.5400019,
+              41.2280613
+            ],
+            [
+              -8.540194,
+              41.2281844
+            ]
+          ]
+        ]
+      },
+      "id": "way/151217626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183001452",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital dos Lusíadas",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9391633,
+              37.0208207
+            ],
+            [
+              -7.9393413,
+              37.0206948
+            ],
+            [
+              -7.9393988,
+              37.0206542
+            ],
+            [
+              -7.9392765,
+              37.0205438
+            ],
+            [
+              -7.9390409,
+              37.0207103
+            ],
+            [
+              -7.9391633,
+              37.0208207
+            ]
+          ]
+        ]
+      },
+      "id": "way/183001452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/192544685",
+        "addr:city": "Bobadela",
+        "addr:housenumber": "6",
+        "addr:postcode": "2695-458",
+        "addr:street": "Rua dos Girassóis",
+        "amenity": "hospital",
+        "email": "geral.lisboa@hospitaldomar.pt",
+        "healthcare": "hospital",
+        "name": "Hospital do Mar",
+        "operator": "Luz Saúde",
+        "operator:type": "private",
+        "phone": "+351 219 948 660",
+        "website": "https://www.hospitaldomar.pt/lisboa/en/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0986338,
+              38.8026391
+            ],
+            [
+              -9.0980093,
+              38.8024193
+            ],
+            [
+              -9.0972181,
+              38.8031753
+            ],
+            [
+              -9.0976247,
+              38.8032429
+            ],
+            [
+              -9.0980229,
+              38.8033007
+            ],
+            [
+              -9.0983269,
+              38.8033312
+            ],
+            [
+              -9.0984513,
+              38.8031791
+            ],
+            [
+              -9.0985164,
+              38.8030566
+            ],
+            [
+              -9.0986416,
+              38.8027002
+            ],
+            [
+              -9.0986338,
+              38.8026391
+            ]
+          ]
+        ]
+      },
+      "id": "way/192544685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330098625",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Hospital da Misericórdia",
+        "operator": "SCM",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.268108,
+              41.0399307
+            ],
+            [
+              -8.2680552,
+              41.0398359
+            ],
+            [
+              -8.2679106,
+              41.0398817
+            ],
+            [
+              -8.2677949,
+              41.039674
+            ],
+            [
+              -8.2676924,
+              41.03949
+            ],
+            [
+              -8.2676208,
+              41.0395127
+            ],
+            [
+              -8.2675728,
+              41.0394266
+            ],
+            [
+              -8.2672867,
+              41.0395173
+            ],
+            [
+              -8.2673248,
+              41.0395857
+            ],
+            [
+              -8.2672912,
+              41.0395964
+            ],
+            [
+              -8.2673057,
+              41.0396225
+            ],
+            [
+              -8.2673697,
+              41.0396022
+            ],
+            [
+              -8.2674757,
+              41.0397925
+            ],
+            [
+              -8.2676001,
+              41.0397531
+            ],
+            [
+              -8.2675912,
+              41.0397371
+            ],
+            [
+              -8.2676713,
+              41.0397117
+            ],
+            [
+              -8.2677891,
+              41.0399231
+            ],
+            [
+              -8.2676099,
+              41.0399799
+            ],
+            [
+              -8.2676611,
+              41.0400718
+            ],
+            [
+              -8.2678455,
+              41.0400134
+            ],
+            [
+              -8.2678547,
+              41.0400299
+            ],
+            [
+              -8.2679767,
+              41.0399912
+            ],
+            [
+              -8.2679677,
+              41.0399751
+            ],
+            [
+              -8.268108,
+              41.0399307
+            ]
+          ]
+        ]
+      },
+      "id": "way/330098625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364672661",
+        "addr:city": "Arruda dos Vinhos",
+        "addr:housenumber": "10",
+        "addr:postcode": "2630-248",
+        "addr:street": "Largo José Vaz Monteiro",
+        "amenity": "hospital",
+        "name": "Hospital de Santa Casa da Misericórdia de Arruda dos Vinhos",
+        "operator": "Santa Casa da Misericórdia Arruda dos Vinhos",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0784676,
+              38.9825681
+            ],
+            [
+              -9.0785461,
+              38.9824591
+            ],
+            [
+              -9.0785266,
+              38.9824513
+            ],
+            [
+              -9.0785886,
+              38.9823622
+            ],
+            [
+              -9.0785793,
+              38.9823583
+            ],
+            [
+              -9.0786308,
+              38.9822929
+            ],
+            [
+              -9.0785496,
+              38.9822452
+            ],
+            [
+              -9.0785683,
+              38.9822139
+            ],
+            [
+              -9.0785447,
+              38.9822044
+            ],
+            [
+              -9.0784396,
+              38.9821618
+            ],
+            [
+              -9.0783685,
+              38.9822275
+            ],
+            [
+              -9.078335,
+              38.982215
+            ],
+            [
+              -9.078217,
+              38.982388
+            ],
+            [
+              -9.0782652,
+              38.9824078
+            ],
+            [
+              -9.0782304,
+              38.9824537
+            ],
+            [
+              -9.0783524,
+              38.9825235
+            ],
+            [
+              -9.0783632,
+              38.9825277
+            ],
+            [
+              -9.0784507,
+              38.9825615
+            ],
+            [
+              -9.0784676,
+              38.9825681
+            ]
+          ]
+        ]
+      },
+      "id": "way/364672661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500511416",
+        "addr:city": "Funchal",
+        "addr:housenumber": "143",
+        "addr:postcode": "9000-743",
+        "addr:street": "Avenida Mário Soares",
+        "amenity": "hospital",
+        "building": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hospital Particular da Madeira",
+        "name:en": "Private Hospital of Madeira",
+        "operator": "Grupo HPA Saúde",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -16.9418489,
+              32.6480774
+            ],
+            [
+              -16.9417021,
+              32.6478014
+            ],
+            [
+              -16.9420367,
+              32.6476752
+            ],
+            [
+              -16.9419746,
+              32.6475584
+            ],
+            [
+              -16.9420299,
+              32.6475376
+            ],
+            [
+              -16.9418947,
+              32.6472834
+            ],
+            [
+              -16.9417842,
+              32.6473251
+            ],
+            [
+              -16.9416843,
+              32.6473628
+            ],
+            [
+              -16.9418007,
+              32.6475817
+            ],
+            [
+              -16.9416832,
+              32.647626
+            ],
+            [
+              -16.9415479,
+              32.6473716
+            ],
+            [
+              -16.9412965,
+              32.6474664
+            ],
+            [
+              -16.9416595,
+              32.6481489
+            ],
+            [
+              -16.9418489,
+              32.6480774
+            ]
+          ]
+        ]
+      },
+      "id": "way/500511416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734878601",
+        "addr:city": "Lagoa",
+        "addr:street": "Parque de Ciências e Tecnologias de São Miguel - Açores",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dermatology;psychiatry;oncology;cardiology;ophthalmology;paediatrics;surgery;radiology",
+        "name": "Hospital Internacional dos Açores",
+        "operator": "HIA",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -25.5815148,
+              37.7485999
+            ],
+            [
+              -25.5814008,
+              37.7492859
+            ],
+            [
+              -25.5815443,
+              37.7494758
+            ],
+            [
+              -25.5820258,
+              37.7494471
+            ],
+            [
+              -25.583788,
+              37.7493474
+            ],
+            [
+              -25.5841447,
+              37.7486465
+            ],
+            [
+              -25.5841005,
+              37.7484281
+            ],
+            [
+              -25.5819735,
+              37.748568
+            ],
+            [
+              -25.5815148,
+              37.7485999
+            ]
+          ]
+        ]
+      },
+      "id": "way/734878601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/800039751",
+        "amenity": "hospital",
+        "email": "leiria@chsf.pt",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "physiatry;surgery;cardiology;dentistry;gynaecology;psychiatry;radiology;urology",
+        "name": "Centro Hospitalar de São Francisco",
+        "operator": "Grupo Sanfil Medicina",
+        "operator:type": "private",
+        "phone": "+351 244 819 300",
+        "website": "https://www.sanfil.pt/centro-hospitalar-sao-francisco-leiria/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.8154204,
+              39.7487615
+            ],
+            [
+              -8.8153055,
+              39.7490582
+            ],
+            [
+              -8.8152303,
+              39.7492639
+            ],
+            [
+              -8.8151672,
+              39.7494364
+            ],
+            [
+              -8.8151426,
+              39.7495036
+            ],
+            [
+              -8.8151122,
+              39.7495866
+            ],
+            [
+              -8.8152095,
+              39.749604
+            ],
+            [
+              -8.8153303,
+              39.7495904
+            ],
+            [
+              -8.8155548,
+              39.749565
+            ],
+            [
+              -8.8158257,
+              39.7496201
+            ],
+            [
+              -8.8159302,
+              39.7496421
+            ],
+            [
+              -8.8159404,
+              39.7495966
+            ],
+            [
+              -8.8160369,
+              39.7492628
+            ],
+            [
+              -8.8160437,
+              39.7492401
+            ],
+            [
+              -8.8160603,
+              39.7491813
+            ],
+            [
+              -8.8162554,
+              39.7491798
+            ],
+            [
+              -8.8163435,
+              39.7491791
+            ],
+            [
+              -8.8164826,
+              39.749178
+            ],
+            [
+              -8.8164285,
+              39.7486098
+            ],
+            [
+              -8.8162742,
+              39.7486214
+            ],
+            [
+              -8.8161418,
+              39.7486322
+            ],
+            [
+              -8.8159431,
+              39.7486642
+            ],
+            [
+              -8.8158341,
+              39.7486751
+            ],
+            [
+              -8.8157809,
+              39.7486795
+            ],
+            [
+              -8.8157894,
+              39.7487205
+            ],
+            [
+              -8.8154204,
+              39.7487615
+            ]
+          ]
+        ]
+      },
+      "id": "way/800039751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802212076",
+        "addr:city": "Vila Real",
+        "addr:housenumber": "55",
+        "addr:postcode": "5000-657",
+        "addr:street": "Avenida Carvalho Araújo",
+        "amenity": "hospital",
+        "building": "yes",
+        "email": "geral.vilareal@hospitaldaluz.pt",
+        "emergency": "yes",
+        "fax": "+351 259 043 979",
+        "healthcare": "hospital",
+        "healthcare:speciality": "cardiology;dermatology;gynaecology;maternity;ophthalmology;orthopaedics;paediatrics;urology;anaesthetics;surgery;paediatric_surgery;plastic_surgery;endocrinology;gastroenterology;haematology;general;internal;neurosurgery;oncology;pulmonology;psychiatry",
+        "name": "Hospital da Luz - Vila Real",
+        "operator": "Grupo Luz Saúde",
+        "operator:type": "private",
+        "phone": "+351 259 043 970",
+        "start_date": "2018-09-10",
+        "website": "https://www.hospitaldaluz.pt/vila-real/pt/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7469402,
+              41.2958287
+            ],
+            [
+              -7.7469438,
+              41.2957406
+            ],
+            [
+              -7.7466745,
+              41.295602
+            ],
+            [
+              -7.7466754,
+              41.295587
+            ],
+            [
+              -7.7465021,
+              41.2955765
+            ],
+            [
+              -7.7464354,
+              41.2960817
+            ],
+            [
+              -7.7465161,
+              41.2960919
+            ],
+            [
+              -7.7465224,
+              41.2960443
+            ],
+            [
+              -7.7465401,
+              41.2960454
+            ],
+            [
+              -7.746564,
+              41.2960054
+            ],
+            [
+              -7.7465999,
+              41.2959138
+            ],
+            [
+              -7.7466345,
+              41.2959124
+            ],
+            [
+              -7.7466887,
+              41.295916
+            ],
+            [
+              -7.7467753,
+              41.2959217
+            ],
+            [
+              -7.7467779,
+              41.2959053
+            ],
+            [
+              -7.7467917,
+              41.295828
+            ],
+            [
+              -7.7469402,
+              41.2958287
+            ]
+          ]
+        ]
+      },
+      "id": "way/802212076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853239952",
+        "addr:city": "Vila Real",
+        "addr:housenumber": "3",
+        "addr:postcode": "5000-198",
+        "addr:street": "Rua Baden-Powell",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Trofa Saúde Hospital Vila Real",
+        "operator": "Trofa Saúde",
+        "operator:type": "private",
+        "phone": "+351 259 247000",
+        "website": "https://www.trofasaude.pt/vilareal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.737068,
+              41.2962958
+            ],
+            [
+              -7.736832,
+              41.2961142
+            ],
+            [
+              -7.7368016,
+              41.2961405
+            ],
+            [
+              -7.7365419,
+              41.2959304
+            ],
+            [
+              -7.7364447,
+              41.2959606
+            ],
+            [
+              -7.7361108,
+              41.2960644
+            ],
+            [
+              -7.7360719,
+              41.2960752
+            ],
+            [
+              -7.7360367,
+              41.296084
+            ],
+            [
+              -7.7360168,
+              41.2960867
+            ],
+            [
+              -7.7359954,
+              41.2960877
+            ],
+            [
+              -7.7359716,
+              41.2960869
+            ],
+            [
+              -7.7356055,
+              41.2960593
+            ],
+            [
+              -7.7355267,
+              41.296054
+            ],
+            [
+              -7.735276,
+              41.296035
+            ],
+            [
+              -7.7351997,
+              41.2962167
+            ],
+            [
+              -7.7351728,
+              41.2962161
+            ],
+            [
+              -7.7350512,
+              41.2965329
+            ],
+            [
+              -7.7351093,
+              41.2965447
+            ],
+            [
+              -7.7351828,
+              41.2965529
+            ],
+            [
+              -7.7352569,
+              41.2965573
+            ],
+            [
+              -7.7354116,
+              41.2965706
+            ],
+            [
+              -7.7359063,
+              41.2966037
+            ],
+            [
+              -7.7359822,
+              41.2966057
+            ],
+            [
+              -7.7360741,
+              41.2966042
+            ],
+            [
+              -7.7361668,
+              41.2965945
+            ],
+            [
+              -7.7362618,
+              41.2965782
+            ],
+            [
+              -7.7363503,
+              41.2965555
+            ],
+            [
+              -7.7364582,
+              41.2965237
+            ],
+            [
+              -7.7365736,
+              41.2964915
+            ],
+            [
+              -7.7367078,
+              41.2964524
+            ],
+            [
+              -7.7368154,
+              41.2964187
+            ],
+            [
+              -7.7369256,
+              41.2963781
+            ],
+            [
+              -7.7370885,
+              41.2963116
+            ],
+            [
+              -7.737068,
+              41.2962958
+            ]
+          ]
+        ]
+      },
+      "id": "way/853239952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1150783086",
+        "addr:city": "Pont de Lima",
+        "addr:housenumber": "118",
+        "addr:street": "Rua da devesa",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital Particular de Ponte de Lima",
+        "operator": "Grupo Saúde",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.579283,
+              41.7601362
+            ],
+            [
+              -8.5793427,
+              41.7598615
+            ],
+            [
+              -8.5790232,
+              41.7597192
+            ],
+            [
+              -8.5789876,
+              41.7598547
+            ],
+            [
+              -8.5790434,
+              41.760114
+            ],
+            [
+              -8.579283,
+              41.7601362
+            ]
+          ]
+        ]
+      },
+      "id": "way/1150783086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7439553594",
+        "addr:city": "Viseu",
+        "addr:housenumber": "12 e 14",
+        "addr:postcode": "3500-612",
+        "addr:street": "Rua Belo Horizonte",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital CUF Viseu",
+        "operator": "José de Mello Saúde",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9113839,
+          40.6452362
+        ]
+      },
+      "id": "node/7439553594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061341908",
+        "addr:city": "Porto",
+        "addr:housenumber": "115",
+        "addr:postcode": "4000-541",
+        "addr:street": "Rua da Trindade",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Hospital CUF Trindade",
+        "old_name": "Hospital da Ordem da Trindade",
+        "opening_hours": "Mo-Fr 07:30-22:00; Sa 08:00-14:00",
+        "operator": "CUF",
+        "operator:type": "private",
+        "phone": "+351 22 207 59 00",
+        "website": "https://www.cuf.pt/hospitais-e-clinicas/hospital-cuf-trindade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6098672,
+          41.1515898
+        ]
+      },
+      "id": "node/11061341908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11406499421",
+        "addr:city": "Vila Nova de Gaia",
+        "addr:housenumber": "2",
+        "addr:postcode": "4400-629",
+        "addr:street": "Rua Fernão de Magalhães",
+        "alt_name": "Hospital Privado de Gaia",
+        "amenity": "hospital",
+        "check_date": "2024-01-14",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Trofa Saúde Gaia",
+        "official_name": "G. H. P. G. – Gaiarts, Hospital Privado de Gaia, S.A.",
+        "operator:type": "private",
+        "phone": "+351 252 090 600;+351 220 439 600",
+        "short_name": "HP Gaia;TS Gaia",
+        "website": "https://www.trofasaude.pt/gaia/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6179845,
+          41.1207557
+        ]
+      },
+      "id": "node/11406499421"
+    }
+  ]
+}

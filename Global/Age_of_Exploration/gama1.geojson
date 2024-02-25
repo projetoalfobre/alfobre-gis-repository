@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 Fev 2 Fev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.786808,
+          -15.050781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "3 Mar 12 Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.170238,
+          -34.173039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 Jan 11 Jan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.133057,
+          -3.215588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10 dias do mês de Setembro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.261154,
+          11.933532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "10 Jul",
+        "description": " As naus chegam ao Tejo em Julho e Agosto de 1499: a Bérrio, mais leve e rápida, foi a primeira a chegar, a 10 de Julho de 1499, sob o comando de Nicolau Coelho e tendo como piloto Pêro Escobar[nota 1]. Paulo da Gama morre na ilha Terceira e Vasco da Gama regressa a Lisboa, onde chegou depois das naus, no fim de Agosto. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.19487,
+          38.692477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13 Jan 27 Jan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.118538,
+          -6.150966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "15 Set"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.331522,
+          14.014776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "19 Set  5 Out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10965,
+          14.757121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20 Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.38562,
+          -34.379713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25 Abr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.319061,
+          11.593723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "29 Ago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.772705,
+          11.243315
+        ]
+      }
+    }
+  ]
+}

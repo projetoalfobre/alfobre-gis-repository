@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.664902,
+          12.057452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " 1 dia do mês de Novembr",
+        "description": "Hũa quarta-feira 1 dia do mês de Novembro, que foi dia de Todos os Santos, achámos\nmuitos signaees de terra, os quaees eram huns golfãoos que naçem ao longo da costa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.712891,
+          -29.305561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": " 4 dias do dito mês, sábado antemanhã duas oras, achámos fundo de 110 braças ao\nmais, e às nove oras do dia ouvemos vista de terra.",
+        "name": " 4 dias novembro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.865234,
+          -30.221102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1 abril"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.632591,
+          -12.602815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 Mar 25 Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.734558,
+          -15.036317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4 dias d’Abril "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.990234,
+          -7.885147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "5 Abr 7 Abr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.146175,
+          -5.189423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 Abr 13 Abr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.687767,
+          -4.075919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "7 de novembro de 1497 - 16 de novembro de 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.106842,
+          -32.77111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "8 de julho de 1497",
+        "description": "Em nome de Deus, Amem. Na era de 1497 mandou El-Rei Dom Manuel, o primeiro deste nome em Portugal, a descobrir quatro navios, os quaees iam em busca da espiçiaria; dos quaees navios ia por Capitam-moor Vasco da Gama, e dos outros, dum deles Paulo da Gama seu\nirmãoo e d’outro Nicolao Coelho.\n\nPartimos de Restelo hum sábado que eram 8 dias do mês de Julho da dita era de 1497 nosso caminho, que Deus nosso Senhor leixe acabar em seu serviço, Amem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.203818,
+          38.693918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11 de janeiro de 1498 - 16 de janeiro de 1498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.340958,
+          -23.962411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14 Abr 24 Abr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.134087,
+          -3.200506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20 Mai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.72125,
+          11.379701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "21 Mai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.771503,
+          11.24685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22 de novembro de 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.450165,
+          -34.396712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "23 de julho de 1497",
+        "description": "Ao domingo seguinte, em amanhecendo, ouvemos vista da ilha do Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.489258,
+          17.062036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25 de janeiro de 1498 24 de fevereiro de 1498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.967449,
+          -18.023792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "25 de novembro de 1497 8 de dezembro de 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.157364,
+          -34.171476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26-29 março"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.785263,
+          -15.050698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "27 de julho de 1497 - 3 de agosto de 1497",
+        "description": "E ao outro dia, que era quinta-feira, chegámos à Ilha de Santiago onde pousámos na Praia de Santa Maria com muito prazer e folgar... E ali tomámos carnes, e água e lenha; e corrigindo as vergas dos navios, porque nos era necessário..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.504992,
+          14.902073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "27 dias do mês d’Outubro,",
+        "description": "27 dias do mês d’Outubro, véspora de Sam Simam e Judas, que era sesta-feira, achá-\nmos muitas baleas, e hũas que se chamam quoquas, e lobos marinhos."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.703125,
+          -27.994401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "28 de dezembro de 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.058693,
+          -29.875481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Primeiramente chegámos ao sábado seguinte à vista das Canárias; e essa noute passámos a julavento de Lançerote.",
+        "name": "Jul 15, 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.919922,
+          29.036961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "E à noute seguinte amanhecemos com a Terra Alta, onde fezemos pescaria obra de duas oras; e logo esta noute, em anouteçendo, éramos através do rio do Ouro.",
+        "name": "Jul 16, 1497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.529175,
+          24.921313
+        ]
+      }
+    }
+  ]
+}

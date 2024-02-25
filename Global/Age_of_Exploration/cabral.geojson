@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.522629,
+          -8.972636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.364838,
+          11.878181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.768204,
+          -15.031638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.733963,
+          -20.150711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.470764,
+          -34.359236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.472331,
+          -34.359821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.441483,
+          14.701215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "2 agosto -7 agosto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.122414,
+          -3.230403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13 setembro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.77631,
+          11.245613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "14 de março"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.249023,
+          29.612053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "20 julho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.735245,
+          -15.039569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22 agosto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.109821,
+          14.757796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "22 de março"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.944946,
+          14.88737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "24 abril-3 maio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.067383,
+          -16.440376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "24 dezembro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.245117,
+          9.957472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dia 9 de março de 1500."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.21062,
+          38.690775
+        ]
+      }
+    }
+  ]
+}
