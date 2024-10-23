@@ -1,0 +1,1141 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-02-28T10:06:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146132507",
+        "barrier": "wall",
+        "name": "Quinta de Santa Maria",
+        "natural": "wood",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.3791364,
+              38.7921551
+            ],
+            [
+              -9.3784968,
+              38.7921567
+            ],
+            [
+              -9.3776412,
+              38.7922612
+            ],
+            [
+              -9.3771986,
+              38.792211
+            ],
+            [
+              -9.3772295,
+              38.792352
+            ],
+            [
+              -9.377282,
+              38.7925911
+            ],
+            [
+              -9.3769846,
+              38.7926201
+            ],
+            [
+              -9.3770028,
+              38.7927211
+            ],
+            [
+              -9.3771316,
+              38.7927817
+            ],
+            [
+              -9.377208,
+              38.792792
+            ],
+            [
+              -9.3773309,
+              38.7928416
+            ],
+            [
+              -9.3776117,
+              38.7929741
+            ],
+            [
+              -9.3780402,
+              38.7933606
+            ],
+            [
+              -9.3781052,
+              38.7934193
+            ],
+            [
+              -9.3784271,
+              38.7935343
+            ],
+            [
+              -9.3787033,
+              38.7936744
+            ],
+            [
+              -9.3789275,
+              38.7937573
+            ],
+            [
+              -9.3790377,
+              38.7937674
+            ],
+            [
+              -9.3796573,
+              38.7939811
+            ],
+            [
+              -9.3796538,
+              38.7937235
+            ],
+            [
+              -9.3796341,
+              38.7934622
+            ],
+            [
+              -9.3796118,
+              38.7930027
+            ],
+            [
+              -9.3792587,
+              38.7930161
+            ],
+            [
+              -9.379253,
+              38.7927779
+            ],
+            [
+              -9.379447,
+              38.7927821
+            ],
+            [
+              -9.3794754,
+              38.7926103
+            ],
+            [
+              -9.3794316,
+              38.7925509
+            ],
+            [
+              -9.3791364,
+              38.7921551
+            ]
+          ]
+        ]
+      },
+      "id": "way/146132507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480191979",
+        "leisure": "garden",
+        "name": "Amorosa Place",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1770774,
+              38.7945052
+            ],
+            [
+              -9.1771176,
+              38.7944467
+            ],
+            [
+              -9.1774167,
+              38.7940604
+            ],
+            [
+              -9.1775841,
+              38.7941391
+            ],
+            [
+              -9.177856,
+              38.793795
+            ],
+            [
+              -9.1777876,
+              38.7936738
+            ],
+            [
+              -9.1777163,
+              38.7937186
+            ],
+            [
+              -9.1775448,
+              38.7938264
+            ],
+            [
+              -9.1774389,
+              38.7937167
+            ],
+            [
+              -9.1774496,
+              38.7936487
+            ],
+            [
+              -9.177126,
+              38.7932473
+            ],
+            [
+              -9.1762654,
+              38.7937062
+            ],
+            [
+              -9.1762863,
+              38.7938699
+            ],
+            [
+              -9.1762903,
+              38.793955
+            ],
+            [
+              -9.1762889,
+              38.794084
+            ],
+            [
+              -9.1761957,
+              38.794257
+            ],
+            [
+              -9.1765097,
+              38.7943891
+            ],
+            [
+              -9.176476,
+              38.7944332
+            ],
+            [
+              -9.1771103,
+              38.7947279
+            ],
+            [
+              -9.1772287,
+              38.7945779
+            ],
+            [
+              -9.1770774,
+              38.7945052
+            ]
+          ]
+        ]
+      },
+      "id": "way/480191979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553520221",
+        "name": "Quinta da Torralva",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9201468,
+              38.5787896
+            ],
+            [
+              -7.9205599,
+              38.5785154
+            ],
+            [
+              -7.9204425,
+              38.5784142
+            ],
+            [
+              -7.9204754,
+              38.5783728
+            ],
+            [
+              -7.9206727,
+              38.5781372
+            ],
+            [
+              -7.9204655,
+              38.5780287
+            ],
+            [
+              -7.9202542,
+              38.5779205
+            ],
+            [
+              -7.9200913,
+              38.5778287
+            ],
+            [
+              -7.9197989,
+              38.5780033
+            ],
+            [
+              -7.9194467,
+              38.5782135
+            ],
+            [
+              -7.9194746,
+              38.5782284
+            ],
+            [
+              -7.9195024,
+              38.5782433
+            ],
+            [
+              -7.9198048,
+              38.5784908
+            ],
+            [
+              -7.9199369,
+              38.5786071
+            ],
+            [
+              -7.9201468,
+              38.5787896
+            ]
+          ]
+        ]
+      },
+      "id": "way/553520221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554041442",
+        "name": "Horta da Porta",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9163113,
+              38.5749737
+            ],
+            [
+              -7.9161912,
+              38.5747927
+            ],
+            [
+              -7.916097,
+              38.5746339
+            ],
+            [
+              -7.9158545,
+              38.5742617
+            ],
+            [
+              -7.9157678,
+              38.5743661
+            ],
+            [
+              -7.9155406,
+              38.5746264
+            ],
+            [
+              -7.9154632,
+              38.5747168
+            ],
+            [
+              -7.9154374,
+              38.5747465
+            ],
+            [
+              -7.9154176,
+              38.574769
+            ],
+            [
+              -7.9153958,
+              38.5747938
+            ],
+            [
+              -7.9153779,
+              38.5748145
+            ],
+            [
+              -7.9152987,
+              38.5749076
+            ],
+            [
+              -7.9152306,
+              38.5749885
+            ],
+            [
+              -7.9151521,
+              38.5750828
+            ],
+            [
+              -7.9150834,
+              38.5751659
+            ],
+            [
+              -7.9150075,
+              38.5752575
+            ],
+            [
+              -7.914902,
+              38.5753858
+            ],
+            [
+              -7.9148967,
+              38.5753944
+            ],
+            [
+              -7.9146988,
+              38.5756238
+            ],
+            [
+              -7.9147438,
+              38.5756476
+            ],
+            [
+              -7.9147247,
+              38.5756698
+            ],
+            [
+              -7.9147346,
+              38.575675
+            ],
+            [
+              -7.914834,
+              38.5757265
+            ],
+            [
+              -7.9149335,
+              38.5757775
+            ],
+            [
+              -7.9150325,
+              38.5758279
+            ],
+            [
+              -7.915086,
+              38.5758548
+            ],
+            [
+              -7.9150689,
+              38.5758765
+            ],
+            [
+              -7.9152103,
+              38.5759497
+            ],
+            [
+              -7.9154812,
+              38.5756027
+            ],
+            [
+              -7.9155059,
+              38.5756166
+            ],
+            [
+              -7.9156864,
+              38.5757181
+            ],
+            [
+              -7.9163113,
+              38.5749737
+            ]
+          ]
+        ]
+      },
+      "id": "way/554041442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554041443",
+        "name": "Horta dos Telhais",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9152977,
+              38.5715704
+            ],
+            [
+              -7.915361,
+              38.5721939
+            ],
+            [
+              -7.9153653,
+              38.572255
+            ],
+            [
+              -7.9155373,
+              38.572248
+            ],
+            [
+              -7.9163366,
+              38.5722091
+            ],
+            [
+              -7.9159624,
+              38.5716923
+            ],
+            [
+              -7.915773,
+              38.5714078
+            ],
+            [
+              -7.9154065,
+              38.571538
+            ],
+            [
+              -7.9152977,
+              38.5715704
+            ]
+          ]
+        ]
+      },
+      "id": "way/554041443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/582565365",
+        "landuse": "residential",
+        "name": "Bairro Vale de Gião",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.2647897,
+              40.2147309
+            ],
+            [
+              -8.264685,
+              40.2143098
+            ],
+            [
+              -8.2645894,
+              40.2141874
+            ],
+            [
+              -8.264457,
+              40.2141498
+            ],
+            [
+              -8.2642937,
+              40.2141592
+            ],
+            [
+              -8.2638777,
+              40.2142486
+            ],
+            [
+              -8.2639332,
+              40.2144039
+            ],
+            [
+              -8.264078,
+              40.2145662
+            ],
+            [
+              -8.2644046,
+              40.214738
+            ],
+            [
+              -8.2647836,
+              40.2148391
+            ],
+            [
+              -8.2647897,
+              40.2147309
+            ]
+          ]
+        ]
+      },
+      "id": "way/582565365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/694158746",
+        "amenity": "parking",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1600006,
+              41.1058676
+            ],
+            [
+              -8.1594918,
+              41.106402
+            ],
+            [
+              -8.1595392,
+              41.1064277
+            ],
+            [
+              -8.1600481,
+              41.1058932
+            ],
+            [
+              -8.1600006,
+              41.1058676
+            ]
+          ]
+        ]
+      },
+      "id": "way/694158746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/941602730",
+        "name": "Torres de Lisboa",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1745884,
+              38.7560391
+            ],
+            [
+              -9.1745868,
+              38.7560828
+            ],
+            [
+              -9.1745686,
+              38.7565507
+            ],
+            [
+              -9.1745513,
+              38.7572382
+            ],
+            [
+              -9.1745518,
+              38.7572516
+            ],
+            [
+              -9.1745561,
+              38.7572632
+            ],
+            [
+              -9.1745645,
+              38.7572746
+            ],
+            [
+              -9.1745782,
+              38.7572852
+            ],
+            [
+              -9.174596,
+              38.7572917
+            ],
+            [
+              -9.1746247,
+              38.7572946
+            ],
+            [
+              -9.1754366,
+              38.7573093
+            ],
+            [
+              -9.1761098,
+              38.7573215
+            ],
+            [
+              -9.1761289,
+              38.7573205
+            ],
+            [
+              -9.1761453,
+              38.7573164
+            ],
+            [
+              -9.1761606,
+              38.7573081
+            ],
+            [
+              -9.1761728,
+              38.7572936
+            ],
+            [
+              -9.1761785,
+              38.7572806
+            ],
+            [
+              -9.1761805,
+              38.7572674
+            ],
+            [
+              -9.1762004,
+              38.7567588
+            ],
+            [
+              -9.1762031,
+              38.7567046
+            ],
+            [
+              -9.1762121,
+              38.7564913
+            ],
+            [
+              -9.1762255,
+              38.7561037
+            ],
+            [
+              -9.1762287,
+              38.7560639
+            ],
+            [
+              -9.1745884,
+              38.7560391
+            ]
+          ]
+        ]
+      },
+      "id": "way/941602730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277650510",
+        "name": "Barruncho",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1680531,
+          38.7998686
+        ]
+      },
+      "id": "node/277650510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320363004",
+        "name": "Bairro dos Navegantes",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3154521,
+          38.730446
+        ]
+      },
+      "id": "node/320363004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936193875",
+        "name": "Bairro de São Martinho (Fonte Arcada)",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5216087,
+          40.9683047
+        ]
+      },
+      "id": "node/1936193875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3040901800",
+        "name": "Pinhal de Negreiros",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.033358,
+          38.5468129
+        ]
+      },
+      "id": "node/3040901800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3223240576",
+        "name": "Portela da Azóia",
+        "note": "O uso de place=quarter deve-se ao facto de que dentro deste \"bairro\" existem outros bairros mais pequenos. Desse modo, por se tratar de um caso limite, seguiu-se a definição desta etiqueta que está na wiki invés de se seguir a Padronização PT.",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1006894,
+          38.8400231
+        ]
+      },
+      "id": "node/3223240576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4446249574",
+        "name": "Ardegães",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5683135,
+          41.2226819
+        ]
+      },
+      "id": "node/4446249574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5437202239",
+        "name": "Salmoura",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9909374,
+          38.5480252
+        ]
+      },
+      "id": "node/5437202239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542653563",
+        "name": "Casalinho",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.118192,
+          40.1721908
+        ]
+      },
+      "id": "node/6542653563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542653565",
+        "name": "São Martinho",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0939134,
+          40.1759687
+        ]
+      },
+      "id": "node/6542653565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542653566",
+        "name": "Bordeiro",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0920093,
+          40.1830988
+        ]
+      },
+      "id": "node/6542653566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6627664727",
+        "description": "Topónimo",
+        "name": "Bairro de Mata Filhos",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3510044,
+          41.6324575
+        ]
+      },
+      "id": "node/6627664727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6740297322",
+        "name": "Bairro da Ribeira",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3523912,
+          40.9750639
+        ]
+      },
+      "id": "node/6740297322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6740297330",
+        "name": "Bairro SR da Estrada",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3552939,
+          40.9749427
+        ]
+      },
+      "id": "node/6740297330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6740297361",
+        "name": "Bairro do Pedrogao",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3529782,
+          40.9762865
+        ]
+      },
+      "id": "node/6740297361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7884844870",
+        "name": "Vale Florete",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0094165,
+          38.5546415
+        ]
+      },
+      "id": "node/7884844870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7889539613",
+        "name": "Fundo da Vala",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9805064,
+          38.5719653
+        ]
+      },
+      "id": "node/7889539613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908458996",
+        "name": "Vendas de Azeitão",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9892371,
+          38.5320733
+        ]
+      },
+      "id": "node/7908458996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908458997",
+        "name": "Choilo",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0160055,
+          38.5329986
+        ]
+      },
+      "id": "node/7908458997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908458998",
+        "name": "Galeotas",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0084534,
+          38.5375707
+        ]
+      },
+      "id": "node/7908458998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908458999",
+        "name": "Vale de Choupo",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0151566,
+          38.5416918
+        ]
+      },
+      "id": "node/7908458999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908459000",
+        "name": "Brejoeira",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0250885,
+          38.5469901
+        ]
+      },
+      "id": "node/7908459000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7908459001",
+        "name": "Casal de Bolinhos",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0318179,
+          38.5419628
+        ]
+      },
+      "id": "node/7908459001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11273090209",
+        "name": "Tumelheiras",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3484588,
+          41.6442072
+        ]
+      },
+      "id": "node/11273090209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278552223",
+        "description": "Topónimo",
+        "name": "L Toural",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3493877,
+          41.6378452
+        ]
+      },
+      "id": "node/11278552223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278552224",
+        "description": "Topónimo",
+        "name": "L Cabeço",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3478798,
+          41.6407003
+        ]
+      },
+      "id": "node/11278552224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11278552225",
+        "description": "Topónimo",
+        "name": "La Ribeira",
+        "place": "quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3500559,
+          41.6417705
+        ]
+      },
+      "id": "node/11278552225"
+    }
+  ]
+}
