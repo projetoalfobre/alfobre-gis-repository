@@ -1,0 +1,510 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:03:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96715411",
+        "addr:housenumber": "59",
+        "addr:street": "Rua Alexandre Herculano",
+        "amenity": "place_of_worship",
+        "architect": "Miguel Ventura Terra",
+        "architect:wikidata": "Q3313019",
+        "building": "yes",
+        "description": "Edificada segundo projecto do arq. Miguel Ventura Terra, a entrada principal abre-se para um pátio interior, já que a lei então vigente não permitia que locais de culto não católico abrissem as suas portas directamente para a via pública.",
+        "name": "Sinagoga Shaaré Tikva",
+        "religion": "jewish",
+        "source": "dadosabertos.cm-lisboa.pt",
+        "source:name": "CICL",
+        "wikidata": "Q3113484",
+        "wikimedia_commons": "Category:Sinagoga Shaaré Tikva (Lisboa)",
+        "wikipedia": "en:Lisbon Synagogue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1533336,
+              38.7204133
+            ],
+            [
+              -9.1533536,
+              38.7202963
+            ],
+            [
+              -9.1530207,
+              38.7202617
+            ],
+            [
+              -9.1530007,
+              38.7203787
+            ],
+            [
+              -9.1533336,
+              38.7204133
+            ]
+          ]
+        ]
+      },
+      "id": "way/96715411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151727169",
+        "alt_name": "Sinagoga Kadoorie Mekor Haim",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sinagoga Kadoorie",
+        "religion": "jewish",
+        "source": "Bing",
+        "wikidata": "Q1140204"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6366798,
+              41.1558803
+            ],
+            [
+              -8.6366644,
+              41.1559119
+            ],
+            [
+              -8.6366924,
+              41.1559196
+            ],
+            [
+              -8.6366899,
+              41.1559247
+            ],
+            [
+              -8.6370515,
+              41.156025
+            ],
+            [
+              -8.6370667,
+              41.1559938
+            ],
+            [
+              -8.637058,
+              41.1559914
+            ],
+            [
+              -8.6371028,
+              41.1558999
+            ],
+            [
+              -8.6367499,
+              41.155802
+            ],
+            [
+              -8.6367472,
+              41.1558075
+            ],
+            [
+              -8.6367192,
+              41.1557998
+            ],
+            [
+              -8.636704,
+              41.1558307
+            ],
+            [
+              -8.6366971,
+              41.1558288
+            ],
+            [
+              -8.6366729,
+              41.1558784
+            ],
+            [
+              -8.6366798,
+              41.1558803
+            ]
+          ]
+        ]
+      },
+      "id": "way/151727169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377780098",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Sinagoga",
+        "name:en": "BEIT-HA - MIDRASCH-SEFARDIN",
+        "religion": "jewish",
+        "wikidata": "Q18811094"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.4568209,
+              39.4174631
+            ],
+            [
+              -7.4567358,
+              39.417444
+            ],
+            [
+              -7.456714,
+              39.4174995
+            ],
+            [
+              -7.4566984,
+              39.417539
+            ],
+            [
+              -7.4566847,
+              39.4175738
+            ],
+            [
+              -7.456777,
+              39.417595
+            ],
+            [
+              -7.4568209,
+              39.4174631
+            ]
+          ]
+        ]
+      },
+      "id": "way/377780098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/462190532",
+        "alt_name": "Antiga Sinagoga de Tomar;Museu Luso-Hebraico Abraham Zacut",
+        "amenity": "place_of_worship",
+        "boundary": "protected_area",
+        "building": "synagogue",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MN",
+        "heritage:since": "1921",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70238",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=3384",
+        "name": "Sinagoga de Tomar",
+        "operator": "Câmara Municipal de Tomar, Despacho do Ministro das Finanças de 23 Agosto 1939",
+        "protect_class": "22",
+        "protection_title": "Monumento Nacional",
+        "ref:dgpc": "70238",
+        "ref:ipa": "3384",
+        "religion": "jewish",
+        "site_status": "Classificado",
+        "source": "aerial_survey_archc3d",
+        "source:ref": "http://dre.pt/pdf1sdip/1921/07/15400/09990999.pdf",
+        "start_date": "Meados do século XV",
+        "website": "http://www.cm-tomar.pt/index.php/sinagoga",
+        "wikidata": "Q7661942",
+        "wikipedia": "pt:Sinagoga de Tomar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4137151,
+              39.6032801
+            ],
+            [
+              -8.4139004,
+              39.6032418
+            ],
+            [
+              -8.4138663,
+              39.6031439
+            ],
+            [
+              -8.413781,
+              39.6031616
+            ],
+            [
+              -8.4137549,
+              39.6030866
+            ],
+            [
+              -8.4136549,
+              39.6031073
+            ],
+            [
+              -8.4136718,
+              39.6031559
+            ],
+            [
+              -8.4137151,
+              39.6032801
+            ]
+          ]
+        ]
+      },
+      "id": "way/462190532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556080065",
+        "amenity": "place_of_worship",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.4430149,
+              38.700565
+            ],
+            [
+              -9.4430114,
+              38.7005438
+            ],
+            [
+              -9.4429777,
+              38.7005472
+            ],
+            [
+              -9.4429812,
+              38.7005684
+            ],
+            [
+              -9.4430149,
+              38.700565
+            ]
+          ]
+        ]
+      },
+      "id": "way/556080065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626745906",
+        "amenity": "place_of_worship",
+        "building": "apartments",
+        "name": "Judiaria de Viseu",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9112058,
+              40.6591387
+            ],
+            [
+              -7.911126,
+              40.6590598
+            ],
+            [
+              -7.9110382,
+              40.6591804
+            ],
+            [
+              -7.9110703,
+              40.6592002
+            ],
+            [
+              -7.9111112,
+              40.6591646
+            ],
+            [
+              -7.9111387,
+              40.6591824
+            ],
+            [
+              -7.9111568,
+              40.6591926
+            ],
+            [
+              -7.9112058,
+              40.6591387
+            ]
+          ]
+        ]
+      },
+      "id": "way/626745906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741068980",
+        "alt_name": "Antiga Sinagoga de Elvas",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "fee": "no",
+        "heritage:website:sipa": "http://monumentos.pt/site/APP_PagesUser/SIPA.aspx?id=26853",
+        "name": "Casa da História Judaica",
+        "old_name": "Açougue Público de Elvas",
+        "opening_hours:url": "http://www.cm-elvas.pt/descobrir/project-item/casa-da-historia-judaica/",
+        "ref:ipa": "26853",
+        "religion": "jewish",
+        "tourism": "museum",
+        "website": "http://www.cm-elvas.pt/descobrir/project-item/casa-da-historia-judaica/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.1628566,
+              38.8813662
+            ],
+            [
+              -7.16294,
+              38.8814388
+            ],
+            [
+              -7.1629833,
+              38.8814764
+            ],
+            [
+              -7.163098,
+              38.8813996
+            ],
+            [
+              -7.163106,
+              38.8813947
+            ],
+            [
+              -7.1631009,
+              38.8813885
+            ],
+            [
+              -7.1631041,
+              38.8813793
+            ],
+            [
+              -7.1630829,
+              38.8813568
+            ],
+            [
+              -7.1630648,
+              38.8813691
+            ],
+            [
+              -7.1629992,
+              38.8813109
+            ],
+            [
+              -7.1630099,
+              38.8813035
+            ],
+            [
+              -7.1629757,
+              38.8812621
+            ],
+            [
+              -7.1629122,
+              38.8813071
+            ],
+            [
+              -7.1628552,
+              38.8813539
+            ],
+            [
+              -7.1628566,
+              38.8813662
+            ]
+          ]
+        ]
+      },
+      "id": "way/741068980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/807104515",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "name": "Sinagoga Bet Eliahu",
+        "religion": "jewish",
+        "start_date": "1996",
+        "wheelchair": "yes",
+        "wikidata": "Q71702976"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.347298,
+              40.3586382
+            ],
+            [
+              -7.3474107,
+              40.3585654
+            ],
+            [
+              -7.3473175,
+              40.3584817
+            ],
+            [
+              -7.3472048,
+              40.3585544
+            ],
+            [
+              -7.347298,
+              40.3586382
+            ]
+          ]
+        ]
+      },
+      "id": "way/807104515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6271614783",
+        "alt_name": "Sinagoga de Ourém;Fachada da Sinagoga de Ourém",
+        "amenity": "place_of_worship",
+        "building": "synagogue",
+        "description": "Arquitectura religiosa, gótica. Fachada aberta por duas portas em cantaria em arco ogival.",
+        "heritage:website": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=21889",
+        "historic": "ruins",
+        "name": "Ruínas da Sinagoga",
+        "opening_hours": "off",
+        "ref:ipa": "21889",
+        "religion": "jewish",
+        "ruins": "yes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5919486,
+          39.6430141
+        ]
+      },
+      "id": "node/6271614783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327443484",
+        "amenity": "place_of_worship",
+        "religion": "jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3481326,
+          40.7776774
+        ]
+      },
+      "id": "node/6327443484"
+    }
+  ]
+}

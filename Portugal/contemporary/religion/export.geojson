@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T10:58:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12687531",
+        "addr:country": "PT",
+        "addr:housename": "Mesquita Central de Lisboa",
+        "addr:housenumber": "2",
+        "addr:street": "Rua da Mesquita",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "description": "Localizada junto ao Bairro Azul, numa colina por detrás da Praça de Espanha, a mesquita surge com o intuito de congregar todos os muçulmanos, não só residentes em Portugal, como também para aproximar os visitantes islâmicos de passagem pelo país.",
+        "name": "Mesquita Central de Lisboa",
+        "religion": "muslim",
+        "source:name": "CICL",
+        "source:pkey": "2021f74b-417f-4248-8ec6-8725fbe8592e",
+        "start_date": "1985",
+        "type": "multipolygon",
+        "wikidata": "Q3115759",
+        "wikipedia": "pt:Mesquita Central de Lisboa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1589326,
+              38.7357262
+            ],
+            [
+              -9.1589808,
+              38.7354393
+            ],
+            [
+              -9.1583186,
+              38.7354226
+            ],
+            [
+              -9.158314,
+              38.7354503
+            ],
+            [
+              -9.1581456,
+              38.7354342
+            ],
+            [
+              -9.1580961,
+              38.7357331
+            ],
+            [
+              -9.1583777,
+              38.7357615
+            ],
+            [
+              -9.1583842,
+              38.7357174
+            ],
+            [
+              -9.1585886,
+              38.7356973
+            ],
+            [
+              -9.1586714,
+              38.7357043
+            ],
+            [
+              -9.1586724,
+              38.7356996
+            ],
+            [
+              -9.1589326,
+              38.7357262
+            ]
+          ],
+          [
+            [
+              -9.1585699,
+              38.7356179
+            ],
+            [
+              -9.1584358,
+              38.7356052
+            ],
+            [
+              -9.1584521,
+              38.7355002
+            ],
+            [
+              -9.1585863,
+              38.735513
+            ],
+            [
+              -9.1585699,
+              38.7356179
+            ]
+          ]
+        ]
+      },
+      "id": "relation/12687531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299010730",
+        "addr:city": "Odivelas",
+        "addr:country": "PT",
+        "addr:postcode": "2675-454",
+        "addr:street": "Avenida Professor Doutor Augusto Abreu Lopes",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Mesquita Masjid Aisha Siddika (R.A.)",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1818639,
+              38.7954679
+            ],
+            [
+              -9.1818036,
+              38.7954404
+            ],
+            [
+              -9.1818244,
+              38.7953966
+            ],
+            [
+              -9.1816789,
+              38.7953432
+            ],
+            [
+              -9.1815979,
+              38.7954582
+            ],
+            [
+              -9.1818161,
+              38.7955473
+            ],
+            [
+              -9.1818639,
+              38.7954679
+            ]
+          ]
+        ]
+      },
+      "id": "way/299010730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398341062",
+        "addr:housenumber": "6",
+        "addr:postcode": "4700-042",
+        "addr:street": "Rua do Alcaide",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "check_date": "2024-05-17",
+        "name": "Islamic Center Braga",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4266691,
+              41.5477428
+            ],
+            [
+              -8.4265941,
+              41.5477893
+            ],
+            [
+              -8.4266105,
+              41.5478041
+            ],
+            [
+              -8.4265443,
+              41.5478451
+            ],
+            [
+              -8.4265905,
+              41.5478868
+            ],
+            [
+              -8.426631,
+              41.5479234
+            ],
+            [
+              -8.4266775,
+              41.5478945
+            ],
+            [
+              -8.4266926,
+              41.5479081
+            ],
+            [
+              -8.4267872,
+              41.5478495
+            ],
+            [
+              -8.4266691,
+              41.5477428
+            ]
+          ]
+        ]
+      },
+      "id": "way/398341062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/501236114",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "name": "Mesquita Hazrat Hamza",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6103389,
+              41.1448618
+            ],
+            [
+              -8.6103724,
+              41.1448689
+            ],
+            [
+              -8.6103849,
+              41.1448299
+            ],
+            [
+              -8.6103266,
+              41.1448156
+            ],
+            [
+              -8.6103134,
+              41.1448558
+            ],
+            [
+              -8.6103389,
+              41.1448618
+            ]
+          ]
+        ]
+      },
+      "id": "way/501236114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353874745",
+        "addr:city": "Laranjeiro e Feijó",
+        "addr:country": "PT",
+        "addr:housenumber": "12",
+        "addr:street": "Rua Dom Duarte",
+        "addr:unit": "A/B",
+        "amenity": "place_of_worship",
+        "name": "Comunidade Islâmica Masjid Al-Madinah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1487742,
+          38.6534692
+        ]
+      },
+      "id": "node/3353874745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882956785",
+        "amenity": "place_of_worship",
+        "name": "Mesquita de Viseu",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9088049,
+          40.6611135
+        ]
+      },
+      "id": "node/5882956785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274719736",
+        "addr:housenumber": "223",
+        "addr:street": "Rua do Heroísmo",
+        "alt_name": "Centro Cultural Islâmico do Porto",
+        "amenity": "place_of_worship",
+        "name": "Mesquita Central do Porto",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5931592,
+          41.1463399
+        ]
+      },
+      "id": "node/6274719736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6584114896",
+        "amenity": "place_of_worship",
+        "name": "Terapeuta Espiritual Bela Silva",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7568975,
+          41.3697848
+        ]
+      },
+      "id": "node/6584114896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6738439360",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4195052,
+          38.6985323
+        ]
+      },
+      "id": "node/6738439360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8691326951",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2397912,
+          38.7612882
+        ]
+      },
+      "id": "node/8691326951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9455947755",
+        "addr:city": "Portimão",
+        "addr:housenumber": "51A",
+        "addr:postcode": "8500-533",
+        "addr:street": "Rua 16 de Maio",
+        "amenity": "place_of_worship",
+        "name": "Mesquita do Portimão",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5368358,
+          37.1412265
+        ]
+      },
+      "id": "node/9455947755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9455972367",
+        "addr:city": "Lagoa",
+        "addr:housenumber": "11",
+        "addr:postcode": "8400-317",
+        "addr:street": "Rua Alfredo Keil",
+        "amenity": "place_of_worship",
+        "name": "Mesquita Al-Bukhari Lagoa",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4501091,
+          37.1359811
+        ]
+      },
+      "id": "node/9455972367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9456112456",
+        "addr:city": "Silves",
+        "addr:housenumber": "7",
+        "addr:postcode": "8300-159",
+        "addr:street": "Rua Gregório Mascarenhas",
+        "amenity": "place_of_worship",
+        "name": "Mesquita Tarik IBNU-ZIYAD Silves",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4356622,
+          37.1900286
+        ]
+      },
+      "id": "node/9456112456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9817871108",
+        "amenity": "place_of_worship",
+        "name": "Mesquita de Faro",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9216682,
+          37.0149135
+        ]
+      },
+      "id": "node/9817871108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11803989317",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Mesquita At-Taqwa",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8767674,
+          38.5303645
+        ]
+      },
+      "id": "node/11803989317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11949760278",
+        "addr:city": "Leiria",
+        "addr:postcode": "2410-105",
+        "addr:street": "Rua Francisco Pereira da Silva",
+        "amenity": "place_of_worship",
+        "name": "Mesquita de Leiria - Masjidul Ansaar",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8057598,
+          39.738721
+        ]
+      },
+      "id": "node/11949760278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12248116800",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.926369,
+          37.0197531
+        ]
+      },
+      "id": "node/12248116800"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:34:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30333994",
+        "highway": "residential",
+        "name": "Rua Álvaro Barreirinhas Cunhal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1976497,
+            38.8327533
+          ],
+          [
+            -9.1972137,
+            38.8326273
+          ],
+          [
+            -9.1966892,
+            38.8324778
+          ],
+          [
+            -9.1962023,
+            38.8323398
+          ],
+          [
+            -9.1961654,
+            38.8323293
+          ],
+          [
+            -9.1958414,
+            38.8322371
+          ],
+          [
+            -9.1954978,
+            38.8321394
+          ],
+          [
+            -9.1951603,
+            38.8320422
+          ],
+          [
+            -9.1948452,
+            38.8319505
+          ]
+        ]
+      },
+      "id": "way/30333994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114839357",
+        "highway": "tertiary",
+        "name": "Rua Doutor Álvaro Barreirinhas Cunhal",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2135258,
+            39.463751
+          ],
+          [
+            -8.2136297,
+            39.4638433
+          ],
+          [
+            -8.2136823,
+            39.4639825
+          ]
+        ]
+      },
+      "id": "way/114839357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114839364",
+        "highway": "tertiary",
+        "name": "Rua Doutor Álvaro Barreirinhas Cunhal",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2138521,
+            39.4637352
+          ],
+          [
+            -8.2137046,
+            39.4637711
+          ],
+          [
+            -8.2135258,
+            39.463751
+          ]
+        ]
+      },
+      "id": "way/114839364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114839374",
+        "highway": "tertiary",
+        "name": "Rua Doutor Álvaro Barreirinhas Cunhal",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2120721,
+            39.4620545
+          ],
+          [
+            -8.2121854,
+            39.4621926
+          ]
+        ]
+      },
+      "id": "way/114839374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243932124",
+        "highway": "tertiary",
+        "name": "Rua Doutor Álvaro Barreirinhas Cunhal",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2121854,
+            39.4621926
+          ],
+          [
+            -8.2122051,
+            39.4620348
+          ]
+        ]
+      },
+      "id": "way/243932124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243944748",
+        "highway": "tertiary",
+        "name": "Rua Doutor Álvaro Barreirinhas Cunhal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.2135258,
+            39.463751
+          ],
+          [
+            -8.2132955,
+            39.4636415
+          ],
+          [
+            -8.2127854,
+            39.4634206
+          ],
+          [
+            -8.2126317,
+            39.463292
+          ],
+          [
+            -8.2125577,
+            39.4631951
+          ],
+          [
+            -8.2124423,
+            39.4628885
+          ],
+          [
+            -8.2123916,
+            39.4627499
+          ],
+          [
+            -8.2121854,
+            39.4621926
+          ]
+        ]
+      },
+      "id": "way/243944748"
+    }
+  ]
+}

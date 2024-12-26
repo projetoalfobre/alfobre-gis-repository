@@ -1,0 +1,1570 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:35:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1298963517",
+        "building": "yes",
+        "description": "Habitação onde nasceu o ditador Dr. António Oliveira Salazar. O edifício encontra-se fechado e num estado de abandono.",
+        "name": "Casa onde nasceu Dr. António Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.1246937,
+              40.3877602
+            ],
+            [
+              -8.1245751,
+              40.3877225
+            ],
+            [
+              -8.1245043,
+              40.3878236
+            ],
+            [
+              -8.1245981,
+              40.3878613
+            ],
+            [
+              -8.1246565,
+              40.3878357
+            ],
+            [
+              -8.1246901,
+              40.3878533
+            ],
+            [
+              -8.1247202,
+              40.3878317
+            ],
+            [
+              -8.1247202,
+              40.3878101
+            ],
+            [
+              -8.1246724,
+              40.3877912
+            ],
+            [
+              -8.1246937,
+              40.3877602
+            ]
+          ]
+        ]
+      },
+      "id": "way/1298963517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/40657080",
+        "highway": "living_street",
+        "lit": "yes",
+        "maxspeed": "20",
+        "name": "Rua Doutor Oliveira Salazar",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4755347,
+            41.3480292
+          ],
+          [
+            -8.4755051,
+            41.3479522
+          ],
+          [
+            -8.4750985,
+            41.3469622
+          ],
+          [
+            -8.4750878,
+            41.3467944
+          ]
+        ]
+      },
+      "id": "way/40657080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/64096107",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8694545,
+            39.8514344
+          ],
+          [
+            -8.8693249,
+            39.8513346
+          ]
+        ]
+      },
+      "id": "way/64096107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93633456",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada",
+        "ref": "EN 349",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8762879,
+            39.8523399
+          ],
+          [
+            -8.8760683,
+            39.8522813
+          ],
+          [
+            -8.8759597,
+            39.8522604
+          ],
+          [
+            -8.8755293,
+            39.8521775
+          ],
+          [
+            -8.8750692,
+            39.852124
+          ],
+          [
+            -8.8745933,
+            39.8520687
+          ],
+          [
+            -8.8732133,
+            39.8519082
+          ],
+          [
+            -8.8729517,
+            39.8518778
+          ],
+          [
+            -8.8726693,
+            39.851845
+          ],
+          [
+            -8.8714201,
+            39.8516997
+          ],
+          [
+            -8.8700147,
+            39.8515103
+          ],
+          [
+            -8.8695715,
+            39.8514487
+          ],
+          [
+            -8.8695355,
+            39.8514442
+          ],
+          [
+            -8.8694545,
+            39.8514344
+          ]
+        ]
+      },
+      "id": "way/93633456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98511004",
+        "highway": "residential",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.1537474,
+            41.30861
+          ],
+          [
+            -7.1537113,
+            41.3083343
+          ],
+          [
+            -7.1536583,
+            41.3079293
+          ],
+          [
+            -7.1536284,
+            41.3078297
+          ],
+          [
+            -7.1536134,
+            41.3077118
+          ],
+          [
+            -7.1536192,
+            41.3076616
+          ],
+          [
+            -7.1536287,
+            41.3076134
+          ],
+          [
+            -7.1536607,
+            41.3075652
+          ]
+        ]
+      },
+      "id": "way/98511004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105879113",
+        "description": "Fontes para consulta: https://observador.pt/especiais/de-cunhal-a-salazar-ha-ideologia-nos-nomes-das-ruas-de-portugal-e-muito-mais/ https://peticaopublica.com/?pi=PT100812 https://www.esquerda.net/artigo/figuras-da-ditadura-dao-nome-ruas-em-78-concelhos-p",
+        "highway": "secondary",
+        "name": "Avenida Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "old_ref": "EN 313",
+        "ref": "EM 313",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.687309,
+            41.1034522
+          ],
+          [
+            -7.6876458,
+            41.1038358
+          ],
+          [
+            -7.6877391,
+            41.1039263
+          ],
+          [
+            -7.688084,
+            41.1040962
+          ],
+          [
+            -7.688295,
+            41.1041581
+          ],
+          [
+            -7.6884663,
+            41.1041725
+          ],
+          [
+            -7.6889138,
+            41.1041457
+          ],
+          [
+            -7.6890785,
+            41.1041626
+          ],
+          [
+            -7.6892314,
+            41.1042101
+          ],
+          [
+            -7.6893621,
+            41.1043046
+          ],
+          [
+            -7.689866,
+            41.1051106
+          ],
+          [
+            -7.6910529,
+            41.1059273
+          ],
+          [
+            -7.6918691,
+            41.1062469
+          ],
+          [
+            -7.6919482,
+            41.1063128
+          ],
+          [
+            -7.6920773,
+            41.1064205
+          ],
+          [
+            -7.6924117,
+            41.1066994
+          ],
+          [
+            -7.6926257,
+            41.1068809
+          ],
+          [
+            -7.6927701,
+            41.1070763
+          ],
+          [
+            -7.6929326,
+            41.1073714
+          ],
+          [
+            -7.6930744,
+            41.1079147
+          ],
+          [
+            -7.6932534,
+            41.1086003
+          ],
+          [
+            -7.6932484,
+            41.1087675
+          ],
+          [
+            -7.6931977,
+            41.1089338
+          ]
+        ]
+      },
+      "id": "way/105879113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107631962",
+        "destination": "Praias;Granja",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8692587,
+            39.8514223
+          ],
+          [
+            -8.8694545,
+            39.8514344
+          ]
+        ]
+      },
+      "id": "way/107631962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118194377",
+        "highway": "residential",
+        "name": "Alameda do Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "source": "BING"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.542024,
+            41.0479403
+          ],
+          [
+            -8.5419508,
+            41.0481032
+          ],
+          [
+            -8.5418203,
+            41.0483934
+          ],
+          [
+            -8.5414957,
+            41.0491357
+          ],
+          [
+            -8.5414801,
+            41.0492532
+          ],
+          [
+            -8.5414029,
+            41.0494433
+          ],
+          [
+            -8.5413611,
+            41.0496234
+          ],
+          [
+            -8.5413845,
+            41.0498326
+          ],
+          [
+            -8.5413878,
+            41.04984
+          ],
+          [
+            -8.5414925,
+            41.0500706
+          ],
+          [
+            -8.5415476,
+            41.050204
+          ],
+          [
+            -8.5420401,
+            41.0513215
+          ]
+        ]
+      },
+      "id": "way/118194377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118194669",
+        "highway": "residential",
+        "name": "Alameda do Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "source": "BING"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5420401,
+            41.0513215
+          ],
+          [
+            -8.5423216,
+            41.051955
+          ],
+          [
+            -8.5423793,
+            41.052046
+          ]
+        ]
+      },
+      "id": "way/118194669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173168384",
+        "highway": "residential",
+        "name": "Rua Doutor Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8438923,
+            39.7832045
+          ],
+          [
+            -8.8439164,
+            39.7833323
+          ],
+          [
+            -8.8438663,
+            39.7834434
+          ],
+          [
+            -8.8437777,
+            39.7835856
+          ],
+          [
+            -8.8437662,
+            39.7837157
+          ],
+          [
+            -8.8438341,
+            39.783936
+          ],
+          [
+            -8.8439647,
+            39.7842207
+          ],
+          [
+            -8.84408,
+            39.7845113
+          ],
+          [
+            -8.8441873,
+            39.7846556
+          ]
+        ]
+      },
+      "id": "way/173168384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173180382",
+        "highway": "tertiary",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4727242,
+            41.3519111
+          ],
+          [
+            -8.4725922,
+            41.3519623
+          ]
+        ]
+      },
+      "id": "way/173180382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173180383",
+        "bridge": "viaduct",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4745186,
+            41.3505111
+          ],
+          [
+            -8.4743638,
+            41.3505771
+          ],
+          [
+            -8.4742469,
+            41.3506409
+          ]
+        ]
+      },
+      "id": "way/173180383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173180385",
+        "bridge": "viaduct",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4736052,
+            41.3511794
+          ],
+          [
+            -8.4730762,
+            41.3516776
+          ],
+          [
+            -8.4729048,
+            41.3518084
+          ],
+          [
+            -8.4727242,
+            41.3519111
+          ]
+        ]
+      },
+      "id": "way/173180385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220135255",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Avenida Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.006095,
+            40.4319331
+          ],
+          [
+            -8.0061836,
+            40.432015
+          ],
+          [
+            -8.0070719,
+            40.4328364
+          ],
+          [
+            -8.0074015,
+            40.4331411
+          ]
+        ]
+      },
+      "id": "way/220135255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289118029",
+        "highway": "residential",
+        "name": "Rua Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.5036461,
+            39.9412587
+          ],
+          [
+            -7.5034689,
+            39.941253
+          ],
+          [
+            -7.5033294,
+            39.9412345
+          ],
+          [
+            -7.5031928,
+            39.9412031
+          ],
+          [
+            -7.5030828,
+            39.9411394
+          ],
+          [
+            -7.5028843,
+            39.9410839
+          ],
+          [
+            -7.5027797,
+            39.9409954
+          ],
+          [
+            -7.5027864,
+            39.9409373
+          ],
+          [
+            -7.5027958,
+            39.9408556
+          ],
+          [
+            -7.5027797,
+            39.9407507
+          ],
+          [
+            -7.5027234,
+            39.940689
+          ],
+          [
+            -7.5026895,
+            39.9405266
+          ]
+        ]
+      },
+      "id": "way/289118029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437460143",
+        "destination": "Cinema;Convento;Base Aérea;Praias;Granja",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada.",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "sidewalk": "right",
+        "sidewalk:surface": "paving_stones",
+        "source:maxspeed": "PT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8666158,
+            39.8511952
+          ],
+          [
+            -8.8667717,
+            39.8511872
+          ],
+          [
+            -8.8671155,
+            39.8511673
+          ],
+          [
+            -8.8675196,
+            39.851174
+          ]
+        ]
+      },
+      "id": "way/437460143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437994776",
+        "destination": "Convento;Base Aérea;Praias;Granja",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada.",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "sidewalk": "both",
+        "sidewalk:surface": "paving_stones",
+        "source:maxspeed": "PT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8675196,
+            39.851174
+          ],
+          [
+            -8.8679658,
+            39.8512303
+          ],
+          [
+            -8.8687826,
+            39.8513444
+          ],
+          [
+            -8.8689861,
+            39.8513495
+          ]
+        ]
+      },
+      "id": "way/437994776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443610457",
+        "highway": "secondary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "sidewalk": "right",
+        "sidewalk:surface": "asphalt",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8762879,
+            39.8523399
+          ],
+          [
+            -8.8765519,
+            39.8524695
+          ]
+        ]
+      },
+      "id": "way/443610457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443610462",
+        "highway": "secondary",
+        "lanes": "1",
+        "lit": "yes",
+        "name": "Rua Doutor Oliveira Salazar",
+        "note": "Desclassificada",
+        "oneway": "yes",
+        "ref": "EN 349",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.8765724,
+            39.852274
+          ],
+          [
+            -8.8762879,
+            39.8523399
+          ]
+        ]
+      },
+      "id": "way/443610462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/479626804",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Rua Oliveira Salazar",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4349516,
+            39.9099896
+          ],
+          [
+            -8.4349874,
+            39.9101221
+          ],
+          [
+            -8.4350725,
+            39.9105022
+          ],
+          [
+            -8.4352177,
+            39.9107646
+          ]
+        ]
+      },
+      "id": "way/479626804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533172202",
+        "highway": "residential",
+        "lanes": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.052836,
+            40.1348994
+          ],
+          [
+            -8.0526817,
+            40.1348519
+          ],
+          [
+            -8.0525783,
+            40.1348201
+          ],
+          [
+            -8.0524749,
+            40.1347733
+          ],
+          [
+            -8.0524206,
+            40.1347307
+          ],
+          [
+            -8.0523813,
+            40.1346849
+          ],
+          [
+            -8.0523645,
+            40.1346533
+          ],
+          [
+            -8.0523703,
+            40.1345833
+          ],
+          [
+            -8.0523849,
+            40.1345039
+          ],
+          [
+            -8.0524422,
+            40.1343228
+          ],
+          [
+            -8.0524534,
+            40.1342873
+          ]
+        ]
+      },
+      "id": "way/533172202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593854598",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Praça Doutor Oliveira Salazar",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4760714,
+            37.5128661
+          ],
+          [
+            -8.4760426,
+            37.512825
+          ],
+          [
+            -8.4760289,
+            37.5127484
+          ],
+          [
+            -8.4759426,
+            37.5127089
+          ],
+          [
+            -8.4757812,
+            37.5126813
+          ]
+        ]
+      },
+      "id": "way/593854598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593854608",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Praça Doutor Oliveira Salazar",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4757812,
+            37.5126813
+          ],
+          [
+            -8.4757147,
+            37.5126684
+          ],
+          [
+            -8.4756107,
+            37.5126534
+          ],
+          [
+            -8.4755491,
+            37.5126501
+          ]
+        ]
+      },
+      "id": "way/593854608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/649318701",
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "primary",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikimedia_commons": "File:António_de_Oliveira_Salazar_portrait_(by_Manuel_Alves_San_Payo)_–_Lisboa.jpg",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "ref": "EN 358-1",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3914959,
+            39.5428433
+          ],
+          [
+            -8.3914568,
+            39.542812
+          ],
+          [
+            -8.3913932,
+            39.5427636
+          ],
+          [
+            -8.3912918,
+            39.5426897
+          ],
+          [
+            -8.3911984,
+            39.5426245
+          ],
+          [
+            -8.3911298,
+            39.5425827
+          ],
+          [
+            -8.3909244,
+            39.5424676
+          ],
+          [
+            -8.3906613,
+            39.5423263
+          ],
+          [
+            -8.3902844,
+            39.5421265
+          ],
+          [
+            -8.3900383,
+            39.5419959
+          ],
+          [
+            -8.389882,
+            39.5419098
+          ],
+          [
+            -8.3897084,
+            39.5418098
+          ],
+          [
+            -8.3895533,
+            39.5417135
+          ],
+          [
+            -8.3894391,
+            39.5416417
+          ],
+          [
+            -8.3892644,
+            39.5415296
+          ],
+          [
+            -8.3890814,
+            39.5414124
+          ],
+          [
+            -8.3889565,
+            39.5413315
+          ],
+          [
+            -8.3888772,
+            39.541278
+          ],
+          [
+            -8.3887759,
+            39.5412031
+          ],
+          [
+            -8.3887196,
+            39.5411569
+          ],
+          [
+            -8.3886568,
+            39.5411002
+          ]
+        ]
+      },
+      "id": "way/649318701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/859759293",
+        "highway": "tertiary",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "source": "bing",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4754881,
+            41.3493073
+          ],
+          [
+            -8.4755281,
+            41.3493651
+          ],
+          [
+            -8.475672,
+            41.3495686
+          ],
+          [
+            -8.4757039,
+            41.3496355
+          ],
+          [
+            -8.4757164,
+            41.3496968
+          ],
+          [
+            -8.4757202,
+            41.3497782
+          ],
+          [
+            -8.4757056,
+            41.3498742
+          ],
+          [
+            -8.4756523,
+            41.3499695
+          ],
+          [
+            -8.4755847,
+            41.3500426
+          ],
+          [
+            -8.4754956,
+            41.3501108
+          ],
+          [
+            -8.47535,
+            41.3501785
+          ],
+          [
+            -8.4751629,
+            41.3502543
+          ],
+          [
+            -8.4746358,
+            41.350465
+          ],
+          [
+            -8.4745186,
+            41.3505111
+          ]
+        ]
+      },
+      "id": "way/859759293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/993141253",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "50",
+        "name": "Praça Doutor Oliveira Salazar",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4755491,
+            37.5126501
+          ],
+          [
+            -8.4755058,
+            37.5126582
+          ]
+        ]
+      },
+      "id": "way/993141253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1072292227",
+        "highway": "residential",
+        "name": "Alameda do Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5413878,
+            41.04984
+          ],
+          [
+            -8.5413222,
+            41.0497899
+          ],
+          [
+            -8.5413075,
+            41.0497527
+          ],
+          [
+            -8.5412929,
+            41.0496905
+          ],
+          [
+            -8.5412862,
+            41.0496051
+          ],
+          [
+            -8.5412915,
+            41.0495338
+          ],
+          [
+            -8.5413035,
+            41.0494705
+          ],
+          [
+            -8.5413222,
+            41.049402
+          ],
+          [
+            -8.5413488,
+            41.0493508
+          ],
+          [
+            -8.5413767,
+            41.0492905
+          ],
+          [
+            -8.5414034,
+            41.0492403
+          ],
+          [
+            -8.54143,
+            41.0491941
+          ],
+          [
+            -8.5414957,
+            41.0491357
+          ]
+        ]
+      },
+      "id": "way/1072292227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162899314",
+        "highway": "residential",
+        "name": "Rua Doutor Oliveira Salazar",
+        "source": "bing",
+        "surface": "sett"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4759649,
+            41.3491348
+          ],
+          [
+            -8.4758283,
+            41.349171
+          ],
+          [
+            -8.4754881,
+            41.3493073
+          ]
+        ]
+      },
+      "id": "way/1162899314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1227562661",
+        "highway": "living_street",
+        "lit": "yes",
+        "maxspeed": "20",
+        "name": "Rua Doutor Oliveira Salazar",
+        "oneway": "yes",
+        "source": "bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4755347,
+            41.3480292
+          ],
+          [
+            -8.4756271,
+            41.3482662
+          ],
+          [
+            -8.4759649,
+            41.3491348
+          ]
+        ]
+      },
+      "id": "way/1227562661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1275722283",
+        "highway": "residential",
+        "name": "Praça Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "name:etymology:wikipedia": "pt:António de Oliveira Salazar",
+        "source": "https://observador.pt/especiais/de-cunhal-a-salazar-ha-ideologia-nos-nomes-das-ruas-de-portugal-e-muito-mais/;https://peticaopublica.com/?pi=PT100812https://www.esquerda.net/artigo/figuras-da-ditadura-dao-nome-ruas-em-78-concelhos-p"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.6637281,
+            41.12327
+          ],
+          [
+            -7.6639977,
+            41.1232015
+          ],
+          [
+            -7.6641807,
+            41.1231863
+          ]
+        ]
+      },
+      "id": "way/1275722283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314433467",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "1",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4742469,
+            41.3506409
+          ],
+          [
+            -8.4741378,
+            41.3506849
+          ],
+          [
+            -8.4740072,
+            41.350774
+          ],
+          [
+            -8.4738263,
+            41.3509431
+          ],
+          [
+            -8.4736052,
+            41.3511794
+          ]
+        ]
+      },
+      "id": "way/1314433467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314433468",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "1",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4738176,
+            41.3510428
+          ],
+          [
+            -8.4739306,
+            41.3509592
+          ],
+          [
+            -8.4739547,
+            41.3509382
+          ],
+          [
+            -8.4740036,
+            41.3508954
+          ],
+          [
+            -8.4740947,
+            41.3507902
+          ]
+        ]
+      },
+      "id": "way/1314433468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314433474",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "1",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4740947,
+            41.3507902
+          ],
+          [
+            -8.474163,
+            41.3507254
+          ],
+          [
+            -8.4742469,
+            41.3506409
+          ]
+        ]
+      },
+      "id": "way/1314433474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1314433475",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "lanes": "1",
+        "layer": "1",
+        "name": "Rua Doutor Oliveira Salazar",
+        "name:etymology:wikidata": "Q151394",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4736052,
+            41.3511794
+          ],
+          [
+            -8.4738176,
+            41.3510428
+          ]
+        ]
+      },
+      "id": "way/1314433475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11970171009",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Armamar (Av Oliveira Salazar)",
+        "network": "Armamar SIM",
+        "operator": "Transdev Interior",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6932031,
+          41.1080521
+        ]
+      },
+      "id": "node/11970171009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11970171010",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Armamar (Av Oliveira Salazar)",
+        "network": "Armamar SIM",
+        "operator": "Transdev Interior",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6931824,
+          41.1084931
+        ]
+      },
+      "id": "node/11970171010"
+    }
+  ]
+}

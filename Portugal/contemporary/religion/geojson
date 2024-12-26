@@ -1,0 +1,27 @@
+nwr["amenity"="place_of_worship"]["religion"="muslim"](area.searchArea);
+nwr["amenity"="place_of_worship"]["religion"="muslim"]["name"~"Mesquita"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Mesquita"](area.searchArea);
+nwr["amenity"="place_of_worship"]["religion"="jewish"](area.searchArea);
+nwr["amenity"="place_of_worship"]["religion"="jewish"]["name"~"Sinagoga"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Sinagoga"](area.searchArea);
+nwr["amenity"="place_of_worship"]["religion"="christian"](area.searchArea);
+nwr["amenity"="place_of_worship"]["religion"="christian"]["name"~"Igreja Evangélica"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Igreja Evangélica"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Assembleia de Deus"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Testemunhas de Jeová"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Jesus Cristo dos Santos dos Últimos Dias"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Igreja de Nossa Senhora"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"São"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Santa"](area.searchArea);
+nwr["amenity"="place_of_worship"]["name"~"Nossa Senhora"](area.searchArea);
+nwr["name"~"Álvaro Cunhal"](area.searchArea);
+nwr["name"~"Mário Soares"](area.searchArea);
+nwr["name"~"Francisco Sá Carneiro"](area.searchArea);
+nwr["name"~"Álvaro Barreirinhas Cunhal"](area.searchArea);
+nwr["name"~"Oliveira Salazar"](area.searchArea);
+
+
+
+
+
+and name=~Judiaria

@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.36.1-Maidenhead">
+<qgis version="3.40.0-Bratislava">
   <identifier></identifier>
   <parentidentifier></parentidentifier>
   <language>PRT</language>
@@ -47,30 +47,38 @@
     <role>custodian</role>
   </contact>
   <links>
-    <link type="https" mimeType="" url="https://a-geocat.alfobre.com/" name="A-GeoCat" size="" format="" description="Alfobre Geodata Catalog"/>
-    <link type="https" mimeType="" url="https://alfobre.com" name="Alfobre" size="" format="" description="Alfobre Official Website"/>
+    <link name="A-GeoCat" mimeType="" url="https://a-geocat.alfobre.com/" type="https" size="" description="Alfobre Geodata Catalog" format=""/>
+    <link name="Alfobre" mimeType="" url="https://alfobre.com" type="https" size="" description="Alfobre Official Website" format=""/>
   </links>
   <dates/>
   <fees></fees>
-  <rights>[Title] by Nelson Gonçalves (Alfobre.com), available under a Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0) at A-GeoCat (https://a-geocat.alfobre.com/).</rights>
-  <rights>[Title] by Nelson Gonçalves (Alfobre.com), available under a Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0) at A-GeoCat (https://a-geocat.alfobre.com/). This work is based on data by ...</rights>
-  <license>Creative Commons Attribution 4.0</license>
+  <rights>[TITLE] © [YEAR] by Nelson Gonçalves (Alfobre.com) is licensed under Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0) at A-GeoCat (https://a-geocat.alfobre.com/)</rights>
+  <rights>[TITLE] © [YEAR] by Nelson Gonçalves (Alfobre.com) is licensed under Creative Commons Attribution 4.0 International (http://creativecommons.org/licenses/by/4.0) at A-GeoCat (https://a-geocat.alfobre.com/). This work is based on data by ...</rights>
+  <rights>[TITLE] © [YEAR] by Nelson Gonçalves (Alfobre.com) is licensed under the Public Domain Dedication and License: http://opendatacommons.org/licenses/pddl/1.0/</rights>
+  <rights>[TITLE] © [YEAR] by Nelson Gonçalves (Alfobre.com) is licensed under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/</rights>
+  <rights>[TITLE] © [YEAR] by Nelson Gonçalves (Alfobre.com) is licensed under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. </rights>
+  <license> CC BY 4.0  Creative Commons Attribution 4.0 International </license>
+  <license> CC BY-SA 4.0  Creative Commons Attribution-ShareAlike 4.0 International </license>
+  <license>Creative Commons CC Zero</license>
+  <license>Open Data Commons Open Database License (ODbL)</license>
+  <license>Open Data Commons Attribution License (ODC-By)</license>
+  <license>Open Data Commons Public Domain Dedication and License (PDDL) </license>
   <encoding></encoding>
   <crs>
     <spatialrefsys nativeFormat="Wkt">
-      <wkt></wkt>
+      <wkt>PROJCRS["WGS 84 / Pseudo-Mercator",BASEGEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4326]],CONVERSION["Popular Visualisation Pseudo-Mercator",METHOD["Popular Visualisation Pseudo Mercator",ID["EPSG",1024]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Web mapping and visualisation."],AREA["World between 85.06°S and 85.06°N."],BBOX[-85.06,-180,85.06,180]],ID["EPSG",3857]]</wkt>
       <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +k=1 +units=m +nadgrids=@null +wktext +no_defs</proj4>
-      <srsid>0</srsid>
-      <srid>0</srid>
-      <authid></authid>
-      <description></description>
-      <projectionacronym></projectionacronym>
-      <ellipsoidacronym></ellipsoidacronym>
+      <srsid>3857</srsid>
+      <srid>3857</srid>
+      <authid>EPSG:3857</authid>
+      <description>WGS 84 / Pseudo-Mercator</description>
+      <projectionacronym>merc</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
       <geographicflag>false</geographicflag>
     </spatialrefsys>
   </crs>
   <extent>
-    <spatial dimensions="2" minx="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" maxz="0" maxx="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" miny="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" minz="0" crs="" maxy="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368"/>
+    <spatial maxx="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" maxz="0" minx="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" maxy="-179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" crs="" miny="179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368" dimensions="2" minz="0"/>
     <temporal>
       <period>
         <start></start>

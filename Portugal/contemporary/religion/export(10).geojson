@@ -1,0 +1,1033 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:11:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377392883",
+        "addr:city": "Horta (Angústias)",
+        "addr:country": "PT",
+        "addr:postcode": "9900-069",
+        "addr:street": "Rua do Pasteleiro",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -28.6437908,
+              38.5244295
+            ],
+            [
+              -28.6436829,
+              38.5243003
+            ],
+            [
+              -28.6436491,
+              38.5243175
+            ],
+            [
+              -28.6436269,
+              38.524291
+            ],
+            [
+              -28.6435798,
+              38.5243151
+            ],
+            [
+              -28.643602,
+              38.5243416
+            ],
+            [
+              -28.6435685,
+              38.5243587
+            ],
+            [
+              -28.6436765,
+              38.524488
+            ],
+            [
+              -28.6437908,
+              38.5244295
+            ]
+          ]
+        ]
+      },
+      "id": "way/377392883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/523741370",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "protestant",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.613797,
+              40.8562222
+            ],
+            [
+              -8.6136384,
+              40.8561831
+            ],
+            [
+              -8.6135206,
+              40.8564569
+            ],
+            [
+              -8.6136791,
+              40.856496
+            ],
+            [
+              -8.613797,
+              40.8562222
+            ]
+          ]
+        ]
+      },
+      "id": "way/523741370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543738662",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Assembleia de Deus de Santa Ovaia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.8907044,
+              40.3150322
+            ],
+            [
+              -7.8907363,
+              40.3148778
+            ],
+            [
+              -7.8906334,
+              40.3148584
+            ],
+            [
+              -7.8905206,
+              40.3148372
+            ],
+            [
+              -7.8904886,
+              40.3149936
+            ],
+            [
+              -7.8907044,
+              40.3150322
+            ]
+          ]
+        ]
+      },
+      "id": "way/543738662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/658523945",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus Plena Paz",
+        "phone": "+351 914 478 007",
+        "religion": "christian",
+        "service_times": "Th 19:30; Sa 19:00; Su 19:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.7857263,
+              39.7582114
+            ],
+            [
+              -8.785616,
+              39.7583272
+            ],
+            [
+              -8.7857063,
+              39.7583781
+            ],
+            [
+              -8.7858177,
+              39.7582611
+            ],
+            [
+              -8.7857263,
+              39.7582114
+            ]
+          ]
+        ]
+      },
+      "id": "way/658523945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796656241",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Igreja Evangélica Assembleia de Deus de Viseu",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.9341149,
+              40.6708319
+            ],
+            [
+              -7.9343004,
+              40.6707684
+            ],
+            [
+              -7.9342639,
+              40.6707066
+            ],
+            [
+              -7.9342249,
+              40.6705689
+            ],
+            [
+              -7.9341426,
+              40.6705998
+            ],
+            [
+              -7.9341363,
+              40.6705881
+            ],
+            [
+              -7.9339931,
+              40.6706321
+            ],
+            [
+              -7.9341149,
+              40.6708319
+            ]
+          ]
+        ]
+      },
+      "id": "way/796656241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802253174",
+        "amenity": "place_of_worship",
+        "building": "religious",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.4609571,
+              38.546506
+            ],
+            [
+              -7.4610191,
+              38.5464886
+            ],
+            [
+              -7.4609611,
+              38.5463616
+            ],
+            [
+              -7.4608991,
+              38.546379
+            ],
+            [
+              -7.4609571,
+              38.546506
+            ]
+          ]
+        ]
+      },
+      "id": "way/802253174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/842107705",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus da Areosa",
+        "old_name": "Quartel dos Bombeiros Voluntários da Areosa",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.580482,
+              41.182406
+            ],
+            [
+              -8.5804113,
+              41.1823455
+            ],
+            [
+              -8.5801651,
+              41.1823322
+            ],
+            [
+              -8.580133,
+              41.1823019
+            ],
+            [
+              -8.5801716,
+              41.182153
+            ],
+            [
+              -8.5801394,
+              41.1821264
+            ],
+            [
+              -8.5799447,
+              41.1822765
+            ],
+            [
+              -8.5802858,
+              41.1825501
+            ],
+            [
+              -8.580482,
+              41.182406
+            ]
+          ]
+        ]
+      },
+      "id": "way/842107705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/974998500",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "check_date": "2024-12-07",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.7964089,
+              37.3180374
+            ],
+            [
+              -8.7964269,
+              37.3178956
+            ],
+            [
+              -8.7963135,
+              37.3178865
+            ],
+            [
+              -8.7962956,
+              37.3180283
+            ],
+            [
+              -8.7964089,
+              37.3180374
+            ]
+          ]
+        ]
+      },
+      "id": "way/974998500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1508931969",
+        "amenity": "place_of_worship",
+        "contact:phone": "+351 291823887",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8860439,
+          32.8106772
+        ]
+      },
+      "id": "node/1508931969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664344900",
+        "amenity": "place_of_worship",
+        "name": "Igreja Evangélica Assembleia de Deus Ministério Emanuel",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2577301,
+          38.7568946
+        ]
+      },
+      "id": "node/1664344900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1795164648",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Corporação Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4436984,
+          40.5759468
+        ]
+      },
+      "id": "node/1795164648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1801560568",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4845375,
+          40.6866147
+        ]
+      },
+      "id": "node/1801560568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2812417683",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Assembleia de Deus Pentecostal",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9844523,
+          39.5460928
+        ]
+      },
+      "id": "node/2812417683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3049017164",
+        "amenity": "place_of_worship",
+        "name": "Assembleia de Deus - Igreja Evangélica Pentecostal",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4016172,
+          39.5992067
+        ]
+      },
+      "id": "node/3049017164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348554493",
+        "amenity": "place_of_worship",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.415903,
+          41.8045712
+        ]
+      },
+      "id": "node/3348554493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3654959027",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5287679,
+          39.5962325
+        ]
+      },
+      "id": "node/3654959027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4799323261",
+        "amenity": "place_of_worship",
+        "name": "Igreja Assembleia de Deus Novas de Paz",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6084124,
+          41.1186036
+        ]
+      },
+      "id": "node/4799323261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4958340640",
+        "addr:city": "Pousada",
+        "addr:housenumber": "2",
+        "addr:street": "Rua do tanque",
+        "amenity": "place_of_worship",
+        "denomination": "assemblies_of_god",
+        "name": "Igreja Evangélica Assembleia de Deus de Pousada",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3384746,
+          41.606661
+        ]
+      },
+      "id": "node/4958340640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966911705",
+        "addr:city": "São Vítor",
+        "addr:housenumber": "92",
+        "addr:street": "Rua Martins Sarmento",
+        "amenity": "place_of_worship",
+        "check_date": "2024-07-15",
+        "denomination": "assemblies_of_god",
+        "email": "ieadbraga@gmail.com",
+        "name": "Igreja Evangélica Assembleia de Deus de Braga",
+        "religion": "christian",
+        "service_times": "Domingos 16h, Quintas 21h",
+        "website": "https://www.facebook.com/adbraga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4124137,
+          41.5514324
+        ]
+      },
+      "id": "node/4966911705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966911706",
+        "addr:city": "Amares",
+        "addr:street": "Rua Doutor José Alves Leite",
+        "amenity": "place_of_worship",
+        "denomination": "assemblies_of_god",
+        "name": "Igreja Evangélica Assembleia de Deus de Amares",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3535114,
+          41.631548
+        ]
+      },
+      "id": "node/4966911706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966911707",
+        "amenity": "place_of_worship",
+        "denomination": "assemblies_of_god",
+        "name": "Igreja Evangélica Assembleia de Deus de Vila Verde",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4375696,
+          41.6480649
+        ]
+      },
+      "id": "node/4966911707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5077402404",
+        "addr:city": "Montijo",
+        "addr:postcode": "2870-348",
+        "addr:street": "Rua José Joaquim Marques",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus Manhã Gloriosa",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9657799,
+          38.7034067
+        ]
+      },
+      "id": "node/5077402404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5079796794",
+        "addr:city": "Montijo",
+        "addr:housenumber": "25",
+        "addr:postcode": "2870-363",
+        "addr:street": "Rua Serpa Pinto",
+        "amenity": "place_of_worship",
+        "denomination": "protestant",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.974018,
+          38.7069426
+        ]
+      },
+      "id": "node/5079796794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760018322",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4416366,
+          37.1877486
+        ]
+      },
+      "id": "node/5760018322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5760018349",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2294505,
+          37.1021714
+        ]
+      },
+      "id": "node/5760018349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862379962",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica - Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9161903,
+          40.658963
+        ]
+      },
+      "id": "node/5862379962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882262829",
+        "amenity": "place_of_worship",
+        "name": "Igreja Evangélica Assembleia de Deus de Viseu",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9221972,
+          40.6603356
+        ]
+      },
+      "id": "node/5882262829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5882442556",
+        "amenity": "place_of_worship",
+        "name": "Igreja Universal Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9161359,
+          40.6630704
+        ]
+      },
+      "id": "node/5882442556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431870206",
+        "addr:city": "Costa da Caparica",
+        "addr:housenumber": "10",
+        "addr:postcode": "2825-291",
+        "addr:street": "Rua António Correia",
+        "addr:unit": "B",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus de Almada",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2325969,
+          38.6442676
+        ]
+      },
+      "id": "node/6431870206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567547966",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus Pentecostal",
+        "religion": "christian",
+        "service_times": "Fr 20:30+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1157334,
+          38.056774
+        ]
+      },
+      "id": "node/8567547966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8660609569",
+        "amenity": "place_of_worship",
+        "name": "Assembleia de Deus de Sintra",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.341746,
+          38.7959317
+        ]
+      },
+      "id": "node/8660609569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8660673045",
+        "addr:city": "Lisboa",
+        "addr:housenumber": "214",
+        "addr:postcode": "1500-094",
+        "addr:street": "Estrada de Benfica",
+        "addr:unit": "A",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Igreja Evangélica Assembleia de Deus Pentecostal",
+        "phone": "218142040",
+        "religion": "christian",
+        "website": "https://www.adlisboa.pt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1753713,
+          38.7436058
+        ]
+      },
+      "id": "node/8660673045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9112547508",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus Filadélfia",
+        "operator": "Ministério Semeadores da Fé",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0448672,
+          38.6509906
+        ]
+      },
+      "id": "node/9112547508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9404552637",
+        "amenity": "place_of_worship",
+        "name": "Assembleia de Deus Petencostal",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7424214,
+          41.2986414
+        ]
+      },
+      "id": "node/9404552637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11166016360",
+        "addr:housenumber": "365",
+        "amenity": "place_of_worship",
+        "denomination": "nondenominational",
+        "entrance": "home",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6620415,
+          41.2528614
+        ]
+      },
+      "id": "node/11166016360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11309972985",
+        "addr:city": "Casal do Marco",
+        "addr:housenumber": "24",
+        "addr:postcode": "2840-166",
+        "addr:street": "Rua António Sardinha",
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "IVAD - Igreja Viva Assembleia de Deus",
+        "phone": "+351 21 226 8950",
+        "religion": "christian",
+        "service_times": "Sunday 10h00",
+        "website": "https://linktr.ee/igrejaviva.ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0934571,
+          38.6072157
+        ]
+      },
+      "id": "node/11309972985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11309995331",
+        "amenity": "place_of_worship",
+        "denomination": "pentecostal",
+        "name": "Assembleia de Deus do Barreiro",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0761355,
+          38.6635505
+        ]
+      },
+      "id": "node/11309995331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11470960330",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus Internacional",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6901059,
+          41.1847817
+        ]
+      },
+      "id": "node/11470960330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11498940741",
+        "amenity": "place_of_worship",
+        "denomination": "evangelical",
+        "name": "Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7412922,
+          41.2990582
+        ]
+      },
+      "id": "node/11498940741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11875228177",
+        "amenity": "place_of_worship",
+        "name": "Igreja Evangélica Assembleia de Deus de Lisboa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1304702,
+          38.7194984
+        ]
+      },
+      "id": "node/11875228177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12060004711",
+        "amenity": "place_of_worship",
+        "level": "-1",
+        "name": "EncontroIda - Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.3224582,
+          38.7819405
+        ]
+      },
+      "id": "node/12060004711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12135352018",
+        "amenity": "place_of_worship",
+        "name": "Assembleia de Deus Bereana Viseu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9250537,
+          40.6543725
+        ]
+      },
+      "id": "node/12135352018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12323361829",
+        "amenity": "place_of_worship",
+        "name": "Igreja Evangélica Assembleia de Deus",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1926217,
+          38.7031478
+        ]
+      },
+      "id": "node/12323361829"
+    }
+  ]
+}

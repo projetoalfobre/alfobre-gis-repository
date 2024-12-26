@@ -1,0 +1,923 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:17:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/60133409",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4071064,
+              40.192669
+            ],
+            [
+              -8.4071095,
+              40.1928146
+            ],
+            [
+              -8.4071268,
+              40.1928144
+            ],
+            [
+              -8.40713,
+              40.1929666
+            ],
+            [
+              -8.4072767,
+              40.1929648
+            ],
+            [
+              -8.4072735,
+              40.1928126
+            ],
+            [
+              -8.4072854,
+              40.1928124
+            ],
+            [
+              -8.4072823,
+              40.1926668
+            ],
+            [
+              -8.4071064,
+              40.192669
+            ]
+          ]
+        ]
+      },
+      "id": "way/60133409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95384232",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -25.6794894,
+              37.7441304
+            ],
+            [
+              -25.6794114,
+              37.7440525
+            ],
+            [
+              -25.6792041,
+              37.7441821
+            ],
+            [
+              -25.679282,
+              37.7442601
+            ],
+            [
+              -25.6794894,
+              37.7441304
+            ]
+          ]
+        ]
+      },
+      "id": "way/95384232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132128785",
+        "addr:city": "Corroios",
+        "addr:housenumber": "10",
+        "addr:postcode": "2855-238",
+        "addr:street": "Rua Ferreira de Castro",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Sociedade do Bispo Presidente da Igreja Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1445892,
+              38.6479676
+            ],
+            [
+              -9.1445971,
+              38.6478365
+            ],
+            [
+              -9.1446059,
+              38.6477261
+            ],
+            [
+              -9.1443153,
+              38.6477076
+            ],
+            [
+              -9.1442921,
+              38.6479547
+            ],
+            [
+              -9.1445892,
+              38.6479676
+            ]
+          ]
+        ]
+      },
+      "id": "way/132128785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156944768",
+        "amenity": "place_of_worship",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.401447,
+              41.5512391
+            ],
+            [
+              -8.4012596,
+              41.5511819
+            ],
+            [
+              -8.4006037,
+              41.5519593
+            ],
+            [
+              -8.4007246,
+              41.5520108
+            ],
+            [
+              -8.400817,
+              41.5518893
+            ],
+            [
+              -8.4013514,
+              41.5521005
+            ],
+            [
+              -8.4013876,
+              41.5520491
+            ],
+            [
+              -8.4016722,
+              41.5516445
+            ],
+            [
+              -8.4014391,
+              41.5515498
+            ],
+            [
+              -8.4012915,
+              41.5514899
+            ],
+            [
+              -8.401447,
+              41.5512391
+            ]
+          ]
+        ]
+      },
+      "id": "way/156944768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156946941",
+        "amenity": "place_of_worship",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5945857,
+              41.1639205
+            ],
+            [
+              -8.5940984,
+              41.1638558
+            ],
+            [
+              -8.5939921,
+              41.1643106
+            ],
+            [
+              -8.5939899,
+              41.1643198
+            ],
+            [
+              -8.5944771,
+              41.1643844
+            ],
+            [
+              -8.5945857,
+              41.1639205
+            ]
+          ]
+        ]
+      },
+      "id": "way/156946941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156948946",
+        "addr:city": "Porto",
+        "addr:country": "PT",
+        "addr:housenumber": "774",
+        "addr:postcode": "4150-355",
+        "addr:street": "Avenida Marechal Gomes da Costa",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "contact:phone": "+351 226 172850",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6639532,
+              41.158995
+            ],
+            [
+              -8.6638784,
+              41.1588819
+            ],
+            [
+              -8.6638159,
+              41.1589053
+            ],
+            [
+              -8.6638077,
+              41.1588928
+            ],
+            [
+              -8.6636761,
+              41.1589421
+            ],
+            [
+              -8.6637257,
+              41.1590171
+            ],
+            [
+              -8.6637059,
+              41.1590245
+            ],
+            [
+              -8.6637395,
+              41.1590752
+            ],
+            [
+              -8.6639532,
+              41.158995
+            ]
+          ]
+        ]
+      },
+      "id": "way/156948946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251671968",
+        "addr:city": "Guimarães",
+        "addr:country": "PT",
+        "addr:housenumber": "535",
+        "addr:street": "Avenida Dom João IV",
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "name:en": "The Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian",
+        "service_times": "09:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.2907753,
+              41.4382106
+            ],
+            [
+              -8.2908144,
+              41.4381192
+            ],
+            [
+              -8.2903758,
+              41.4380138
+            ],
+            [
+              -8.2903367,
+              41.4381052
+            ],
+            [
+              -8.2907753,
+              41.4382106
+            ]
+          ]
+        ]
+      },
+      "id": "way/251671968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264169514",
+        "amenity": "place_of_worship",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6460342,
+              41.1290753
+            ],
+            [
+              -8.6461699,
+              41.1287434
+            ],
+            [
+              -8.6459758,
+              41.1286984
+            ],
+            [
+              -8.6459156,
+              41.1288456
+            ],
+            [
+              -8.6459535,
+              41.1288544
+            ],
+            [
+              -8.645878,
+              41.129039
+            ],
+            [
+              -8.6460342,
+              41.1290753
+            ]
+          ]
+        ]
+      },
+      "id": "way/264169514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265507404",
+        "addr:city": "MEM MARTINS",
+        "addr:country": "PT",
+        "addr:housenumber": "5",
+        "addr:postcode": "2725-232",
+        "addr:street": "Rua da Azenha",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.3400803,
+              38.7956227
+            ],
+            [
+              -9.3399423,
+              38.7954949
+            ],
+            [
+              -9.3397686,
+              38.7956088
+            ],
+            [
+              -9.3399065,
+              38.7957366
+            ],
+            [
+              -9.3400803,
+              38.7956227
+            ]
+          ]
+        ]
+      },
+      "id": "way/265507404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315271253",
+        "addr:city": "Portimão",
+        "addr:street": "Rua Engenheiro Amaro da Costa",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "latter_day_saints",
+        "name": "Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5425004,
+              37.1380778
+            ],
+            [
+              -8.5423636,
+              37.1374
+            ],
+            [
+              -8.5418593,
+              37.1374535
+            ],
+            [
+              -8.5419532,
+              37.1381377
+            ],
+            [
+              -8.5425004,
+              37.1380778
+            ]
+          ]
+        ]
+      },
+      "id": "way/315271253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331408733",
+        "addr:city": "Arrifana",
+        "addr:housenumber": "376",
+        "addr:street": "Rua Cristóvão Colombo",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4956416,
+              40.9160963
+            ],
+            [
+              -8.4955029,
+              40.9159498
+            ],
+            [
+              -8.4953385,
+              40.9160386
+            ],
+            [
+              -8.4954772,
+              40.9161851
+            ],
+            [
+              -8.4956416,
+              40.9160963
+            ]
+          ]
+        ]
+      },
+      "id": "way/331408733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/357561286",
+        "addr:city": "Figueira da Foz",
+        "addr:country": "PT",
+        "addr:housenumber": "2",
+        "addr:postcode": "3080-634",
+        "addr:street": "Rua Luís Pedro Pinto",
+        "amenity": "place_of_worship",
+        "barrier": "fence",
+        "denomination": "mormon",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian",
+        "service_times": "11:20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.8423145,
+              40.1629307
+            ],
+            [
+              -8.842016,
+              40.163036
+            ],
+            [
+              -8.842063,
+              40.1631563
+            ],
+            [
+              -8.8421003,
+              40.1633484
+            ],
+            [
+              -8.8426827,
+              40.1632418
+            ],
+            [
+              -8.8427038,
+              40.1628228
+            ],
+            [
+              -8.8427492,
+              40.1627199
+            ],
+            [
+              -8.8427443,
+              40.1625464
+            ],
+            [
+              -8.8424175,
+              40.1626464
+            ],
+            [
+              -8.8422392,
+              40.162701
+            ],
+            [
+              -8.8422058,
+              40.1627113
+            ],
+            [
+              -8.8423145,
+              40.1629307
+            ]
+          ]
+        ]
+      },
+      "id": "way/357561286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/489627941",
+        "amenity": "place_of_worship",
+        "building": "chapel",
+        "name": "Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6035547,
+              41.1217447
+            ],
+            [
+              -8.6032412,
+              41.1216547
+            ],
+            [
+              -8.6031899,
+              41.1217447
+            ],
+            [
+              -8.6031964,
+              41.1217466
+            ],
+            [
+              -8.6034922,
+              41.1218306
+            ],
+            [
+              -8.6035082,
+              41.1218351
+            ],
+            [
+              -8.6035547,
+              41.1217447
+            ]
+          ]
+        ]
+      },
+      "id": "way/489627941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/678488202",
+        "addr:street": "Estrada Interior da Circunvalação",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian",
+        "service_times": "Su 9:00-13:00"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6190043,
+              41.1814843
+            ],
+            [
+              -8.618899,
+              41.1813908
+            ],
+            [
+              -8.6187749,
+              41.1814644
+            ],
+            [
+              -8.6187448,
+              41.1814432
+            ],
+            [
+              -8.6186789,
+              41.1814772
+            ],
+            [
+              -8.618709,
+              41.1815154
+            ],
+            [
+              -8.6186733,
+              41.1815324
+            ],
+            [
+              -8.6186056,
+              41.1814673
+            ],
+            [
+              -8.6187673,
+              41.181371
+            ],
+            [
+              -8.618677,
+              41.181279
+            ],
+            [
+              -8.6183592,
+              41.1814644
+            ],
+            [
+              -8.6186488,
+              41.1817362
+            ],
+            [
+              -8.6187598,
+              41.1816697
+            ],
+            [
+              -8.6187354,
+              41.1816414
+            ],
+            [
+              -8.6190043,
+              41.1814843
+            ]
+          ]
+        ]
+      },
+      "id": "way/678488202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/813659349",
+        "addr:city": "Amadora",
+        "addr:housenumber": "48A",
+        "addr:postcode": "2700-672",
+        "addr:street": "Rua 1º de Dezembro",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.2417846,
+              38.7580103
+            ],
+            [
+              -9.2416135,
+              38.7578301
+            ],
+            [
+              -9.2414932,
+              38.7578995
+            ],
+            [
+              -9.2416644,
+              38.7580797
+            ],
+            [
+              -9.2417846,
+              38.7580103
+            ]
+          ]
+        ]
+      },
+      "id": "way/813659349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987613973",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0462671,
+              38.648883
+            ],
+            [
+              -9.0462256,
+              38.6487917
+            ],
+            [
+              -9.0458175,
+              38.6489049
+            ],
+            [
+              -9.045859,
+              38.6489962
+            ],
+            [
+              -9.0462671,
+              38.648883
+            ]
+          ]
+        ]
+      },
+      "id": "way/987613973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1025050022",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.8855912,
+              38.5388261
+            ],
+            [
+              -8.8855925,
+              38.5388866
+            ],
+            [
+              -8.8855504,
+              38.5388871
+            ],
+            [
+              -8.8855529,
+              38.5390069
+            ],
+            [
+              -8.8855987,
+              38.5390063
+            ],
+            [
+              -8.8856,
+              38.5390649
+            ],
+            [
+              -8.8861194,
+              38.5390581
+            ],
+            [
+              -8.8861182,
+              38.5390052
+            ],
+            [
+              -8.8861457,
+              38.5390049
+            ],
+            [
+              -8.8861431,
+              38.5388812
+            ],
+            [
+              -8.8861172,
+              38.5388816
+            ],
+            [
+              -8.8861159,
+              38.5388193
+            ],
+            [
+              -8.8855912,
+              38.5388261
+            ]
+          ]
+        ]
+      },
+      "id": "way/1025050022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531093174",
+        "amenity": "place_of_worship",
+        "denomination": "latter_day_saints",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "name:en": "The Church of Jesus Christ of Latter-day Saints",
+        "religion": "christian",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.9205576,
+          32.6447855
+        ]
+      },
+      "id": "node/1531093174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12241170430",
+        "amenity": "place_of_worship",
+        "denomination": "mormon",
+        "name": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7484809,
+          41.2996302
+        ]
+      },
+      "id": "node/12241170430"
+    }
+  ]
+}

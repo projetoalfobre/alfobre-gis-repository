@@ -1,0 +1,1955 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-12T11:14:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15097091",
+        "addr:housenumber": "1131",
+        "addr:street": "Rua do Amial",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "type": "multipolygon",
+        "website": "https://www.jw.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6136801,
+              41.1828449
+            ],
+            [
+              -8.6136852,
+              41.1829141
+            ],
+            [
+              -8.6139147,
+              41.1829046
+            ],
+            [
+              -8.6139079,
+              41.1828115
+            ],
+            [
+              -8.6137322,
+              41.1828188
+            ],
+            [
+              -8.6137339,
+              41.1828427
+            ],
+            [
+              -8.6136801,
+              41.1828449
+            ]
+          ]
+        ]
+      },
+      "id": "relation/15097091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205087741",
+        "addr:city": "Funchal",
+        "addr:housenumber": "8",
+        "addr:postcode": "9000-161",
+        "addr:street": "Rua da Levada dos Barreiros",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "website": "https://www.jw.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -16.9280899,
+              32.6512007
+            ],
+            [
+              -16.9279518,
+              32.6510872
+            ],
+            [
+              -16.9278624,
+              32.6511643
+            ],
+            [
+              -16.9280004,
+              32.6512778
+            ],
+            [
+              -16.9280899,
+              32.6512007
+            ]
+          ]
+        ]
+      },
+      "id": "way/205087741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226525035",
+        "addr:city": "Alcabideche",
+        "addr:housename": "Associação",
+        "addr:housenumber": "511",
+        "addr:postcode": "2649-513",
+        "addr:street": "Rua do Conde Barão",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "jehovahs_witness",
+        "int_name": "JW",
+        "name": "Associação das Testemunhas de Jeová",
+        "phone": "+35121 469 0600",
+        "religion": "christian",
+        "telecom": "exchange"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.4019045,
+              38.7308758
+            ],
+            [
+              -9.4020426,
+              38.7308571
+            ],
+            [
+              -9.402434,
+              38.7308041
+            ],
+            [
+              -9.4024205,
+              38.7307309
+            ],
+            [
+              -9.4025698,
+              38.7307127
+            ],
+            [
+              -9.4025371,
+              38.7305951
+            ],
+            [
+              -9.4024719,
+              38.7306044
+            ],
+            [
+              -9.4024205,
+              38.7303746
+            ],
+            [
+              -9.4022742,
+              38.7303931
+            ],
+            [
+              -9.4021892,
+              38.7300029
+            ],
+            [
+              -9.4019737,
+              38.7300322
+            ],
+            [
+              -9.4020547,
+              38.73039
+            ],
+            [
+              -9.4020844,
+              38.7303854
+            ],
+            [
+              -9.4020903,
+              38.7304147
+            ],
+            [
+              -9.4021516,
+              38.7306429
+            ],
+            [
+              -9.401859,
+              38.7306892
+            ],
+            [
+              -9.4018815,
+              38.7307814
+            ],
+            [
+              -9.4019045,
+              38.7308758
+            ]
+          ]
+        ]
+      },
+      "id": "way/226525035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257507702",
+        "addr:city": "Entroncamento",
+        "addr:postcode": "2330-063",
+        "addr:street": "Rua Doutor Mário Matias",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "website": "https://www.jw.org/pt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4746932,
+              39.4709273
+            ],
+            [
+              -8.4746889,
+              39.4707882
+            ],
+            [
+              -8.47453,
+              39.4707911
+            ],
+            [
+              -8.4745343,
+              39.4709303
+            ],
+            [
+              -8.4746932,
+              39.4709273
+            ]
+          ]
+        ]
+      },
+      "id": "way/257507702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258938138",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová de Leiria",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.8360786,
+              39.7344172
+            ],
+            [
+              -8.8361352,
+              39.7342492
+            ],
+            [
+              -8.835765,
+              39.7341756
+            ],
+            [
+              -8.8357085,
+              39.7343435
+            ],
+            [
+              -8.8360786,
+              39.7344172
+            ]
+          ]
+        ]
+      },
+      "id": "way/258938138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/282357378",
+        "addr:city": "Marinha Grande",
+        "addr:housename": "Rua da Cerca 23, Lameira de Picassinos",
+        "addr:housenumber": "23",
+        "addr:postcode": "2430-319",
+        "addr:street": "Rua da Cerca",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "source": "http://www.jw.org/",
+        "website": "http://www.jw.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.918281,
+              39.7373087
+            ],
+            [
+              -8.9181026,
+              39.7375441
+            ],
+            [
+              -8.9182321,
+              39.7376007
+            ],
+            [
+              -8.9184178,
+              39.7373653
+            ],
+            [
+              -8.918281,
+              39.7373087
+            ]
+          ]
+        ]
+      },
+      "id": "way/282357378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415255452",
+        "addr:city": "Esmoriz",
+        "addr:country": "PT",
+        "addr:housenumber": "419",
+        "addr:postcode": "3885-455",
+        "addr:street": "Rua da Estação",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "contact:phone": "+351 256 247 053",
+        "contact:website": "www.jw.org",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6332694,
+              40.9621297
+            ],
+            [
+              -8.6332033,
+              40.9621272
+            ],
+            [
+              -8.6331947,
+              40.9622609
+            ],
+            [
+              -8.6331785,
+              40.9622603
+            ],
+            [
+              -8.6331711,
+              40.9623753
+            ],
+            [
+              -8.6332022,
+              40.9623813
+            ],
+            [
+              -8.6332238,
+              40.962377
+            ],
+            [
+              -8.6332429,
+              40.9623671
+            ],
+            [
+              -8.6332549,
+              40.9623545
+            ],
+            [
+              -8.6332694,
+              40.9621297
+            ]
+          ]
+        ]
+      },
+      "id": "way/415255452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/425351222",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Salão de Testemunhas de Jeová"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.1898111,
+              38.6663498
+            ],
+            [
+              -9.1898092,
+              38.6664734
+            ],
+            [
+              -9.1900908,
+              38.666476
+            ],
+            [
+              -9.1900927,
+              38.6663525
+            ],
+            [
+              -9.1898111,
+              38.6663498
+            ]
+          ]
+        ]
+      },
+      "id": "way/425351222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/434754462",
+        "addr:city": "Ovar, São João, Arada e São Vicente de Pereira Jusã",
+        "addr:housenumber": "160",
+        "addr:postcode": "3880-074",
+        "addr:street": "Rua António Bernardino de Carvalho",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "website": "https://www.jw.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6142461,
+              40.8587977
+            ],
+            [
+              -8.6142034,
+              40.8586985
+            ],
+            [
+              -8.6141536,
+              40.8587107
+            ],
+            [
+              -8.6141456,
+              40.8586919
+            ],
+            [
+              -8.613961,
+              40.8587373
+            ],
+            [
+              -8.6139704,
+              40.8587592
+            ],
+            [
+              -8.6139454,
+              40.8587654
+            ],
+            [
+              -8.6139631,
+              40.8588066
+            ],
+            [
+              -8.6139775,
+              40.858803
+            ],
+            [
+              -8.6139891,
+              40.8588301
+            ],
+            [
+              -8.6141076,
+              40.858801
+            ],
+            [
+              -8.6141165,
+              40.8588218
+            ],
+            [
+              -8.6141748,
+              40.8588075
+            ],
+            [
+              -8.6141822,
+              40.8588247
+            ],
+            [
+              -8.6142199,
+              40.8588154
+            ],
+            [
+              -8.6142155,
+              40.8588052
+            ],
+            [
+              -8.6142461,
+              40.8587977
+            ]
+          ]
+        ]
+      },
+      "id": "way/434754462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458108731",
+        "addr:city": "Ribeira Grande",
+        "addr:housenumber": "8A",
+        "addr:postcode": "9600-525",
+        "addr:street": "Rua Do Estrela",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -25.5255519,
+              37.8216025
+            ],
+            [
+              -25.5253788,
+              37.8216821
+            ],
+            [
+              -25.5255629,
+              37.8219222
+            ],
+            [
+              -25.5257472,
+              37.8218384
+            ],
+            [
+              -25.5255726,
+              37.8215948
+            ],
+            [
+              -25.5255519,
+              37.8216025
+            ]
+          ]
+        ]
+      },
+      "id": "way/458108731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458110829",
+        "addr:city": "Lagoa",
+        "addr:housenumber": "11",
+        "addr:postcode": "9560-340",
+        "addr:street": "Rua Da Caloura ao Fisher",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -25.5723261,
+              37.7490558
+            ],
+            [
+              -25.5722117,
+              37.748985
+            ],
+            [
+              -25.5721718,
+              37.7490207
+            ],
+            [
+              -25.5720664,
+              37.7489504
+            ],
+            [
+              -25.5719878,
+              37.7490371
+            ],
+            [
+              -25.5721977,
+              37.7491716
+            ],
+            [
+              -25.5723261,
+              37.7490558
+            ]
+          ]
+        ]
+      },
+      "id": "way/458110829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459425497",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6412066,
+              41.2651251
+            ],
+            [
+              -8.6411476,
+              41.2649416
+            ],
+            [
+              -8.6407962,
+              41.2649819
+            ],
+            [
+              -8.6408069,
+              41.2650082
+            ],
+            [
+              -8.6407157,
+              41.2650525
+            ],
+            [
+              -8.6408042,
+              41.2651533
+            ],
+            [
+              -8.6405655,
+              41.2653025
+            ],
+            [
+              -8.6406835,
+              41.265363
+            ],
+            [
+              -8.6408418,
+              41.2652682
+            ],
+            [
+              -8.6412066,
+              41.2651251
+            ]
+          ]
+        ]
+      },
+      "id": "way/459425497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495718881",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.9601281,
+              39.5413113
+            ],
+            [
+              -8.9603662,
+              39.5410901
+            ],
+            [
+              -8.9602553,
+              39.5410191
+            ],
+            [
+              -8.9602178,
+              39.5410539
+            ],
+            [
+              -8.9601846,
+              39.5410327
+            ],
+            [
+              -8.959984,
+              39.5412192
+            ],
+            [
+              -8.9601281,
+              39.5413113
+            ]
+          ]
+        ]
+      },
+      "id": "way/495718881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562506992",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "1",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "name:en": "Jehovah’s Witnesses",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.4307071,
+              38.7064867
+            ],
+            [
+              -9.4306787,
+              38.7063339
+            ],
+            [
+              -9.430669,
+              38.7063306
+            ],
+            [
+              -9.4306623,
+              38.7063085
+            ],
+            [
+              -9.4306062,
+              38.7062708
+            ],
+            [
+              -9.4305464,
+              38.7063216
+            ],
+            [
+              -9.4305665,
+              38.706334
+            ],
+            [
+              -9.4305714,
+              38.7063616
+            ],
+            [
+              -9.4305406,
+              38.7063655
+            ],
+            [
+              -9.4305667,
+              38.7065035
+            ],
+            [
+              -9.430622,
+              38.7064969
+            ],
+            [
+              -9.4306989,
+              38.7064877
+            ],
+            [
+              -9.4307071,
+              38.7064867
+            ]
+          ]
+        ]
+      },
+      "id": "way/562506992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/767624815",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Salão do Reino das Testemunhas de Jeová"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.2453466,
+              40.92927
+            ],
+            [
+              -8.2452849,
+              40.9292159
+            ],
+            [
+              -8.2452487,
+              40.929188
+            ],
+            [
+              -8.2452202,
+              40.9292049
+            ],
+            [
+              -8.245221,
+              40.9292345
+            ],
+            [
+              -8.2451009,
+              40.9292968
+            ],
+            [
+              -8.2451193,
+              40.9293277
+            ],
+            [
+              -8.2451625,
+              40.9293719
+            ],
+            [
+              -8.2451887,
+              40.9293789
+            ],
+            [
+              -8.2452834,
+              40.9293236
+            ],
+            [
+              -8.2453466,
+              40.92927
+            ]
+          ]
+        ]
+      },
+      "id": "way/767624815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/807397704",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.5813048,
+              39.1786158
+            ],
+            [
+              -8.5812005,
+              39.1786685
+            ],
+            [
+              -8.5813355,
+              39.1788292
+            ],
+            [
+              -8.5814036,
+              39.1787948
+            ],
+            [
+              -8.5813863,
+              39.1787742
+            ],
+            [
+              -8.5814226,
+              39.1787559
+            ],
+            [
+              -8.5813048,
+              39.1786158
+            ]
+          ]
+        ]
+      },
+      "id": "way/807397704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/807917563",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.7528331,
+              41.2969152
+            ],
+            [
+              -7.7527649,
+              41.2967956
+            ],
+            [
+              -7.7526552,
+              41.2968301
+            ],
+            [
+              -7.7525988,
+              41.2968488
+            ],
+            [
+              -7.7526144,
+              41.2968762
+            ],
+            [
+              -7.752579,
+              41.2968876
+            ],
+            [
+              -7.7526318,
+              41.2969801
+            ],
+            [
+              -7.7528331,
+              41.2969152
+            ]
+          ]
+        ]
+      },
+      "id": "way/807917563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1029498882",
+        "addr:city": "Coimbra",
+        "addr:housenumber": "53",
+        "addr:postcode": "3000-137",
+        "addr:street": "Avenida Dias da Silva",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "2",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "source:addr": "INE",
+        "website": "https://www.jw.org/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4131228,
+              40.208621
+            ],
+            [
+              -8.4132378,
+              40.2087254
+            ],
+            [
+              -8.4133277,
+              40.2087964
+            ],
+            [
+              -8.4133999,
+              40.208743
+            ],
+            [
+              -8.41331,
+              40.208672
+            ],
+            [
+              -8.4131918,
+              40.2085754
+            ],
+            [
+              -8.4131228,
+              40.208621
+            ]
+          ]
+        ]
+      },
+      "id": "way/1029498882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1228960085",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.6033443,
+              41.1288789
+            ],
+            [
+              -8.6030661,
+              41.128892
+            ],
+            [
+              -8.603075,
+              41.1289991
+            ],
+            [
+              -8.6033261,
+              41.1289873
+            ],
+            [
+              -8.6033242,
+              41.1289644
+            ],
+            [
+              -8.6033513,
+              41.1289631
+            ],
+            [
+              -8.6033443,
+              41.1288789
+            ]
+          ]
+        ]
+      },
+      "id": "way/1228960085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1235229170",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -9.0257359,
+              38.5441396
+            ],
+            [
+              -9.0257094,
+              38.5440873
+            ],
+            [
+              -9.0257171,
+              38.5440848
+            ],
+            [
+              -9.0256726,
+              38.5439949
+            ],
+            [
+              -9.0256874,
+              38.5439903
+            ],
+            [
+              -9.0256695,
+              38.5439528
+            ],
+            [
+              -9.025654,
+              38.543958
+            ],
+            [
+              -9.0256338,
+              38.5439181
+            ],
+            [
+              -9.0255914,
+              38.543931
+            ],
+            [
+              -9.0255899,
+              38.5439277
+            ],
+            [
+              -9.0255512,
+              38.5439394
+            ],
+            [
+              -9.025553,
+              38.543943
+            ],
+            [
+              -9.0255086,
+              38.5439561
+            ],
+            [
+              -9.0255285,
+              38.5439964
+            ],
+            [
+              -9.0255129,
+              38.5440012
+            ],
+            [
+              -9.0255316,
+              38.5440393
+            ],
+            [
+              -9.0255472,
+              38.5440343
+            ],
+            [
+              -9.0255921,
+              38.5441225
+            ],
+            [
+              -9.0255985,
+              38.5441205
+            ],
+            [
+              -9.0256268,
+              38.5441735
+            ],
+            [
+              -9.0257359,
+              38.5441396
+            ]
+          ]
+        ]
+      },
+      "id": "way/1235229170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1270444363",
+        "addr:city": "Chamusca",
+        "addr:housenumber": "5/7",
+        "addr:postcode": "2140-153",
+        "addr:street": "Travessa das Barrajolas",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4777813,
+              39.3560883
+            ],
+            [
+              -8.4778,
+              39.3560729
+            ],
+            [
+              -8.4778234,
+              39.3560395
+            ],
+            [
+              -8.4779028,
+              39.355951
+            ],
+            [
+              -8.4778561,
+              39.3559222
+            ],
+            [
+              -8.4778187,
+              39.3559014
+            ],
+            [
+              -8.4776879,
+              39.3560458
+            ],
+            [
+              -8.4777813,
+              39.3560883
+            ]
+          ]
+        ]
+      },
+      "id": "way/1270444363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303293970",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Salão do Reino das Testemunhas de Jeová de Sever do Vouga",
+        "religion": "testemunhas_de_jéová"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.3597604,
+              40.7212745
+            ],
+            [
+              -8.3596058,
+              40.7212858
+            ],
+            [
+              -8.359637,
+              40.7214297
+            ],
+            [
+              -8.3596655,
+              40.7214287
+            ],
+            [
+              -8.3596723,
+              40.7214657
+            ],
+            [
+              -8.3597184,
+              40.7214626
+            ],
+            [
+              -8.3597157,
+              40.7214503
+            ],
+            [
+              -8.3597455,
+              40.7214472
+            ],
+            [
+              -8.3597401,
+              40.7214184
+            ],
+            [
+              -8.3597821,
+              40.7214164
+            ],
+            [
+              -8.3597604,
+              40.7212745
+            ]
+          ]
+        ]
+      },
+      "id": "way/1303293970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1330863137",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová de Vermoim",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.4399808,
+              41.4240987
+            ],
+            [
+              -8.4398076,
+              41.4239002
+            ],
+            [
+              -8.4397138,
+              41.4239462
+            ],
+            [
+              -8.439887,
+              41.4241447
+            ],
+            [
+              -8.4399808,
+              41.4240987
+            ]
+          ]
+        ]
+      },
+      "id": "way/1330863137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509193513",
+        "amenity": "place_of_worship",
+        "name": "Salão das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.8778382,
+          32.805488
+        ]
+      },
+      "id": "node/1509193513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1646534313",
+        "addr:housenumber": "10",
+        "addr:street": "Rua do Chafariz",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1037475,
+          38.8264857
+        ]
+      },
+      "id": "node/1646534313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1674666942",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.010065,
+          39.2433358
+        ]
+      },
+      "id": "node/1674666942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1767875579",
+        "amenity": "place_of_worship",
+        "check_date": "2024-11-24",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "school": "Escola do Ministério Teocrático"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.7678452,
+          32.7240606
+        ]
+      },
+      "id": "node/1767875579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1799475813",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6492715,
+          40.6454913
+        ]
+      },
+      "id": "node/1799475813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197903408",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0416305,
+          41.1774531
+        ]
+      },
+      "id": "node/2197903408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2328112614",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "opening_hours": "Sa 20:30+",
+        "religion": "christian",
+        "service_times": "Sa 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8430705,
+          40.1495019
+        ]
+      },
+      "id": "node/2328112614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2632306280",
+        "amenity": "place_of_worship",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.761405,
+          41.6688421
+        ]
+      },
+      "id": "node/2632306280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3851797596",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.143897,
+          32.7138788
+        ]
+      },
+      "id": "node/3851797596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4395076911",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.566735,
+          41.163731
+        ]
+      },
+      "id": "node/4395076911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4554574479",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6086856,
+          41.142149
+        ]
+      },
+      "id": "node/4554574479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4555300799",
+        "addr:street": "Rua das Oficinas Municipais",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8787315,
+          39.0783449
+        ]
+      },
+      "id": "node/4555300799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716522744",
+        "addr:city": "Porto",
+        "addr:housenumber": "538",
+        "addr:street": "Rua Miguel Bombarda",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6230964,
+          41.1494094
+        ]
+      },
+      "id": "node/4716522744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4987984894",
+        "addr:city": "Horta",
+        "addr:housenumber": "1",
+        "addr:postcode": "9900-140",
+        "addr:street": "Rua Advogado Graça",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.6271331,
+          38.5410852
+        ]
+      },
+      "id": "node/4987984894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995595521",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5903112,
+          41.147008
+        ]
+      },
+      "id": "node/4995595521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5334802802",
+        "amenity": "place_of_worship",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6531629,
+          39.5175254
+        ]
+      },
+      "id": "node/5334802802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5908077972",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.9110866,
+          40.6620105
+        ]
+      },
+      "id": "node/5908077972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6002893674",
+        "addr:city": "Tondela",
+        "addr:housenumber": "295",
+        "addr:postcode": "3460-508",
+        "addr:street": "Rua da Carvalha",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "service_times": "Tu 20:00; Sa 19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0884036,
+          40.5148691
+        ]
+      },
+      "id": "node/6002893674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439346499",
+        "addr:city": "Laranjeiro e Feijó",
+        "addr:housenumber": "40",
+        "addr:street": "Rua dos Eucaliptos",
+        "addr:unit": "B",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1528337,
+          38.6537462
+        ]
+      },
+      "id": "node/6439346499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6659256035",
+        "addr:city": "Abrantes",
+        "addr:housenumber": "15",
+        "addr:postcode": "2200-171",
+        "addr:street": "Rua Prof. Raimundo Mota",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1949443,
+          39.478806
+        ]
+      },
+      "id": "node/6659256035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6715294726",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2936623,
+          37.2615739
+        ]
+      },
+      "id": "node/6715294726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7846256356",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2111624,
+          40.7250635
+        ]
+      },
+      "id": "node/7846256356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8387270984",
+        "addr:city": "São Mateus da Calheta",
+        "addr:housenumber": "210",
+        "addr:postcode": "9700-567",
+        "addr:street": "Canada do Capitão Mor",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "internet_access": "wlan",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian",
+        "website": "https://www.jw.org/pt-pt/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.2715492,
+          38.6708296
+        ]
+      },
+      "id": "node/8387270984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8699169393",
+        "addr:city": "Fiães",
+        "addr:housenumber": "1070",
+        "addr:street": "Rua Principal",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5152651,
+          40.9957509
+        ]
+      },
+      "id": "node/8699169393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8772654035",
+        "addr:city": "Ponta Delgada",
+        "addr:housename": "Salão do Reino das Testemunhas de Jeová",
+        "addr:housenumber": "42",
+        "addr:postcode": "9500-321",
+        "addr:street": "Rua da Mãe de Deus",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "int_name": "JW",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.6627563,
+          37.7440346
+        ]
+      },
+      "id": "node/8772654035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9077051021",
+        "addr:city": "Santa Maria da Feira, Travanca, Sanfins e Espargo",
+        "addr:housenumber": "22",
+        "addr:street": "Rua de Angola",
+        "amenity": "place_of_worship",
+        "check_date": "2023-11-04",
+        "denomination": "jehovahs_witness",
+        "name": "Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5314572,
+          40.9438822
+        ]
+      },
+      "id": "node/9077051021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10044634488",
+        "addr:city": "Lourosa",
+        "addr:housenumber": "614",
+        "addr:street": "Avenida das Cruzes",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5419758,
+          40.9901997
+        ]
+      },
+      "id": "node/10044634488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11029963616",
+        "amenity": "place_of_worship",
+        "check_date": "2023-12-27",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8746299,
+          38.5272519
+        ]
+      },
+      "id": "node/11029963616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11083025128",
+        "addr:city": "Ferreiras",
+        "addr:housenumber": "Lojas D e E",
+        "addr:postcode": "8200-559",
+        "addr:street": "Avenida 25 de Abril",
+        "air_conditioning": "yes",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian",
+        "website": "https://www.jw.org",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2482978,
+          37.1281411
+        ]
+      },
+      "id": "node/11083025128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195704986",
+        "addr:city": "Peso da Régua",
+        "addr:postcode": "5050-071",
+        "addr:street": "Avenida Sacadura Cabral",
+        "amenity": "place_of_worship",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.7981785,
+          41.1647495
+        ]
+      },
+      "id": "node/11195704986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11203601756",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4948692,
+          40.8996454
+        ]
+      },
+      "id": "node/11203601756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11974768679",
+        "amenity": "place_of_worship",
+        "denomination": "jehovahs_witness",
+        "name": "Salão do Reino das Testemunhas de Jeová",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.8883785,
+          38.5262691
+        ]
+      },
+      "id": "node/11974768679"
+    }
+  ]
+}
