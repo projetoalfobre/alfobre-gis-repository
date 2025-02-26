@@ -1,0 +1,51 @@
+DO MAPA
+
+DARMC (Atlas of Roman and Medieval Civilization)
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae
+
+DARMC_Medieval_World/Cluniac Monasteries
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=45
+
+DARMC_Medieval_World/Cistercian Monasteries
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=44
+
+DARMC_Medieval_World/Praemonstratensian Monasteries (Ordem Premonstratense)
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=46
+
+DARMC_Medieval_World/Dominican Houses, 1216-1500 CE
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=48
+
+DARMC_Medieval_World/Franciscan Houses, ca. 1300 CE
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=49
+
+Bishoprics ca. 600
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=52
+
+Bishoprics ca. 900
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=53
+
+Bishoprics ca. 1000
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=54
+
+Bishoprics ca. 1200
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=55
+
+Bishoprics ca. 1450
+https://harvard-cga.maps.arcgis.com/home/item.html?id=48a6a8b1ff6648c48c3526836c63eeae&sublayer=56
+
+Ancient Roman Roads
+https://harvard-cga.maps.arcgis.com/home/item.html?id=690e8f1f25b64c4c9a4ed09138cb7eab#
+
+
+
+DOWNLOADS
+Secção > Data Availability
+
+Roman Road Network (version 2008)
+MAPS Scholarly Data Series 2013-5: 
+M McCormick et al. 2013 - Roman Road Network (version 2008) [Shapefile] 
+
+
+Digital Atlas of Dioceses and Ecclesiastical Provinces in Late Medieval Europe (1200-1500)
+https://harvard-cga.maps.arcgis.com/home/item.html?id=7e56376cfb5146e7a9fc50ead52eda38
+https://purl.stanford.edu/rh195hm5975
